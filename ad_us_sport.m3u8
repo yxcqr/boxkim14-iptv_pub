@@ -1,5 +1,5 @@
-#EXTM3U 9016
-#DATE 2023-08-07 08:53
+#EXTM3U 9077
+#DATE 2023-08-07 14:15
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNGV0n2cQ-AkJ3spjREqEr0A/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Arizona-elmonkey.us:25461@D-230512.done
@@ -240,8 +240,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19149/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-gotv.vip:8880@D-230806.done
 http://gotv.vip:8880/victor/mejia/36598
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS GREAT LAKES-hardcoremedia.xyz:80@D-230502.done
@@ -276,8 +274,6 @@ http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/19149/index.m3u8
 http://lucidhosting.xyz:82/wendym/wendy@123/222122
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-mk3gi6qohdjrudj.russtv.net@D-230604.done
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-tv4.live@D-230505.done
 https://tv4.live/api/stream/7398@24hinbox.com/576869019/livetv.epg/bally.sports.great.lakes.us.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-vz2tmkdw.otttv.pw@D-230604.done
@@ -470,8 +466,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19153/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19153/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Midwest-gotv.vip:8880@D-230806.done
 http://gotv.vip:8880/victor/mejia/36601
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS MIDWEST-hardcoremedia.xyz:80@D-230502.done
@@ -496,8 +490,6 @@ http://k4livetv.com:8080/MOISES4/50543/586153
 http://lucidhosting.xyz:82/wendym/wendy@123/222123
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-mk3gi6qohdjrudj.russtv.net@D-230604.done
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19153/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-vz2tmkdw.otttv.pw@D-230604.done
 http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-zc6blhep.rostelekom.xyz@D-230513.done
@@ -656,8 +648,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19152/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9VELUUZWMTRBL/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports North-gotv.vip:8880@D-230806.done
@@ -1102,8 +1092,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19151/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/3Z4H4E9X3XN79G/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230505.done.best.NC
@@ -1284,8 +1272,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19150/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports SUN-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNAPb6-Pn_1fc2lYAm4V_OEE/ts
 #EXTINF:0 group-title="US-BALLY",Bally Sports Sun-gotv.vip:8880@D-230806.done
@@ -1464,6 +1450,36 @@ http://ultratv.one:2095/eBszdU8m/p8uQSGGE/120224
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/296689
 #EXTINF:0 group-title="US-BALLY",Bally Sports Wisconsin US-tv4.live@D-230505.done
 https://tv4.live/api/stream/7398@24hinbox.com/576869019/livetv.epg/fox.sports.wisconsin.us.m3u8
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305166
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305166
 #EXTINF:0 group-title="US-BALLY",SP: USA: Bally Sports Kansas CITY HD-url.linesecurity.cyou:8080@D-230806.done
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46672
 #EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230528.done
@@ -1478,6 +1494,36 @@ http://7go.xyz:8080/rsw8k8qa/vzkcud9n/305167
 http://7go.xyz:8080/wah2ug4c/h0jyad9k/305167
 #EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305167
+#EXTINF:0 group-title="US-BALLY",SP: Usa: Bally Sports New Orleans Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305167
 #EXTINF:0 group-title="US-BALLY",SP: USA: Bally Sports NEW Orleans PLUS HD-url.linesecurity.cyou:8080@D-230806.done
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46673
 #EXTINF:0 group-title="US-BALLY",SP  BALLY SPORTS ARIZONA-xdplayer.tv:8080@D-230806.done
@@ -1624,6 +1670,36 @@ http://lucidhosting.xyz:82/wendym/wendy@123/220416
 http://7go.xyz:8080/JOAOPEDRO/081996350932/305002
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305002
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305002
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS ARIZONA-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159684
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona-premiumultra.xyz:8080@D-230806.done
@@ -1646,6 +1722,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296660
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296660
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296660
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131015.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131015.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona HD-url.linesecurity.cyou:8080@D-230806.done
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46509
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus (A)-lucidhosting.xyz:82@D-230601.done
@@ -1674,6 +1782,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/150613
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/150613
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/150613
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131016.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131016.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402174.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Arizona Plus 2 (A)-lucidhosting.xyz:82@D-230601.done
@@ -1692,6 +1832,36 @@ http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159685
 http://moontools.me:8080/franmujica/v2sJ5r2tyb/1160636
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Cincinnati HD-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/24020
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305003
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305003
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/6463
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-kuchini.site:8080@D-230806.done
@@ -1714,6 +1884,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6463
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/6463
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS DETROIT-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159686
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131017.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131017.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23725
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -1730,6 +1932,36 @@ http://tv.pro-ott.com:25443/live/1RGBQAWT13/A619NO8R2I/141791.ts
 http://1903.full57.us:8000/ibrahimtan49/9FDpxkNSm9GU/144115
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230528.done
 http://7go.xyz:8080/JOAOPEDRO/081996350932/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305168
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305168
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit HD-url.linesecurity.cyou:8080@D-230806.done
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46510
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus (A)-lucidhosting.xyz:82@D-230601.done
@@ -1752,10 +1984,72 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296661
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296661
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296661
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131018.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Detroit Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131018.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191480.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305004
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305004
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296662
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-kuchini.site:8080@D-230806.done
@@ -1778,6 +2072,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296662
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296662
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS FLORIDA-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159687
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131019.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131019.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402177.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida-tv.pro-ott.com:25443@D-230605.done
@@ -1838,10 +2164,72 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296664
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296664
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296664
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131020.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131020.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Florida Plus-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402178.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lake -nocable.cc:8080@D-230511.done
 http://nocable.cc:8080/turtle/turtle/139272
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305005
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305005
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296665
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-kuchini.site:8080@D-230806.done
@@ -1862,6 +2250,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296665
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296665
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296665
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131021.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131021.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402179.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Great Lakes-tv.pro-ott.com:25443@D-230605.done
@@ -1884,6 +2304,36 @@ http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46512
 http://iptvh2o.com:2082/denis12/denis21/239704
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191482.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305006
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305006
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296666
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-kuchini.site:8080@D-230806.done
@@ -1904,6 +2354,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296666
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296666
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296666
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131022.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131022.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402180.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Indiana-tv.pro-ott.com:25443@D-230806.done
@@ -1922,6 +2404,36 @@ http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46513
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191483.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305007
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305007
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296667
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-kuchini.site:8080@D-230806.done
@@ -1942,6 +2454,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296667
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296667
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296667
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131029.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131029.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402181.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Kansas City-tv.pro-ott.com:25443@D-230605.done
@@ -1966,6 +2510,34 @@ http://nocable.cc:8080/turtle/turtle/66795
 http://tvmate.icu:8080/lilly1/lilly1/66795
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191484.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305008
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305008
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/58557
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-kuchini.site:8080@D-230806.done
@@ -1988,6 +2560,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/58557
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/58557
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS MIDWEST-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159688
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131030.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131030.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23724
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -2028,6 +2632,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296669
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296669
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296669
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131031.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131031.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest HD-url.linesecurity.cyou:8080@D-230806.done
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46515
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-iptvmedia.live:8080@D-230507.done
@@ -2050,6 +2686,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296670
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296670
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296670
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131032.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131032.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Midwest Plus-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402184.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Netbase-iptvmedia.live:8080@D-230507.done
@@ -2074,6 +2742,36 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296671
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296671
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305009
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305009
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296672
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-kuchini.site:8080@D-230806.done
@@ -2096,6 +2794,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296672
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296672
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS NEW ORLEANS-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159689
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131033.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131033.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402185.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports New Orleans-tv.pro-ott.com:25443@D-230605.done
@@ -2116,6 +2846,36 @@ http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46516
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191487.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305010
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305010
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/2324
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North-kuchini.site:8080@D-230806.done
@@ -2138,6 +2898,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2324
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/2324
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS NORTH-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159690
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131034.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131034.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23723
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -2162,6 +2954,36 @@ http://1903.full57.us:8000/ibrahimtan49/9FDpxkNSm9GU/144116
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46517
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191489.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305011
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305011
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296674
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-kuchini.site:8080@D-230806.done
@@ -2182,6 +3004,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296674
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296674
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296674
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131035.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131035.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North Plus-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402187.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports North PLUS HD-url.linesecurity.cyou:8080@D-230806.done
@@ -2190,6 +3044,36 @@ http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46518
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191490.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230604.done
 http://7go.xyz:8080/zy6uw888/9btns6en/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305012
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305012
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296675
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-kuchini.site:8080@D-230806.done
@@ -2212,6 +3096,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296675
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296675
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS OHIO-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159692
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131023.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131023.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23722
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -2276,6 +3192,38 @@ http://1903.full57.us:8000/ibrahimtan49/9FDpxkNSm9GU/144117
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46519
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/296678
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131024.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131024.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-tv.pro-ott.com:25443@D-230605.done
 http://tv.pro-ott.com:25443/live/V5AQQeqJW3Y1/RfikXUR1Pn/141802.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Ohio Plus-tv.pro-ott.com:25443@D-230806.done
@@ -2288,6 +3236,36 @@ http://tv.pro-ott.com:25443/live/compte73763/HANUQULFFB/141802.ts
 http://tv.pro-ott.com:25443/live/1RGBQAWT13/A619NO8R2I/141802.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191492.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305013
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305013
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS OKLAHOMA-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/235554
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Oklahoma-kuchini.site:8080@D-230806.done
@@ -2330,6 +3308,34 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/418238
 http://evolved.host:8080/lou99/c8DtRWieta/418238
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191493.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305014
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305014
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/3361
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-kuchini.site:8080@D-230806.done
@@ -2352,6 +3358,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3361
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/3361
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS SAN DIEGO-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159693
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131025.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131025.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23719
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -2394,6 +3432,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296680
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296680
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296680
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131026.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131026.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports San Diego Plus-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402195.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-iptvmedia.live:8080@D-230507.done
@@ -2418,6 +3488,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296681
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296681
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS SOCAL-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159694
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131027.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131027.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402196.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal-tv.pro-ott.com:25443@D-230605.done
@@ -2452,8 +3554,70 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296682
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296682
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296682
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131028.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports SoCal Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131028.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports South-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191495.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305015
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports South-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305015
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports South-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/277374
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports South-kuchini.site:8080@D-230806.done
@@ -2490,6 +3654,36 @@ http://tv.pro-ott.com:25443/live/kongtito/BPRF06M1L5/141806.ts
 http://tv.pro-ott.com:25443/live/compte73763/HANUQULFFB/141806.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports South-tv.pro-ott.com:25443@D-230806.done
 http://tv.pro-ott.com:25443/live/1RGBQAWT13/A619NO8R2I/141806.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305016
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305016
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/outputofflinechecker/pass/82301
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-kuchini.site:8080@D-230806.done
@@ -2510,6 +3704,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/82301
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/82301
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS SOUTHEAST-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159695
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131036.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131036.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402199.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southeast-tv.pro-ott.com:25443@D-230605.done
@@ -2530,6 +3756,36 @@ http://1903.full57.us:8000/ibrahimtan49/9FDpxkNSm9GU/144119
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/46522
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-4578.cdn-77.com:80@D-230528.done
 http://4578.cdn-77.com:80/live/ysfbzkrt/8CrPPPEevq/191497.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/305017
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305017
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-evolved.host:8080@D-230528.done.NC
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/418245
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-evolved.host:8080@D-230604.done.NC
@@ -2554,6 +3810,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/3364
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3364
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/3364
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131037.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131037.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-iptvmedia.live:8080@D-230507.done
 http://iptvmedia.live:8080/outputofflinechecker/pass/3362
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-kuchini.site:8080@D-230806.done
@@ -2574,6 +3862,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/3362
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3362
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/3362
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131038.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131038.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402201.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Alternate HD-1903.full57.us:8000@D-230806.done
@@ -2598,6 +3918,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296685
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296685
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296685
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131039.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131039.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-tv.pro-ott.com:25443@D-230605.done
 http://tv.pro-ott.com:25443/live/V5AQQeqJW3Y1/RfikXUR1Pn/141808.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Southwest Plus-tv.pro-ott.com:25443@D-230806.done
@@ -2634,6 +3986,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2325
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/2325
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS SUN-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159682
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131040.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131040.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports SUN-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23717
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -2672,6 +4056,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296686
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296686
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296686
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131041.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131041.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Sun Plus-s264.servers.darkside-iptv.co:8080@D-230516.done
 http://s264.servers.darkside-iptv.co:8080/dfSzRBuQqe/kYgPCznNND/402204.ts
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS TENNESSEE-pandar.plus:25461@D-230806.done
@@ -2704,6 +4120,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3367
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/3367
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS WEST-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159696
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131042.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports West-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131042.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports West-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23716
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports West-s264.servers.darkside-iptv.co:8080@D-230516.done
@@ -2770,6 +4218,38 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295668
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/295668
 #EXTINF:0 group-title="US-BALLY",US-BALLY SPORTS WISCONSIN-pandar.plus:25461@D-230806.done
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/159697
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131043.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131043.ts
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/23715
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin-tv.pro-ott.com:25443@D-230605.done
@@ -2810,6 +4290,38 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296689
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296689
 #EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296689
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/paulo1/B8619MnocF/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigorecife2/rodrigo123/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/simone1600/si1600/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/bola123/123bola/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/rodrigomarani/5050800/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/listaeudes/sualista/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/linhares/123456/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Mazinho/eliomar/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/tiaocardoso/RAY4xlkYxV/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/XO2816/AP8661/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/0288975856/52274/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/gui1020/102030/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Henrique@/Henrique@2020/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Maurohc3/Senhanova122/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/deumar/deumar/131044.ts
+#EXTINF:0 group-title="US-BALLY",US-Bally Sports Wisconsin Plus-pfsv.io:80@D-230807.done
+http://pfsv.io:80/Felipe4432/Eduardo4553/131044.ts
 #EXTINF:0 group-title="US-BALLY",US714:Bally Sports Detroit-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/1mmk040107/48552422/29476
 #EXTINF:0 group-title="US-BALLY",US714:Bally Sports Detroit-ae2.aatvbox.club:8880@D-230510.done
@@ -3298,16 +4810,22 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/111488
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKUygcwiqmI_LF90XBFlxaic/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448375
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108784
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273965
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA HD-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/140790
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229030.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94412
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/329635
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229031.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS ARIZONA PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94413
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports Detroit*-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4734
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS DETROIT-daleplaypro.com:8080@D-230806.done
@@ -3316,10 +4834,14 @@ http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228301
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228301
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS DETROIT-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKVcH5oXrlf2tAlm9BQ8UEZQ/ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS DETROIT-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108785
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS DETROIT-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273966
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS DETROIT HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229032.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS DETROIT HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94414
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS  DETROIT PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273967
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS  DETROIT PLUS HD-almanya505.com:80@D-230806.done
@@ -3332,6 +4854,8 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/111493
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKQBYpNoNmcJfnBQwSJGjWxY/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS FLORIDA-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448377
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS FLORIDA-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108786
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports Florida-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4735
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS FLORIDA-streamgo.vip:8008@D-230806.done
@@ -3340,14 +4864,20 @@ http://streamgo.vip:8008/IPTV22/PUERTO2022/273969
 http://raw.bitnode.pm:81/giorgi/giorgi/147232
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS FLORIDA HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229034.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS FLORIDA HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94416
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS GREAT LAKES-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228302
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS GREAT LAKES-daleplaytv.vip:8080@D-230806.done
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228302
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS GREAT LAKES-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKetsF3Bj2KK3R70VK7vQxzM/ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS GREAT LAKES-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108787
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS GREAT LAKES HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229035.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS GREAT LAKES HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94417
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports HD (Arizona)-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/146587
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports HD (Carolinas)-awoxiptv.xyz:8080@D-230806.done
@@ -3420,12 +4950,18 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228303
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKeynEk6SQoHjY9WSJQx2BiE/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448379
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108788
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273970
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229036.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94418
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229037.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS INDIANA PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94419
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS KANSAS CITY-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228304
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS KANSAS CITY-daleplaytv.vip:8080@D-230806.done
@@ -3434,6 +4970,8 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228304
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKZ-GwQi2CBtyRkEXM_F2ThU/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS KANSAS CITY-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448380
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS KANSAS CITY-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108789
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports Kansas City-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4738
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS  KANSAS CITY-streamgo.vip:8008@D-230806.done
@@ -3442,6 +4980,10 @@ http://streamgo.vip:8008/IPTV22/PUERTO2022/273968
 http://almanya505.com:80/live/urar308/14092021g.s/229038.ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS  KANSAS CITY HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229039.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS KANSAS CITY HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94420
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS  KANSAS CITY HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94421
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS KANSAS CITY PLUS FHD-raw.bitnode.pm:81@D-230605.done
 http://raw.bitnode.pm:81/giorgi/giorgi/300541
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST-daleplaypro.com:8080@D-230806.done
@@ -3450,16 +4992,22 @@ http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228305
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228305
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKW4jOOuI0cRf_U55PCPQmjg/ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108790
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports MidWest-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4739
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273971
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229040.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94422
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273972
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229041.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS MIDWEST PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94423
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228306
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS-daleplaytv.vip:8080@D-230806.done
@@ -3468,16 +5016,22 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228306
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKS8y7heWiG8rZ7_os0MvpFA/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448382
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108791
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273973
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229042.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94424
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273974
 #EXTINF:0 group-title="US-BALLY",USA : BALLY SPORTS NEW ORLEANS PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/329636
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229043.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NEW ORLEANS PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94425
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228307
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH-daleplaytv.vip:8080@D-230806.done
@@ -3486,14 +5040,20 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228307
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKVnmF47JmblYYSGybPleOOA/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448383
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108792
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229044.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94426
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports North Plus-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4742
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273975
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229045.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS NORTH PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94427
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228308
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO-daleplaytv.vip:8080@D-230806.done
@@ -3502,10 +5062,14 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228308
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKUEntNyIV8FmRWZZwdL0SKQ/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448384
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108793
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273976
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229046.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OHIO HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94428
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA (FSSOK1H)-raw.bitnode.pm:81@D-230603.done
 http://raw.bitnode.pm:81/giorgi/giorgi/147238
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA-daleplaypro.com:8080@D-230806.done
@@ -3516,10 +5080,16 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228309
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKdlL4AnlLrS85-DR_F0IWng/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448385
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108794
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229047.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94430
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229048.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS OKLAHOMA PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94431
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228310
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO-daleplaytv.vip:8080@D-230806.done
@@ -3528,12 +5098,16 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228310
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKQLxCv7qcFw06UJy5GHzYdY/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448386
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108795
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273977
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273978
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229050.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SAN DIEGO PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94433
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOCAL-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228311
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOCAL-daleplaytv.vip:8080@D-230806.done
@@ -3542,6 +5116,8 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228311
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKe8TlFsaYc5Sm4DWN5p_Q5A/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOCAL-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448387
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOCAL-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108796
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports Socal-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4746
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOCAL-streamgo.vip:8008@D-230806.done
@@ -3554,6 +5130,8 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228312
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKeL8tqG6moly2eDqoq0A1PY/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448388
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108797
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273980
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST-daleplaypro.com:8080@D-230806.done
@@ -3564,18 +5142,26 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228313
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKb835FvqAK7gaCJZuRiKtnQ/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448389
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108798
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273982
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/329640
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229053.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHEAST HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94437
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229051.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94435
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273981
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229052.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTH PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94436
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228314
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST-daleplaytv.vip:8080@D-230806.done
@@ -3584,16 +5170,52 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228314
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKUP4w6oS-Fg_2zaz1MrPkvs/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448390
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108799
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports SouthWest-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4749
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273983
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229054.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94438
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/329641
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229055.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SOUTHWEST PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94439
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/zxb5pZsv/bLdPEYR6/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02roygerio/holpe3290/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/02oq8aw0/9wg8xqwy/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/304989
+#EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/004o8x08/nla614ks/304989
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/111516
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN-daleplaytv.vip:8080@D-230806.done
@@ -3602,6 +5224,8 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/111516
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKa_adAT12Za-MBkGSVByH1Y/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448391
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108800
 #EXTINF:0 group-title="US-BALLY",USA: Bally Sports Sun-srvmain02.cctvhub.live:2087@D-230604.done
 https://srvmain02.cctvhub.live:2087/QjFcyzsOHi/icBSrdD7EL/4750
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN-streamgo.vip:8008@D-230806.done
@@ -3610,18 +5234,24 @@ http://streamgo.vip:8008/IPTV22/PUERTO2022/273984
 http://31.42.185.216:8000/GregorioS/Santos52/140785
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229056.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS SUN HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94440
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228315
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST-daleplaytv.vip:8080@D-230806.done
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228315
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKSpp4_xoU7DO0hC06Qy5F20/ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108801
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273985
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST HD-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/140782
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229057.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WEST HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94441
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN-daleplaypro.com:8080@D-230806.done
 http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/228316
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN-daleplaytv.vip:8080@D-230806.done
@@ -3630,14 +5260,20 @@ http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/228316
 http://dnslivetv.online:80/play/R9ZWuqUBKUBjO5E1Nn7EKWgUtLeOYs4-JjZ3L7rS5LM/ts
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN-k4livetv.com:8080@D-230516.done
 http://k4livetv.com:8080/MOISES4/50543/448393
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/108802
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273986
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229058.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94442
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN PLUS-streamgo.vip:8008@D-230806.done
 http://streamgo.vip:8008/IPTV22/PUERTO2022/273987
 #EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN PLUS HD-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229059.ts
+#EXTINF:0 group-title="US-BALLY",USA: BALLY SPORTS WISCONSIN PLUS HD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/94443
 #EXTINF:0 group-title="US-BALLY",USA: VIP BALLY SPORTS FLORIDA-vipchanoen.top:8080@D-230604.done
 http://vipchanoen.top:8080/live/VIP0167168517643003/61685176430/5863.ts
 #EXTINF:0 group-title="US-BALLY",USA  BALLY Sports Arizona-4k.boxip.org:8080@D-230525.done
@@ -4612,6 +6248,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/255029
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/255029
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/255029
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/255029
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/61777
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports-premiumultra.xyz:8080@D-230715.done
@@ -4670,6 +6308,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/255030
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/255030
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/255030
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports 1-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/255030
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/61778
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 1-turkiye741nx.xyz:80@D-230722.done
@@ -4722,6 +6362,8 @@ http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151022
 http://moods42.com:80/P1GNSA32/MXnmDbz40I/204804
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 2-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/134048
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports 2-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/255031
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 2-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/61779
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 2-raceipt.ddns.net:8000@D-230706.done
@@ -4892,6 +6534,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/255032
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/255032
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 4-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/255032
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports 4-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/255032
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 4-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/61781
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports 4-raceipt.ddns.net:8000@D-230706.done
@@ -4950,6 +6594,8 @@ http://loadbl2.online:80/14280613/40895116/1583609
 http://loadbl2.online:80/22897764/50595081/1583609
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports 4 HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/46073956/39208015/1583609
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 4 HD¹-logincp.top:80@D-230807.done
+http://logincp.top:80/ronaldo3519748/38691639/142840
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 4 HD-portal.magic8kip.tv:80@D-230725.done
 http://portal.magic8kip.tv:80/admin123/admin123/83954
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS 4 HD-ss123.pro:80@D-230710.done
@@ -5408,6 +7054,8 @@ http://lista.hdtvsp2.xyz:80/DanielFF2121/2121danielff/142839
 http://loadbl2.online:80/22897764/50595081/1583613
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/46073956/39208015/1583613
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS HD¹-logincp.top:80@D-230807.done
+http://logincp.top:80/ronaldo3519748/38691639/142839
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS HD-portal.magic8kip.tv:80@D-230725.done
 http://portal.magic8kip.tv:80/admin123/admin123/45611
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports HD-premiumultra.xyz:8080@D-230715.done
@@ -5498,6 +7146,8 @@ http://66.70.177.156:25461/nikkimom/091922/179516
 http://66.70.177.156:25461/barjohnsn/1234/179516
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS LA LIGA¹-lista.hdtvsp2.xyz:80@D-230730.done
 http://lista.hdtvsp2.xyz:80/DanielFF2121/2121danielff/142837
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS LA LIGA¹-logincp.top:80@D-230807.done
+http://logincp.top:80/ronaldo3519748/38691639/142837
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS LA LIGA¹-tv.logincp.top:80@D-230624.done
 http://tv.logincp.top:80/2022joell/20brotherdojorel22/142837
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS LA LIGA¹-tv.logincp.top:80@D-230624.done
@@ -5632,6 +7282,8 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296690
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296690
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports n-playhispano.org:8080@D-230716.done
 http://playhispano.org:8080/firesp11/2023C/255037
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports n-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/255037
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports n-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/61785
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports n-raceipt.ddns.net:8000@D-230706.done
@@ -5744,6 +7396,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/255038
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/255038
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports USA-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/255038
+#EXTINF:0 group-title="US-BEIN",US-beIN Sports USA-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/255038
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports USA-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/61786
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports USA-raceipt.ddns.net:8000@D-230706.done
@@ -5766,6 +7420,22 @@ http://372080500731444688.ot0711.xyz:80/play/vi0208715/Ht3MPB8Rxd3/444688.ts
 http://551539433737444688.ofio.xyz:80/play/Serte/B6eSnJGscx/444688.ts
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS USA HD-985038061475444688.ot0711.xyz:80@D-230723.done
 http://985038061475444688.ot0711.xyz:80/play/vi1010307/2004025452/444688.ts
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/11milla/teste5714/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/102030405060/908070605040/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/213rdxhi14/gyvclf60ej/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/2slb136/9vdo9d9/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/316002769/264974957/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/4gzjua0nyh/bd04mpd32g/139610
+#EXTINF:0 group-title="US-BEIN",US-Bein Sports USA HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/526196942/409342057/139610
 #EXTINF:0 group-title="US-BEIN",US-beIN Sports USA HD-fast.bounceme.net:8080@D-230703.done
 http://fast.bounceme.net:8080/live/nsCDexFcpy/rr7FEd7f9d/17905.ts
 #EXTINF:0 group-title="US-BEIN",US-BEIN Sports USA HD-loadbl2.online:80@D-230706.done
@@ -5852,6 +7522,8 @@ http://atg100.xyz:80/C9AAF533930F737/mXJ1gh7Hw7/174567
 http://ip365.cx:80/8432671147/7922665246/254741
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD¹-lista.hdtvsp2.xyz:80@D-230730.done
 http://lista.hdtvsp2.xyz:80/DanielFF2121/2121danielff/142838
+#EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD¹-logincp.top:80@D-230807.done
+http://logincp.top:80/ronaldo3519748/38691639/142838
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD¹-tv.logincp.top:80@D-230624.done
 http://tv.logincp.top:80/2022joell/20brotherdojorel22/142838
 #EXTINF:0 group-title="US-BEIN",US-BEIN SPORTS XTRA HD¹-tv.logincp.top:80@D-230624.done
@@ -7894,6 +9566,12 @@ http://7go.xyz:8080/1tuvw9xs/kxy9po85/305026
 http://7go.xyz:8080/2326367/323448/305026
 #EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305026
+#EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305026
+#EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/305026
+#EXTINF:0 group-title="US-ESPN",US-Espn 2 HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305026
 #EXTINF:0 group-title="US-ESPN",US- ESPN 2 HD-985038061475518023.ot0711.xyz:80@D-230723.done
 http://985038061475518023.ot0711.xyz:80/play/vi1010307/2004025452/518023.ts
 #EXTINF:0 group-title="US-ESPN",US-ESPN 2 HD-a36m.net:8080@D-230704.done
@@ -8148,6 +9826,12 @@ http://7go.xyz:8080/21992427199/aswexcd5932/305027
 http://7go.xyz:8080/21041987/21041987/305027
 #EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/2326367/323448/305027
+#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305027
+#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305027
+#EXTINF:0 group-title="US-ESPN",US-Espn 3 HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305027
 #EXTINF:0 group-title="US-ESPN",US-ESPN 3 HD-loadbl2.online:80@D-230715.done
 http://loadbl2.online:80/22897764/50595081/1583640
 #EXTINF:0 group-title="US-ESPN",US-ESPN 3 HD-loadbl2.online:80@D-230715.done
@@ -9190,6 +10874,12 @@ http://7go.xyz:8080/21992427199/aswexcd5932/305034
 http://7go.xyz:8080/21041987/21041987/305034
 #EXTINF:0 group-title="US-ESPN",US-Espn U HD-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/2326367/323448/305034
+#EXTINF:0 group-title="US-ESPN",US-Espn U HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305034
+#EXTINF:0 group-title="US-ESPN",US-Espn U HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305034
+#EXTINF:0 group-title="US-ESPN",US-Espn U HD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305034
 #EXTINF:0 group-title="US-ESPN",US- ESPN U HD-985038061475508551.ot0711.xyz:80@D-230723.done
 http://985038061475508551.ot0711.xyz:80/play/vi1010307/2004025452/508551.ts
 #EXTINF:0 group-title="US-ESPN",US-ESPN U  HD-adamnk.me:8080@D-230706.done
@@ -9200,6 +10890,8 @@ http://adamnk.me:8080/negritaC69/6dN328ThKA/28835
 http://alcapone1.com:8080/Mario/123456/29588
 #EXTINF:0 group-title="US-ESPN",US- ESPN U  HD-atg100.xyz:80@D-230803.done
 http://atg100.xyz:80/C9AAF533930F737/mXJ1gh7Hw7/71951
+#EXTINF:0 group-title="US-ESPN",US-ESPN U HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139639
 #EXTINF:0 group-title="US-ESPN",US-ESPN U HD-clientbox.tv:80@D-230607.done.NC
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/13938
 #EXTINF:0 group-title="US-ESPN",US-ESPN U HD-domainame.lg.ua:8080@D-230803.done
@@ -9656,6 +11348,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/86727
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/86727
 #EXTINF:0 group-title="US-ESPN",USA ACC ESPN HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/86727
+#EXTINF:0 group-title="US-ESPN",USA ACC ESPN HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86727
 #EXTINF:0 group-title="US-ESPN",USA  ESPN 1 (HD)-watch-myjokertv.xyz:8080@D-230728.done
 http://watch-myjokertv.xyz:8080/heffy51/morris50/323447
 #EXTINF:0 group-title="US-ESPN",USA  ESPN 1 (SD)-watch-myjokertv.xyz:8080@D-230728.done
@@ -9710,6 +11404,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/86729
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/86729
 #EXTINF:0 group-title="US-ESPN",USA ESPN 2 HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/86729
+#EXTINF:0 group-title="US-ESPN",USA ESPN 2 HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86729
 #EXTINF:0 group-title="US-ESPN",USA  ESPN 2ⓧ HD-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/11259
 #EXTINF:0 group-title="US-ESPN",USA ESPN 2 LHD-cdn.erost.cc:8080@D-230717.done
@@ -9830,6 +11526,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/86730
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/86730
 #EXTINF:0 group-title="US-ESPN",USA ESPN HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/86730
+#EXTINF:0 group-title="US-ESPN",USA ESPN HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86730
 #EXTINF:0 group-title="US-ESPN",USA ESPN HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/220406.ts
 #EXTINF:0 group-title="US-ESPN",USA  ESPN HD OPC 2-ok4.club:25461@D-230601.done
@@ -9890,6 +11588,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/163511
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/163511
 #EXTINF:0 group-title="US-ESPN",USA  ESPN SD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/163511
+#EXTINF:0 group-title="US-ESPN",USA  ESPN SD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/163511
 #EXTINF:0 group-title="US-ESPN",USA ESPN SD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/177207.ts
 #EXTINF:0 group-title="US-ESPN",USA  ESPN  SEC NETWORK HD-flowfhd.xyz:8080@D-230621.done
@@ -9912,6 +11612,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/86776
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/86776
 #EXTINF:0 group-title="US-ESPN",USA  ESPN  SEC NETWORK HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/86776
+#EXTINF:0 group-title="US-ESPN",USA  ESPN  SEC NETWORK HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86776
 #EXTINF:0 group-title="US-ESPN",USA ESPN SEC NETWORK HD-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/220411.ts
 #EXTINF:0 group-title="US-ESPN",USA  ESPN SPANISH 3 HD-casaplay.cf:8080@D-230717.done
@@ -10002,6 +11704,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/86755
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/86755
 #EXTINF:0 group-title="US-ESPN",USA ESPN U HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/86755
+#EXTINF:0 group-title="US-ESPN",USA ESPN U HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86755
 #EXTINF:0 group-title="US-ESPN",USA  ESPN Uⓧ HD-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/1208
 #EXTINF:0 group-title="US-ESPN",USA ESPN U HD-xtremeport.com:80@D-230717.done
@@ -10038,6 +11742,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/86728
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/86728
 #EXTINF:0 group-title="US-ESPN",USA ESPN XTRA HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/86728
+#EXTINF:0 group-title="US-ESPN",USA ESPN XTRA HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86728
 #EXTINF:0 group-title="US-ESPN",USA  Sport: ESPN ACC Network HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/44483.m3u8
 #EXTINF:0 group-title="US-ESPN",USA  Sport: ESPN ACC Network HD-ghostiptv.vip:80@D-230718.done
@@ -13102,6 +14808,8 @@ http://31.42.184.159:2082/8wx6u4Sa2smG/UGZd7Q6znCYc/20923
 http://adamnk.me:8080/negritaC69/6dN328ThKA/28714
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 ARIZONA-br2.me:80@D-230620.done
 http://br2.me:80/cid8114/5628114/10045427
+#EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Arizona-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139679
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Arizona-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/20923
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Arizona-myserveriptv.com:2082@D-230712.done
@@ -13276,10 +14984,16 @@ http://7go.xyz:8080/21992427199/aswexcd5932/305062
 http://7go.xyz:8080/21041987/21041987/305062
 #EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Bay Area-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/2326367/323448/305062
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Bay Area-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305062
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Bay Area-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305062
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Bay Area-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/28713
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 BAY AREA-br2.me:80@D-230620.done
 http://br2.me:80/cid8114/5628114/10045426
+#EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Bay Area-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139680
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Bay Area-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/18007
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Bay Area-myserveriptv.com:2082@D-230712.done
@@ -13472,6 +15186,14 @@ http://7go.xyz:8080/21992427199/aswexcd5932/305063
 http://7go.xyz:8080/21041987/21041987/305063
 #EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Los Angeles-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/2326367/323448/305063
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Los Angeles-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305063
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Los Angeles-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305063
+#EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Los Angeles-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139681
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Los Angeles-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/146917
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 LOS ANGELES-daleplaypro.com:8080@D-230726.done
 http://daleplaypro.com:8080/Brisa01/brisa190/227515
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 LOS ANGELES-daleplaypro.com:8080@D-230806.done
@@ -13758,6 +15480,12 @@ http://7go.xyz:8080/21992427199/aswexcd5932/305064
 http://7go.xyz:8080/21041987/21041987/305064
 #EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Oregon-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/2326367/323448/305064
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Oregon-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305064
+#EXTINF:0 group-title="US-Tennis-Pac",US-Pac-12 Oregon-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305064
+#EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Oregon-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139682
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Oregon-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/16331
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Oregon-myserveriptv.com:2082@D-230712.done
@@ -13798,6 +15526,8 @@ http://dns.p2.wtf:80/igorvictal/72fsy37/154559
 http://dns.p2.wtf:80/igorvictal/72fsy37/151134
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Washington-31.42.184.159:2082@D-230630.done
 http://31.42.184.159:2082/8wx6u4Sa2smG/UGZd7Q6znCYc/16315
+#EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Washington-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139683
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Washington-myserveriptv.com:2082@D-230712.done
 http://myserveriptv.com:2082/Khaledah12/Khaledah21/16315
 #EXTINF:0 group-title="US-Tennis-Pac",US-PAC-12 Washington-myserveriptv.com:2082@D-230712.done
@@ -14006,6 +15736,12 @@ http://7go.xyz:8080/21041987/21041987/305078
 http://7go.xyz:8080/2326367/323448/305078
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/02oq8aw0/9wg8xqwy/305078
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305078
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/gameleira/mrtv14xx/305078
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305078
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-aanax.com:8080@D-230728.done
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2275
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel-aanax.com:8080@D-230728.done
@@ -14240,6 +15976,22 @@ http://alcapone1.com:8080/Mario/123456/29675
 http://atg100.xyz:80/C9AAF533930F737/mXJ1gh7Hw7/71954
 #EXTINF:0 group-title="US-Tennis-Pac",US-TENNIS CHANNEL HD-br2.me:80@D-230620.done
 http://br2.me:80/cid8114/5628114/4498
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/11milla/teste5714/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/102030405060/908070605040/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/213rdxhi14/gyvclf60ej/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/2slb136/9vdo9d9/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/316002769/264974957/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/4gzjua0nyh/bd04mpd32g/139696
+#EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/526196942/409342057/139696
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-clientbox.tv:80@D-230607.done.NC
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/10941
 #EXTINF:0 group-title="US-Tennis-Pac",US-Tennis Channel HD-iptv7.premium-stv.com:2082@D-230806.done
@@ -16110,6 +17862,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/170276
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/170276
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel Plus 2-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/170276
+#EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel Plus 2-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/170276
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel Plus 2ⓧ-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/129421
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel Plus 2 HD-2678ydr.xyz:80@D-230723.done
@@ -16278,6 +18032,8 @@ http://playhispano.org:8080/rogeraguilar/roger2022/163485
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/163485
 #EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel SD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/userlw/led5120/163485
+#EXTINF:0 group-title="US-Tennis-Pac",USA  Tennis Channel SD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/163485
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel UHD-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/69396
 #EXTINF:0 group-title="US-Tennis-Pac",USA Tennis Channel UHD-cdn.erost.cc:8080@D-230717.done
