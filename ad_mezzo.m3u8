@@ -1,5 +1,5 @@
-#EXTM3U 8245
-#DATE 2023-08-07 07:59
+#EXTM3U 7435
+#DATE 2023-08-07 13:52
 #EXTINF:0 group-title="Mezzo",(PT) MEZZO-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/15547
 #EXTINF:0 group-title="Mezzo",(PT) MEZZO-moontools.me:8080@D-230328.done.best
@@ -558,6 +558,8 @@ http://line.premiumpowers.net:80/10/1234567/506490
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/506490
 #EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-mag.gofast-tv.me:80@D-230718.done
 http://mag.gofast-tv.me:80/Abderrahim/Abderrahim/506490
+#EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-medotv.nl:8000@D-230807.done
+http://medotv.nl:8000/ataa/caBeFNgbFaZN/108663
 #EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/164023
 #EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-ottsansat.org:25461@D-230714.done
@@ -1212,8 +1214,6 @@ http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/707/index.m3u8
 http://57bxfm8j.otttv.pw/iptv/WEP3WXHWQWVDQ4/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-5fbe6188.rostelekom.xyz@D-230630.done
 http://5fbe6188.rostelekom.xyz/iptv/HQR3GUK42G4AUP/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-67e4a403.kazaktelekom.com@D-230627.done
-http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-69c5e778.edemist.com@D-230726.done
 http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-7497611a.edmonst.net@D-230705.done
@@ -1240,10 +1240,6 @@ http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/707/index.m3u8
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-8fdcf128.cbilant.com@D-230629.done
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-8v2it3bs.akciatv.ru@D-230722.done
-http://8v2it3bs.akciatv.ru/iptv/BX4S7799FRNUAC/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-908e3c5e.rossteleccom.net@D-230718.done
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-92a50216.megogo.xyz@D-230630.done
@@ -1252,8 +1248,6 @@ http://92a50216.megogo.xyz/iptv/P4RNBR743MCV26/707/index.m3u8
 http://92a50216.megogo.xyz/iptv/LRC9AA6PDRQA28/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-9gvb3ezf.rostelekom.xyz@D-230626.done
-http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-9i1adhbe.akciatv.ru@D-230721.done
 http://9i1adhbe.akciatv.ru/iptv/SEM832XUCHRGWB/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-9zxma7fc.megatv.fun@D-230719.done
@@ -1338,8 +1332,6 @@ https://cdntv.online/high/wcpkzdjxf2/491.m3u8
 http://cdntv.online/high/6bvy42tizr/491.m3u8
 #EXTINF:0 group-title="Mezzo", Mezzo-cdntv.online@D-230719.done
 https://cdntv.online/high/6bvy42tizr/491.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-cef23ac9.rossteleccom.net@D-230720.done
-http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-ch01.spr24.net@D-230626.done
 http://ch01.spr24.net/22902/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0 group-title="Mezzo",Mezzo-ch01.spr24.net@D-230719.done
@@ -1388,12 +1380,8 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/707/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-czrb8vng.ottclub.xyz@D-230626.done
 http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-czrb8vng.ottclub.xyz@D-230626.done
-http://czrb8vng.ottclub.xyz/iptv/KHPB6HF3K44YC6/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d09c8a6a.akadatel.com@D-230712.done
 http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d0cf70eb.rostelekom.xyz@D-230629.done
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d1525871.akadatel.com@D-230803.done
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -1446,8 +1434,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/707/index.
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YKTL84D2R2E5QL/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
@@ -1560,8 +1546,6 @@ http://friiptv.com:8080/49172913712Whatsap/8NKwHnw2dq/23125
 http://friiptv.com:8080/olsjoni/123/23125
 #EXTINF:0 group-title="Mezzo",MEZZO-friiptv.com:8080@D-230629.done
 http://friiptv.com:8080/NezirhhaxhajAh/H3RxmvtfWm3Z/23125
-#EXTINF:0 group-title="Mezzo",Mezzo-germany.amazzin.pw@D-230726.done
-http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-hcatg4m7.ottclub.xyz@D-230630.done
@@ -1636,8 +1620,6 @@ http://kldiupbm.ottclub.xyz/iptv/DGC8Z8FH6DB2KU/707/index.m3u8
 http://kuchini.site:8080/multi6741/ab72059e/5355
 #EXTINF:0 group-title="Mezzo",Mezzo-kuchini.site:8080@D-230727.done
 http://kuchini.site:8080/35626b07/3985cda3/5355
-#EXTINF:0 group-title="Mezzo",Mezzo-kv3z7bac.russtv.net@D-230712.done
-http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-lili2237.ottrast.com@D-230804.done
 http://lili2237.ottrast.com/iptv/PL22YWHB7VBFML/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-lumaca.talumagishop.de:8000@D-230505.done
@@ -1646,8 +1628,6 @@ http://lumaca.talumagishop.de:8000/HZQRgraCBFui/QSaBB67HRjWy/46878
 http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/46878
 #EXTINF:0 group-title="Mezzo",MEZZO-lumaca.talumagishop.de:8000@D-230714.done
 http://lumaca.talumagishop.de:8000/BR2d6MP3KM/PRVce6WZnr/71809
-#EXTINF:0 group-title="Mezzo",Mezzo-m89szyjf.akciatv.ru@D-230724.done
-http://m89szyjf.akciatv.ru/iptv/ESZ3S8YXEWM7S3/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO-mastersrv.m3srv.top:8080@D-230722.done
 http://mastersrv.m3srv.top:8080/Jorgemagano/jfervwrhfk/97
 #EXTINF:0 group-title="Mezzo",MEZZO-mastersrv.m3srv.top:8080@D-230730.done
@@ -1656,8 +1636,6 @@ http://mastersrv.m3srv.top:8080/Sergioguerra/Lb3ImaW1Fluy8c/97
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-n4ezmpwd.russtv.net@D-230625.done
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-nl01.spr24.net@D-230509.done
 https://nl01.spr24.net/22902/mpegts?token=brm93nV8tUcCAN
 #EXTINF:0 group-title="Mezzo",Mezzo-nl01.spr24.net@D-230626.done
@@ -1668,14 +1646,10 @@ https://nl01.spr24.net/22902/mpegts?token=6NKtDLCbKfZKiQ
 http://nl01.spr24.net/22902/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0 group-title="Mezzo",Mezzo-nl01.spr24.net@D-230718.done
 https://nl01.spr24.net/22902/index.m3u8?token=6NKtDLCbKfZKiQ
-#EXTINF:0 group-title="Mezzo",Mezzo-northalex.akadatel.com@D-230726.done
-http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-nowhosts.one:80@D-230625.done
 http://nowhosts.one:80/n9zwZdst8upCXu/cdAqDjuXQKSn37/328262
 #EXTINF:0 group-title="Mezzo",Mezzo-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-ob8gjai2.rostelekom.xyz@D-230720.done
-http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-omdtxvgd.otttv.pw@D-230703.done
@@ -1809,8 +1783,6 @@ http://revteam11.offshorerev.cc:80/SPIDER_vQfb7P/jvpyGr1S3v/77047
 #EXTINF:0 group-title="Mezzo",Mezzo-rhsbjv7k.tvclub.xyz@D-230803.done
 http://rhsbjv7k.tvclub.xyz/iptv/AV74N95DAK65RR/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-rhsbjv7k.tvclub.xyz@D-230804.done
-http://rhsbjv7k.tvclub.xyz/iptv/4M5UR7LKMPNNHU/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/TCGQ42B4L76NNV/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/T6NDS3UGLKHD6Y/707/index.m3u8
@@ -1872,8 +1844,6 @@ http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/707/index.m3u8
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-vahid.kazaktelekom.com@D-230621.done
-http://vahid.kazaktelekom.com/iptv/LHCCYMAC3CTPP3/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/565834
 #EXTINF:0 group-title="Mezzo",Mezzo-vegasizle.xyz:8080@D-230624.done.NC.dead
@@ -1894,10 +1864,6 @@ http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/707/index.m3u8
 http://www.premiumiptvmk.com:8080/F29175/cd31b677/5355
 #EXTINF:0 group-title="Mezzo",Mezzo-x3nwn68u.megogo.xyz@D-230804.done
 http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-xbhuqn0e.megatv.fun@D-230629.done
-http://xbhuqn0e.megatv.fun/iptv/SH9BUQ3DV5HPPM/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-xh4yvfgq.akciatv.ru@D-230701.done
-http://xh4yvfgq.akciatv.ru/iptv/B385GZCKEKB8NB/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-xh4yvfgq.akciatv.ru@D-230722.done
 http://xh4yvfgq.akciatv.ru/iptv/YL5FMZQTESPWWR/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO-xy.viptveu.com:8080@D-230527.done
@@ -1908,8 +1874,6 @@ http://yahya.top:80/live/13538810817626027/1593574628/56324.ts
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-z2kl9hrc.ottclub.xyz@D-230630.done
 http://z2kl9hrc.ottclub.xyz/iptv/MUYTSQ4A33AAND/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-z5wyafgd.rostelekom.xyz@D-230718.done
-http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo CZ-ultratv.one:2095@D-230413.done.NC.dead
@@ -2316,6 +2280,14 @@ http://zx.pe:80/eduardo648/edua6849/1563999.ts
 http://zx.pe:80/592448/221606/1563999.ts
 #EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230730.done
 http://zx.pe:80/97152838a/97152838b/1563999.ts
+#EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230807.done
+http://zx.pe:80/EdinaFSouza/989323996/1563999.ts
+#EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230807.done
+http://zx.pe:80/Fernand0584638/0584638fer/1563999.ts
+#EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230807.done
+http://zx.pe:80/07193736/24056318/1563999.ts
+#EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230807.done
+http://zx.pe:80/sequinho1501/150121diego/1563999.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo HD-1.revportal.eu:80@D-230803.done
 http://1.revportal.eu:80/mag00:1A:79:53:22:DD/k5pPUYZgvA/134167
 #EXTINF:0 group-title="Mezzo",Mezzo HD-1.revportal.eu:80@D-230806.done
@@ -2590,8 +2562,6 @@ http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/9170/index.m3u8
 http://57bxfm8j.otttv.pw/iptv/WEP3WXHWQWVDQ4/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-5fbe6188.rostelekom.xyz@D-230630.done
 http://5fbe6188.rostelekom.xyz/iptv/HQR3GUK42G4AUP/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-67e4a403.kazaktelekom.com@D-230627.done
-http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-69c5e778.edemist.com@D-230726.done
 http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-7497611a.edmonst.net@D-230705.done
@@ -2614,10 +2584,6 @@ http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/9170/index.m3u8
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-8fdcf128.cbilant.com@D-230629.done
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-8v2it3bs.akciatv.ru@D-230722.done
-http://8v2it3bs.akciatv.ru/iptv/BX4S7799FRNUAC/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-908e3c5e.rossteleccom.net@D-230718.done
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-92a50216.megogo.xyz@D-230630.done
@@ -2626,8 +2592,6 @@ http://92a50216.megogo.xyz/iptv/P4RNBR743MCV26/9170/index.m3u8
 http://92a50216.megogo.xyz/iptv/LRC9AA6PDRQA28/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-9gvb3ezf.rostelekom.xyz@D-230626.done
-http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-9i1adhbe.akciatv.ru@D-230721.done
 http://9i1adhbe.akciatv.ru/iptv/SEM832XUCHRGWB/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-9zxma7fc.megatv.fun@D-230719.done
@@ -2660,8 +2624,6 @@ http://bfkzlivy.russtv.net/iptv/DXY3KXH3WE4H7V/9170/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-c1d9ae2c.ucomist.net@D-230803.done
 http://c1d9ae2c.ucomist.net/iptv/YMTKB3DA7SG4VT/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-cef23ac9.rossteleccom.net@D-230720.done
-http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-clofxtud.rostelekom.xyz@D-230621.done
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-cv7jhvdz.otttv.pw@D-230718.done
@@ -2676,12 +2638,8 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/9170/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-czrb8vng.ottclub.xyz@D-230626.done
 http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-czrb8vng.ottclub.xyz@D-230626.done
-http://czrb8vng.ottclub.xyz/iptv/KHPB6HF3K44YC6/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d09c8a6a.akadatel.com@D-230712.done
 http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d0cf70eb.rostelekom.xyz@D-230629.done
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d1525871.akadatel.com@D-230803.done
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -2734,8 +2692,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/9170/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YKTL84D2R2E5QL/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
@@ -2802,8 +2758,6 @@ http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/9170/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-germany.amazzin.pw@D-230726.done
-http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-hcatg4m7.ottclub.xyz@D-230630.done
@@ -2870,20 +2824,12 @@ http://jhg8lfg4.megatv.fun/iptv/2E9EQTR6P8KX3C/9170/index.m3u8
 http://kirintv.rostelekom.xyz/iptv/XC6SLPZG44U3GQ/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-kldiupbm.ottclub.xyz@D-230703.done
 http://kldiupbm.ottclub.xyz/iptv/DGC8Z8FH6DB2KU/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-kv3z7bac.russtv.net@D-230712.done
-http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-lili2237.ottrast.com@D-230804.done
 http://lili2237.ottrast.com/iptv/PL22YWHB7VBFML/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-m89szyjf.akciatv.ru@D-230724.done
-http://m89szyjf.akciatv.ru/iptv/ESZ3S8YXEWM7S3/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-mk3gi6qohdjrudj.russtv.net@D-230604.done
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-ob8gjai2.rostelekom.xyz@D-230720.done
-http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-omdtxvgd.otttv.pw@D-230703.done
@@ -2894,8 +2840,6 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/9170/index.m3u8
 http://qu23454ti234rume45r.ottolok.net/iptv/P5E8MYEP6YW4PA/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-rhsbjv7k.tvclub.xyz@D-230803.done
 http://rhsbjv7k.tvclub.xyz/iptv/AV74N95DAK65RR/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-rhsbjv7k.tvclub.xyz@D-230804.done
-http://rhsbjv7k.tvclub.xyz/iptv/4M5UR7LKMPNNHU/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/TCGQ42B4L76NNV/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-rhsbjv7k.tvclub.xyz@D-230804.done
@@ -2920,34 +2864,16 @@ http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/9170/index.m3u8
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-vahid.kazaktelekom.com@D-230621.done
-http://vahid.kazaktelekom.com/iptv/LHCCYMAC3CTPP3/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-vz2tmkdw.otttv.pw@D-230604.done
 http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-xbhuqn0e.megatv.fun@D-230629.done
-http://xbhuqn0e.megatv.fun/iptv/SH9BUQ3DV5HPPM/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-xh4yvfgq.akciatv.ru@D-230701.done
-http://xh4yvfgq.akciatv.ru/iptv/B385GZCKEKB8NB/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-xh4yvfgq.akciatv.ru@D-230722.done
 http://xh4yvfgq.akciatv.ru/iptv/YL5FMZQTESPWWR/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-ybytkncg.otttv.pw@D-230513.done
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-z2kl9hrc.ottclub.xyz@D-230630.done
 http://z2kl9hrc.ottclub.xyz/iptv/MUYTSQ4A33AAND/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-z5wyafgd.rostelekom.xyz@D-230718.done
-http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo PT-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/i8bCme888/CGSeID970/27796
-#EXTINF:0 group-title="Mezzo",Mezzo PT-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/VFguUWGY566098/eFboVO7911/27796
-#EXTINF:0 group-title="Mezzo",Mezzo PT-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/btd9em25/BDKGCm82/27796
-#EXTINF:0 group-title="Mezzo",Mezzo PT-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/zSmOI2g6Tv0323/tLMuxO8359/27796
-#EXTINF:0 group-title="Mezzo",Mezzo PT-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/M2SsSJ5y7d360/w3Dtf8649/27796
 #EXTINF:0 group-title="Mezzo",Mezzo PT-clientsportals.com:2095@D-230604.done
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/69090
 #EXTINF:0 group-title="Mezzo",Mezzo PT-clientsportals.com:2095@D-230626.done
@@ -3056,8 +2982,6 @@ http://77.72.23.28/iptv/R2C4Z73LFFW9PC/7011/index.m3u8
 http://77.72.23.28/iptv/LBXCLUXQPUBD4N/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-8355ba68.ottolok.net@D-230630.done
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-8v2it3bs.akciatv.ru@D-230722.done
-http://8v2it3bs.akciatv.ru/iptv/BX4S7799FRNUAC/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-ae325328.ucomist.net@D-230511.done
@@ -3078,8 +3002,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7011/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-czrb8vng.ottclub.xyz@D-230626.done
 http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-czrb8vng.ottclub.xyz@D-230626.done
-http://czrb8vng.ottclub.xyz/iptv/KHPB6HF3K44YC6/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d09c8a6a.akadatel.com@D-230712.done
 http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -3132,8 +3054,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/7011/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YKTL84D2R2E5QL/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
@@ -3235,8 +3155,6 @@ http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-rhsbjv7k.tvclub.xyz@D-230803.done
 http://rhsbjv7k.tvclub.xyz/iptv/AV74N95DAK65RR/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-rhsbjv7k.tvclub.xyz@D-230804.done
-http://rhsbjv7k.tvclub.xyz/iptv/4M5UR7LKMPNNHU/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/TCGQ42B4L76NNV/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/T6NDS3UGLKHD6Y/7011/index.m3u8
@@ -3256,12 +3174,8 @@ http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/7011/index.m3u8
 http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-typicamn.russtv.net@D-230728.done
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-vahid.kazaktelekom.com@D-230621.done
-http://vahid.kazaktelekom.com/iptv/LHCCYMAC3CTPP3/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-vivk17.ottolok.net@D-230720.done
 http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-xbhuqn0e.megatv.fun@D-230629.done
-http://xbhuqn0e.megatv.fun/iptv/SH9BUQ3DV5HPPM/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-ybytkncg.otttv.pw@D-230513.done
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo RU-45.12.1.14:80@D-230402.done.NC.dead
@@ -3806,6 +3720,8 @@ http://7go.xyz:8080/0985luiz/86cavalcante/308606
 http://7go.xyz:8080/1m8kb86s/lelocwep/308606
 #EXTINF:0 group-title="Mezzo",NL: Mezzo-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/19982249991a/10laine10a/308606
+#EXTINF:0 group-title="Mezzo",NL: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/308606
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/Zoommaster/W4pjePuP9quW/2463
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-aca3b.tk:8080@D-230630.done
@@ -4110,6 +4026,20 @@ http://4tv.site:2082/Luciana201/81638161916205519/193819
 http://4tv.site:2082/Luciana201/81638161916205519/193820
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-76271.atr91.com:80@D-230728.done
 http://76271.atr91.com:80/Red472/cp49jh/124682
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11997292448/924as48gas/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0abGbWbI/et55yve2/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/16996337306/useplay1699/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1an1t3zf/x3wqdok4/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/308043
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-abc123.digital:8080@D-230417.done
 http://abc123.digital:8080/kaceadams@gmail.com/fCr981GG16/495235
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-abc123.digital:8080@D-230611.done
@@ -4156,6 +4086,10 @@ http://club.panelchanel.xyz:8080/live/ercanteken/RpBGd64Zd9NZ/5624.m3u
 http://conexaoonline.top:80/IVONE123/IVONE321/261050
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-conexaoonline.top:80@D-230728.done
 http://conexaoonline.top:80/renato1782/aadd1782w2/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-conexaoonline.top:80@D-230807.done
+http://conexaoonline.top:80/Felipe7441/11992667441F/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-conexaoonline.top:80@D-230807.done
+http://conexaoonline.top:80/AlessonCechini/vhFkq1DN6P/261050
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-deylertv.xyz:80@D-230717.done
 http://deylertv.xyz:80/34512/24757/1198370
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-evolved.host:8080@D-230528.done.NC
@@ -4274,6 +4208,36 @@ http://sansat.net:25461/NRVPBXYOBXFRUXF/HZKYNNV6CGNUX7O/95377
 http://sansat.org:25461/02026251855059/02026251855059/95377
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-sansat.org:25461@D-230728.done
 http://sansat.org:25461/02029487602778/de3986bb25e24a34/95377
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/818426362/577525438/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/leide100/3A3B3C3D/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/973614569/959538352/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/Janaina128/30799810/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/74928224/55833617/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/miguel98162/363622882/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/u46fkh788/buqkykjah/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/lucas2057/888139228/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/valmir4889/709218955/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/433sueva/sn2xf552/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/86495434/52581333/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/erf6ek755/fernanda2408/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/valdecir5230/qr8maz8v/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/4begyb943/k7dad9cjy/261050
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-server.serveript.com:80@D-230807.done
+http://server.serveript.com:80/718351550/126791715/261050
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-star8iptv.com:2082@D-230712.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/131075
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-trsat.nl:80@D-230806.done
@@ -4500,6 +4464,18 @@ http://7go.xyz:8080/1an1t3zf/x3wqdok4/307540
 http://7go.xyz:8080/2326367/323448/307540
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/02oq8aw0/9wg8xqwy/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/0yyhkwby/8gqsyqho/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11991573111/11991573/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/11963304341/11974574/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1m8kb86s/lelocwep/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/1tuvw9xs/kxy9po85/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/307540
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-abmclass.com:8080@D-230714.done
 http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/73588
 #EXTINF:0 group-title="Mezzo",RU: MEZZO-balkanfree.net:25461@D-230722.done
@@ -4938,6 +4914,10 @@ http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/142866.ts
 http://ok4.club:25461/JJ020915/4073006144/34
 #EXTINF:0 group-title="Mezzo Live",CZ: Mezzo Live-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/250526
+#EXTINF:0 group-title="Mezzo Live",CZ  Mezzo-special.boxserver.live:8080@D-230807.done
+http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/97673
+#EXTINF:0 group-title="Mezzo Live",CZ  Mezzo Live-special.boxserver.live:8080@D-230807.done
+http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/97682
 #EXTINF:0 group-title="Mezzo Live",DK: MEZZO HD-live2.unwiredtvnow.com:80@D-230527.done
 http://live2.unwiredtvnow.com:80/Bradley23/Bradley23/185606.ts
 #EXTINF:0 group-title="Mezzo Live",DK  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230523.done
@@ -5190,6 +5170,10 @@ http://7go.xyz:8080/1omvs6bg/prpia3ms/305805
 http://7go.xyz:8080/1m8kb86s/lelocwep/305805
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-7go.xyz:8080@D-230802.done
 http://7go.xyz:8080/2362378/573948/305805
+#EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/9284609581/useplay9284/305805
+#EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-7go.xyz:8080@D-230807.done
+http://7go.xyz:8080/21982604800/21ghygtrfd/305805
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE FHD-aca3b.tk:8080@D-230630.done
 http://aca3b.tk:8080/Jaycode/EXjyXx56pG/15255
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE FHD-awoxiptv.xyz:8080@D-230806.done
@@ -6406,6 +6390,8 @@ http://playhispano.org:8080/userlw/led5120/162884
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/162884
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Liveⓧ HD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/rogeraguilar/roger2022/162884
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Liveⓧ HD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/162884
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-portal.dm-lv.com:8080@D-230429.done
 http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/184521
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-portal.magic8kip.tv:80@D-230725.done
@@ -7370,8 +7356,6 @@ http://57bxfm8j.otttv.pw/iptv/WEP3WXHWQWVDQ4/208/index.m3u8
 http://57bxfm8j.otttv.pw/iptv/WEP3WXHWQWVDQ4/217/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-5fbe6188.rostelekom.xyz@D-230630.done
 http://5fbe6188.rostelekom.xyz/iptv/HQR3GUK42G4AUP/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-67e4a403.kazaktelekom.com@D-230627.done
-http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-69c5e778.edemist.com@D-230726.done
 http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-7497611a.edmonst.net@D-230705.done
@@ -7396,10 +7380,6 @@ http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/208/index.m3u8
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-8fdcf128.cbilant.com@D-230629.done
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-8v2it3bs.akciatv.ru@D-230722.done
-http://8v2it3bs.akciatv.ru/iptv/BX4S7799FRNUAC/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-908e3c5e.rossteleccom.net@D-230718.done
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-92a50216.megogo.xyz@D-230630.done
@@ -7408,8 +7388,6 @@ http://92a50216.megogo.xyz/iptv/P4RNBR743MCV26/208/index.m3u8
 http://92a50216.megogo.xyz/iptv/LRC9AA6PDRQA28/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-9gvb3ezf.rostelekom.xyz@D-230626.done
-http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-9i1adhbe.akciatv.ru@D-230721.done
 http://9i1adhbe.akciatv.ru/iptv/SEM832XUCHRGWB/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-9zxma7fc.megatv.fun@D-230719.done
@@ -7472,8 +7450,6 @@ https://cdntv.online/high/wcpkzdjxf2/73.m3u8
 http://cdntv.online/high/6bvy42tizr/73.m3u8
 #EXTINF:0 group-title="Mezzo Live", Mezzo Live HD-cdntv.online@D-230719.done
 https://cdntv.online/high/6bvy42tizr/73.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-cef23ac9.rossteleccom.net@D-230720.done
-http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ch01.spr24.net@D-230626.done
 http://ch01.spr24.net/3126/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ch01.spr24.net@D-230712.done
@@ -7500,12 +7476,8 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/208/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-czrb8vng.ottclub.xyz@D-230626.done
 http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-czrb8vng.ottclub.xyz@D-230626.done
-http://czrb8vng.ottclub.xyz/iptv/KHPB6HF3K44YC6/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d09c8a6a.akadatel.com@D-230712.done
 http://d09c8a6a.akadatel.com/iptv/4NW5K63H2NAL6S/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d0cf70eb.rostelekom.xyz@D-230629.done
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d1525871.akadatel.com@D-230803.done
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -7558,8 +7530,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/208/index.
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YKTL84D2R2E5QL/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
@@ -7720,8 +7690,6 @@ http://gameplay.p2sweb.me:80/4257153/6989507/247889
 http://gameplay.p2sweb.me:80/12442123/22843123/247889
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE HD-gameplay.p2sweb.me:80@D-230802.done
 http://gameplay.p2sweb.me:80/dyegorj/x125343/247889
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-germany.amazzin.pw@D-230726.done
-http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-hcatg4m7.ottclub.xyz@D-230630.done
@@ -7790,12 +7758,8 @@ http://jhg8lfg4.megatv.fun/iptv/2E9EQTR6P8KX3C/208/index.m3u8
 http://kirintv.rostelekom.xyz/iptv/XC6SLPZG44U3GQ/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-kldiupbm.ottclub.xyz@D-230703.done
 http://kldiupbm.ottclub.xyz/iptv/DGC8Z8FH6DB2KU/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-kv3z7bac.russtv.net@D-230712.done
-http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-lili2237.ottrast.com@D-230804.done
 http://lili2237.ottrast.com/iptv/PL22YWHB7VBFML/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-m89szyjf.akciatv.ru@D-230724.done
-http://m89szyjf.akciatv.ru/iptv/ESZ3S8YXEWM7S3/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-mk3gi6qohdjrudj.russtv.net@D-230604.done
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-myott.top@D-230209.done
@@ -7824,8 +7788,6 @@ http://myott.top/stream/KD8IR5FDPF/276.m3u8
 http://myott.top/stream/E9LDH2ZCN7/276.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-n4ezmpwd.russtv.net@D-230625.done
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-nl01.spr24.net@D-230509.done
 https://nl01.spr24.net/3126/mpegts?token=brm93nV8tUcCAN
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-nl01.spr24.net@D-230626.done
@@ -7836,12 +7798,8 @@ https://nl01.spr24.net/3126/mpegts?token=6NKtDLCbKfZKiQ
 http://nl01.spr24.net/3126/mpegts?token=6NKtDLCbKfZKiQ
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-nl01.spr24.net@D-230718.done
 https://nl01.spr24.net/3126/index.m3u8?token=6NKtDLCbKfZKiQ
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-northalex.akadatel.com@D-230726.done
-http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ob8gjai2.rostelekom.xyz@D-230720.done
-http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-omdtxvgd.otttv.pw@D-230703.done
@@ -7866,8 +7824,6 @@ http://qu23454ti234rume45r.ottolok.net/iptv/P5E8MYEP6YW4PA/208/index.m3u8
 http://r.faola.li/20103/video.m3u8?token=DgczVq8b3E
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-rhsbjv7k.tvclub.xyz@D-230803.done
 http://rhsbjv7k.tvclub.xyz/iptv/AV74N95DAK65RR/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-rhsbjv7k.tvclub.xyz@D-230804.done
-http://rhsbjv7k.tvclub.xyz/iptv/4M5UR7LKMPNNHU/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/TCGQ42B4L76NNV/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-rhsbjv7k.tvclub.xyz@D-230804.done
@@ -7922,8 +7878,6 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/208/index.m3u8
 http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-vahid.kazaktelekom.com@D-230621.done
-http://vahid.kazaktelekom.com/iptv/LHCCYMAC3CTPP3/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE HD-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/499676
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE HD-vegasizle.xyz:8080@D-230703.done.NC.dead
@@ -7938,10 +7892,6 @@ http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/208/index.m3u8
 http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-x3nwn68u.megogo.xyz@D-230804.done
 http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-xbhuqn0e.megatv.fun@D-230629.done
-http://xbhuqn0e.megatv.fun/iptv/SH9BUQ3DV5HPPM/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-xh4yvfgq.akciatv.ru@D-230701.done
-http://xh4yvfgq.akciatv.ru/iptv/B385GZCKEKB8NB/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-xh4yvfgq.akciatv.ru@D-230722.done
 http://xh4yvfgq.akciatv.ru/iptv/YL5FMZQTESPWWR/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE HD-yahya.top:80@D-230710.done
@@ -7950,8 +7900,6 @@ http://yahya.top:80/live/13538810817626027/1593574628/7624.ts
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-z2kl9hrc.ottclub.xyz@D-230630.done
 http://z2kl9hrc.ottclub.xyz/iptv/MUYTSQ4A33AAND/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-z5wyafgd.rostelekom.xyz@D-230718.done
-http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-45.12.1.14:80@D-230512.done.NC
@@ -8028,16 +7976,6 @@ http://45.12.1.14:80/MDKraker/GwWZ9I296/12702
 http://45.12.1.14:80/7JvIck488/meAqNw5218/12702
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-45.12.1.14:80@D-230727.done.NC
 http://45.12.1.14:80/rBaj2bqaNBQW560/WKULMd7677/12702
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/i8bCme888/CGSeID970/12702
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/VFguUWGY566098/eFboVO7911/12702
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/btd9em25/BDKGCm82/12702
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/zSmOI2g6Tv0323/tLMuxO8359/12702
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-clientportal.link:80@D-230806.done.NC
-http://clientportal.link:80/M2SsSJ5y7d360/w3Dtf8649/12702
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD ES-tv.pisonic.tvip.xyz:80@D-230806.done
 http://tv.pisonic.tvip.xyz:80/Mger2022n4/t7K0Vw60/12702
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD FR-1903.full57.us:8000@D-230623.done
@@ -8428,8 +8366,6 @@ http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/9014/index.m3u8
 http://57bxfm8j.otttv.pw/iptv/WEP3WXHWQWVDQ4/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-5fbe6188.rostelekom.xyz@D-230630.done
 http://5fbe6188.rostelekom.xyz/iptv/HQR3GUK42G4AUP/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-67e4a403.kazaktelekom.com@D-230627.done
-http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-69c5e778.edemist.com@D-230726.done
 http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-7497611a.edmonst.net@D-230705.done
@@ -8452,10 +8388,6 @@ http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/9014/index.m3u8
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-8fdcf128.cbilant.com@D-230629.done
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-8v2it3bs.akciatv.ru@D-230722.done
-http://8v2it3bs.akciatv.ru/iptv/BX4S7799FRNUAC/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-908e3c5e.rossteleccom.net@D-230718.done
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-92a50216.megogo.xyz@D-230630.done
@@ -8464,8 +8396,6 @@ http://92a50216.megogo.xyz/iptv/P4RNBR743MCV26/9014/index.m3u8
 http://92a50216.megogo.xyz/iptv/LRC9AA6PDRQA28/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-9gvb3ezf.rostelekom.xyz@D-230626.done
-http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-9i1adhbe.akciatv.ru@D-230721.done
 http://9i1adhbe.akciatv.ru/iptv/SEM832XUCHRGWB/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-9zxma7fc.megatv.fun@D-230719.done
@@ -8498,8 +8428,6 @@ http://bfkzlivy.russtv.net/iptv/DXY3KXH3WE4H7V/9014/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-c1d9ae2c.ucomist.net@D-230803.done
 http://c1d9ae2c.ucomist.net/iptv/YMTKB3DA7SG4VT/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-cef23ac9.rossteleccom.net@D-230720.done
-http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-clofxtud.rostelekom.xyz@D-230621.done
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-cv7jhvdz.otttv.pw@D-230718.done
@@ -8514,10 +8442,6 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/9014/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-czrb8vng.ottclub.xyz@D-230626.done
 http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-czrb8vng.ottclub.xyz@D-230626.done
-http://czrb8vng.ottclub.xyz/iptv/KHPB6HF3K44YC6/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d0cf70eb.rostelekom.xyz@D-230629.done
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d1525871.akadatel.com@D-230803.done
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -8570,8 +8494,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/9014/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YKTL84D2R2E5QL/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
@@ -8638,8 +8560,6 @@ http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/9014/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-germany.amazzin.pw@D-230726.done
-http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-hcatg4m7.ottclub.xyz@D-230630.done
@@ -8702,20 +8622,12 @@ http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/9014/index.m3u8
 http://kirintv.rostelekom.xyz/iptv/XC6SLPZG44U3GQ/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-kldiupbm.ottclub.xyz@D-230703.done
 http://kldiupbm.ottclub.xyz/iptv/DGC8Z8FH6DB2KU/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-kv3z7bac.russtv.net@D-230712.done
-http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-lili2237.ottrast.com@D-230804.done
 http://lili2237.ottrast.com/iptv/PL22YWHB7VBFML/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-m89szyjf.akciatv.ru@D-230724.done
-http://m89szyjf.akciatv.ru/iptv/ESZ3S8YXEWM7S3/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-mk3gi6qohdjrudj.russtv.net@D-230604.done
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-ob8gjai2.rostelekom.xyz@D-230720.done
-http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-omdtxvgd.otttv.pw@D-230703.done
@@ -8726,8 +8638,6 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/9014/index.m3u8
 http://qu23454ti234rume45r.ottolok.net/iptv/P5E8MYEP6YW4PA/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-rhsbjv7k.tvclub.xyz@D-230803.done
 http://rhsbjv7k.tvclub.xyz/iptv/AV74N95DAK65RR/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-rhsbjv7k.tvclub.xyz@D-230804.done
-http://rhsbjv7k.tvclub.xyz/iptv/4M5UR7LKMPNNHU/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/TCGQ42B4L76NNV/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-rhsbjv7k.tvclub.xyz@D-230804.done
@@ -8752,22 +8662,14 @@ http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9014/index.m3u8
 http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-ujpqmexl.ottclub.xyz@D-230715.done
 http://ujpqmexl.ottclub.xyz/iptv/5V7KVAXDCEX8EH/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-vahid.kazaktelekom.com@D-230621.done
-http://vahid.kazaktelekom.com/iptv/LHCCYMAC3CTPP3/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-vz2tmkdw.otttv.pw@D-230604.done
 http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-xbhuqn0e.megatv.fun@D-230629.done
-http://xbhuqn0e.megatv.fun/iptv/SH9BUQ3DV5HPPM/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-xh4yvfgq.akciatv.ru@D-230701.done
-http://xh4yvfgq.akciatv.ru/iptv/B385GZCKEKB8NB/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-xh4yvfgq.akciatv.ru@D-230722.done
 http://xh4yvfgq.akciatv.ru/iptv/YL5FMZQTESPWWR/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-ybytkncg.otttv.pw@D-230513.done
 http://ybytkncg.otttv.pw/iptv/35P2M8WRVZMQRY/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-z2kl9hrc.ottclub.xyz@D-230630.done
 http://z2kl9hrc.ottclub.xyz/iptv/MUYTSQ4A33AAND/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-z5wyafgd.rostelekom.xyz@D-230718.done
-http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD PREMIUM+-str06.ottg.online@D-230804.done
@@ -8846,6 +8748,22 @@ http://abc123.digital:8080/kaceadams@gmail.com/fCr981GG16/495236
 http://abc123.digital:8080/ericmoseley20@gmail.com/WETMW4WyZW/495236
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-abc123.digital:8080@D-230728.done
 http://abc123.digital:8080/odanismusica@hotmail.com/wqFFmK6v3u/495236
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/0u28tanbsh/6axu1qiqg3/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/11milla/teste5714/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/102030405060/908070605040/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/213rdxhi14/gyvclf60ej/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/2slb136/9vdo9d9/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/316002769/264974957/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/4gzjua0nyh/bd04mpd32g/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
+http://cdnr1.xyz:80/526196942/409342057/139525
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-evolved.host:8080@D-230528.done.NC
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495236
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-evolved.host:8080@D-230604.done.NC
@@ -9074,22 +8992,6 @@ http://zeintv.xyz:8080/05466820130/05466820130/131955
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/196869
 #EXTINF:0 group-title="Mezzo Live",SE  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/62602
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/Margote/HX1VFSE5KI/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/scooter21/Z0XWGX95AG/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/812912UAZJJ2/O6N5X2XKSA/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/kongtito/BPRF06M1L5/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/compte73763/HANUQULFFB/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/4998548523/7467896546/139231.ts
-#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.pro-ott.com:25443@D-230806.done
-http://tv.pro-ott.com:25443/live/1RGBQAWT13/A619NO8R2I/139231.ts
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/139231.ts
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.viptvpro.com:25443@D-230718.done
@@ -9508,6 +9410,8 @@ http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298082
 http://playhispano.org:8080/MauricioRivas/7YOsbvj8T2/254602
 #EXTINF:0 group-title="Music",BR: Kpop-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/global0030/6C3SAoHgqX/254602
+#EXTINF:0 group-title="Music",BR: Kpop-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/254602
 #EXTINF:0 group-title="Music",BR: Kpop-skylogic.site:8080@D-230730.done
 http://skylogic.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298082
 #EXTINF:0 group-title="Music",BR: Kpop-skylogic.site:8080@D-230730.done
@@ -10014,6 +9918,8 @@ http://playhispano.org:8080/global0030/6C3SAoHgqX/162894
 http://playhispano.org:8080/377202/zeS74GPNMA/162894
 #EXTINF:0 group-title="Music",FR-NRJ Hitsⓧ FHD-playhispano.org:8080@D-230717.done
 http://playhispano.org:8080/1128221512/yUFEAr88Lv/162894
+#EXTINF:0 group-title="Music",FR-NRJ Hitsⓧ FHD-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/162894
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-portal.magic8kip.tv:80@D-230725.done
 http://portal.magic8kip.tv:80/admin123/admin123/506498
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-pro.xviptv.com:25443@D-230803.done
@@ -10240,6 +10146,8 @@ http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/43990.m3u8
 http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/43990
 #EXTINF:0 group-title="Music",FR-NRJ Hitsⓧ HD-gtvstreams.me:80@D-230806.done
 http://gtvstreams.me:80/Robbie/Robbie/640109
+#EXTINF:0 group-title="Music",FR-NRJ HITS HD-izmirhd.com:8080@D-230807.done
+http://izmirhd.com:8080/mustafa123/123mustafa/88457
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-line.premiumpowers.net:80@D-230709.done
 http://line.premiumpowers.net:80/10/1234567/507295
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-line.rs6ott.com:80@D-230611.done
@@ -10642,6 +10550,8 @@ http://germanydnsx15.com:8080/dvtsntrk/Dvtsntrk8654/88458
 http://germanydnsx15.com:8080/mustafa123/123mustafa/88458
 #EXTINF:0 group-title="Music",FR-NRJ HITS UHD-gu.iptivi.net:2086@D-230421.done
 http://gu.iptivi.net:2086/guzel5943/xytRW2945g/112959
+#EXTINF:0 group-title="Music",FR-NRJ HITS  UHD-izmirhd.com:8080@D-230807.done
+http://izmirhd.com:8080/mustafa123/123mustafa/88458
 #EXTINF:0 group-title="Music",FR-PLUTO  K-POP-m3u.sea-iptv.com:80@D-230629.done
 http://m3u.sea-iptv.com:80/f4:7b:5e:5d:e2:4b/12flmnrt/344537
 #EXTINF:0 group-title="Music",FR.H265 NRJ HITS-tv.pro-ott.com:25443@D-230604.done
@@ -11256,8 +11166,6 @@ http://53bdf96d.edmonst.net/iptv/D5VMC2ZNXY7HY6/19199/index.m3u8
 http://550a07aa.kazaktelekom.com/iptv/P7ZVA9T8FV8B7B/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-5fbe6188.rostelekom.xyz@D-230630.done
 http://5fbe6188.rostelekom.xyz/iptv/HQR3GUK42G4AUP/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-67e4a403.kazaktelekom.com@D-230627.done
-http://67e4a403.kazaktelekom.com/iptv/GV7LQ2S673V5BH/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-69c5e778.edemist.com@D-230726.done
 http://69c5e778.edemist.com/iptv/RGTLAPQ3ZFU8G9/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-7497611a.edmonst.net@D-230705.done
@@ -11280,18 +11188,12 @@ http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19199/index.m3u8
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-8fdcf128.cbilant.com@D-230629.done
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-8v2it3bs.akciatv.ru@D-230722.done
-http://8v2it3bs.akciatv.ru/iptv/BX4S7799FRNUAC/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-908e3c5e.rossteleccom.net@D-230718.done
 http://908e3c5e.rossteleccom.net/iptv/MHTPDP44RP2N7L/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-92a50216.megogo.xyz@D-230630.done
 http://92a50216.megogo.xyz/iptv/P4RNBR743MCV26/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-92a50216.megogo.xyz@D-230728.done
 http://92a50216.megogo.xyz/iptv/LRC9AA6PDRQA28/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-9gvb3ezf.rostelekom.xyz@D-230626.done
-http://9gvb3ezf.rostelekom.xyz/iptv/R3YSFX3SQVXTRZ/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-9zxma7fc.megatv.fun@D-230719.done
 http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-a0000.otttv.pw@D-230529.done
@@ -11322,8 +11224,6 @@ http://bfkzlivy.russtv.net/iptv/DXY3KXH3WE4H7V/19199/index.m3u8
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-c6564fd3.rossteleccom.net@D-230626.done
 http://c6564fd3.rossteleccom.net/iptv/HCC9DZ8WERSGPP/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-cef23ac9.rossteleccom.net@D-230720.done
-http://cef23ac9.rossteleccom.net/iptv/BBZYQZSARMDCWW/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-clofxtud.rostelekom.xyz@D-230621.done
 http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-cv7jhvdz.otttv.pw@D-230718.done
@@ -11338,10 +11238,6 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19199/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/8NGWK8STP2978X/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-czrb8vng.ottclub.xyz@D-230626.done
 http://czrb8vng.ottclub.xyz/iptv/N5U4GHRQQ5WAL9/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-czrb8vng.ottclub.xyz@D-230626.done
-http://czrb8vng.ottclub.xyz/iptv/KHPB6HF3K44YC6/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d0cf70eb.rostelekom.xyz@D-230629.done
-http://d0cf70eb.rostelekom.xyz/iptv/PMRVKVATL4XX98/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d1525871.akadatel.com@D-230803.done
 http://d1525871.akadatel.com/iptv/ZKW8EHAZG2XM38/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -11394,8 +11290,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19199/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/W384UN323BK4KE/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/YKTL84D2R2E5QL/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230711.done.NC
@@ -11468,8 +11362,6 @@ http://foymmpeq.klaipedalt.org/iptv/VK3AX8MG8ZGVY9/19199/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/KBHYK8LHXDF7TD/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-foymmpeq.klaipedalt.org@D-230626.done
 http://foymmpeq.klaipedalt.org/iptv/2KTEACSPFEP692/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-germany.amazzin.pw@D-230726.done
-http://germany.amazzin.pw/iptv/F2VBMZHSSU23KL/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-gvacmmh7.russtv.net@D-230701.done
 http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-hcatg4m7.ottclub.xyz@D-230630.done
@@ -11526,26 +11418,16 @@ http://je7stli5.tvclub.xyz/iptv/349W3XS8ENP64A/19199/index.m3u8
 http://kirintv.rostelekom.xyz/iptv/XC6SLPZG44U3GQ/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-kldiupbm.ottclub.xyz@D-230703.done
 http://kldiupbm.ottclub.xyz/iptv/DGC8Z8FH6DB2KU/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-kv3z7bac.russtv.net@D-230712.done
-http://kv3z7bac.russtv.net/iptv/UXVLNHP3XS44E5/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-lili2237.ottrast.com@D-230804.done
 http://lili2237.ottrast.com/iptv/PL22YWHB7VBFML/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-m89szyjf.akciatv.ru@D-230724.done
-http://m89szyjf.akciatv.ru/iptv/ESZ3S8YXEWM7S3/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-mk3gi6qohdjrudj.russtv.net@D-230604.done
 http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ Hits HD-mybox.plus:80@D-230728.done
 http://mybox.plus:80/hisham/123456/186040
 #EXTINF:0 group-title="Music",NRJ HITS HD-n4ezmpwd.russtv.net@D-230625.done
 http://n4ezmpwd.russtv.net/iptv/2Z7XCPBH2H3N2N/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-ne0zzgxm.rostelekom.xyz@D-230604.done
-http://ne0zzgxm.rostelekom.xyz/iptv/3YVYYAUGHU7MDF/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-northalex.akadatel.com@D-230726.done
-http://northalex.akadatel.com/iptv/UNP55EDLYNAZNH/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-nthr9saa.russtv.net@D-230711.done
 http://nthr9saa.russtv.net/iptv/5QLQRWN6D9WPZ4/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-ob8gjai2.rostelekom.xyz@D-230720.done
-http://ob8gjai2.rostelekom.xyz/iptv/XSRTBXY2XDHHUF/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-oiwymun5.tvclub.xyz@D-230715.done
 http://oiwymun5.tvclub.xyz/iptv/VZYTNBFASX2VTF/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-omdtxvgd.otttv.pw@D-230703.done
@@ -11556,8 +11438,6 @@ http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/19199/index.m3u8
 http://qu23454ti234rume45r.ottolok.net/iptv/P5E8MYEP6YW4PA/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-rhsbjv7k.tvclub.xyz@D-230803.done
 http://rhsbjv7k.tvclub.xyz/iptv/AV74N95DAK65RR/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-rhsbjv7k.tvclub.xyz@D-230804.done
-http://rhsbjv7k.tvclub.xyz/iptv/4M5UR7LKMPNNHU/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-rhsbjv7k.tvclub.xyz@D-230804.done
 http://rhsbjv7k.tvclub.xyz/iptv/TCGQ42B4L76NNV/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-rhsbjv7k.tvclub.xyz@D-230804.done
@@ -11578,8 +11458,6 @@ http://typicamn.russtv.net/iptv/2WAMYB26HSVLNN/19199/index.m3u8
 http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-typicamn.russtv.net@D-230728.done
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-vahid.kazaktelekom.com@D-230621.done
-http://vahid.kazaktelekom.com/iptv/LHCCYMAC3CTPP3/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-vegasizle.xyz:8080@D-230624.done.NC.dead
 http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/587454
 #EXTINF:0 group-title="Music",NRJ HITS HD-vegasizle.xyz:8080@D-230703.done.NC.dead
@@ -11590,16 +11468,10 @@ http://vegasizle.xyz:8080/Acar2023nvd/mWwBXHFtdWew/587454
 http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-vz2tmkdw.otttv.pw@D-230604.done
 http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-xbhuqn0e.megatv.fun@D-230629.done
-http://xbhuqn0e.megatv.fun/iptv/SH9BUQ3DV5HPPM/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-xh4yvfgq.akciatv.ru@D-230701.done
-http://xh4yvfgq.akciatv.ru/iptv/B385GZCKEKB8NB/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-xh4yvfgq.akciatv.ru@D-230722.done
 http://xh4yvfgq.akciatv.ru/iptv/YL5FMZQTESPWWR/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/7843.ts
-#EXTINF:0 group-title="Music",NRJ HITS HD-z5wyafgd.rostelekom.xyz@D-230718.done
-http://z5wyafgd.rostelekom.xyz/iptv/KT9WS3N3GNH2KT/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-zc6blhep.rostelekom.xyz@D-230513.done
 http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ Hits HD BE-mag.you24.online:80@D-230806.done
@@ -12638,6 +12510,8 @@ http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298711
 http://nox.nox102.xyz:80/muratim35/16.08.2021mrt/163928
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/163928
+#EXTINF:0 group-title="Stingray",DE: Stingray Classica-playhispano.org:8080@D-230807.done
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/252935
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-skylogic.site:8080@D-230730.done
 http://skylogic.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-skylogic.site:8080@D-230730.done
@@ -13078,6 +12952,8 @@ http://mains.services/live/Grahxen/3docpGDalU/f753ec7b-df4b-4895-b39f-1f010e6802
 http://germanydnsx15.com:8080/dvtsntrk/Dvtsntrk8654/91423
 #EXTINF:0 group-title="Stingray",RO:Stingray Classica HD-germanydnsx15.com:8080@D-230803.done
 http://germanydnsx15.com:8080/mustafa123/123mustafa/91423
+#EXTINF:0 group-title="Stingray",RO:Stingray Classica HD-izmirhd.com:8080@D-230807.done
+http://izmirhd.com:8080/mustafa123/123mustafa/91423
 #EXTINF:0 group-title="Stingray",Stingray Classica-85.114.138.88:2052@D-230706.done
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/145513
 #EXTINF:0 group-title="Stingray",Stingray Classica-aanax.com:8080@D-230728.done
