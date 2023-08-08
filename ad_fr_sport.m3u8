@@ -1,5 +1,5 @@
-#EXTM3U 8752
-#DATE 2023-08-07 14:12
+#EXTM3U 8740
+#DATE 2023-08-07 20:00
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -5938,6 +5938,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/2502/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/2502/index.m3u8
+#EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2502/index.m3u8
 #EXTINF:0 group-title="FR-Canal+",Canal+ Sport HD FR-8b5d5460.akadatel.com@D-230625.done
@@ -15734,6 +15736,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/2545/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/2545/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2545/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 1 HD FR-8b5d5460.akadatel.com@D-230625.done
@@ -16342,6 +16346,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/2546/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/2546/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2546/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 2 HD FR-8b5d5460.akadatel.com@D-230625.done
@@ -17094,6 +17100,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/2547/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/2547/index.m3u8
+#EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/2547/index.m3u8
 #EXTINF:0 group-title="FR-RMC",RMC Sport 3 HD FR-8b5d5460.akadatel.com@D-230625.done
