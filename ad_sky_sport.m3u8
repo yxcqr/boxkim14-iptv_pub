@@ -1,5 +1,5 @@
-#EXTM3U 7052
-#DATE 2023-08-07 14:17
+#EXTM3U 7047
+#DATE 2023-08-07 20:00
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230628.done
 http://tv.pro-ott.com:25443/live/BEEGERY0CN/312U4GU1BO/116841.ts
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230628.done
@@ -2448,6 +2448,8 @@ http://line.rs6ott.com:80/17BB91LL/51HDMM29/110688
 http://tr.redatvgold.com:80/munir123/munir123/110688
 #EXTINF:0 group-title="Now-Klub",HR Sport Klub 5 HD-kingtop10.net:7070@D-230625.done
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/158521
+#EXTINF:0 group-title="Now-Klub", INT: Sport Klub 5 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1715/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A90Jj8tOZN4EJK58oWMN_ig-cWLMUdzSOJjmgQ8W67hn
 #EXTINF:0 group-title="Now-Klub",MAY  Astro SuperSport-uniontvs.com:8080@D-230727.done
 http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/370203
 #EXTINF:0 group-title="Now-Klub",MAY  Astro SuperSport 3-uniontvs.com:8080@D-230727.done
@@ -2644,6 +2646,8 @@ http://evolved.host:8080/lou99/c8DtRWieta/497616
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/497616
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 2 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/161932
+#EXTINF:0 group-title="Now-Klub", MY: Astro Supersport 2 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1990/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19Ayh4hbppw0nuLVFrg3cTrq9dGMtWxky2FchhsadYYk3B
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 2 UHD/4K-abc123.digital:8080@D-230614.done
 http://abc123.digital:8080/kaceadams@gmail.com/fCr981GG16/497577
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 2 UHD/4K-abc123.digital:8080@D-230616.done
@@ -2750,6 +2754,8 @@ http://evolved.host:8080/lou99/c8DtRWieta/497619
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/497619
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 3 FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/161933
+#EXTINF:0 group-title="Now-Klub", MY: Astro Supersport 3 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1991/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A20CVvdLQFLFuoS1wZjQoQ_SKNSjy0-1COvWpQ-HxcPR
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 4 (D)-abc123.digital:8080@D-230611.done
 http://abc123.digital:8080/ressy88@hotmail.com/d73ydj9vVi/497621
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 4 (D)-abc123.digital:8080@D-230614.done
@@ -2862,6 +2868,10 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/497622
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/161934
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 4 FHD-unblock2.king-box.tv:80@D-230618.done
 http://unblock2.king-box.tv:80/zyZaAu0E/jRrfDANjZr/161934
+#EXTINF:0 group-title="Now-Klub", MY: Astro Supersport 4 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1992/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19AzNULv_qzSejgWxJ6sTcPWTK3sEqdIU9GHe0zMNkQC19
+#EXTINF:0 group-title="Now-Klub", MY: Astro Supersport 4K-3.troya.today:34000@D-230807.fail3
+http://3.troya.today:34000/ch2132/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A3ToLf5oq_56llDRb53uu13UNZcvIEgS8LOvExFAOMCO
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 4K UHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/279951
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 4K UHD-unblock2.king-box.tv:80@D-230618.done
@@ -2892,6 +2902,8 @@ http://abc123.digital:8080/odanismusica@hotmail.com/wqFFmK6v3u/497625
 http://evolved.host:8080/lou99/c8DtRWieta/497625
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport 5_50fps-evolved.host:8080@D-230616.done.NC.dead
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/497625
+#EXTINF:0 group-title="Now-Klub", MY: Astro Supersport 5 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1738/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A92zs7OU0CqXQyqZlLgae9nLhNx_0d_icMbioyAb73uG
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport_50fps-abc123.digital:8080@D-230611.done
 http://abc123.digital:8080/ressy88@hotmail.com/d73ydj9vVi/497627
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport_50fps-abc123.digital:8080@D-230614.done
@@ -2926,6 +2938,8 @@ http://abc123.digital:8080/odanismusica@hotmail.com/wqFFmK6v3u/497626
 http://evolved.host:8080/lou99/c8DtRWieta/497626
 #EXTINF:0 group-title="Now-Klub",MY: Astro Supersport Feed 1 (FHD) (D)-evolved.host:8080@D-230616.done.NC.dead
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/497626
+#EXTINF:0 group-title="Now-Klub", MY: Astro Supersport HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1989/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A5dEtNL2o6piDuZJHPteAYTvoZDMxkJMpdoM8nP5v-tg
 #EXTINF:0 group-title="Now-Klub",MY: ASTRO SUPERSPORTS 1 HD-1903.full57.us:8000@D-230623.done
 http://1903.full57.us:8000/apomen123/apomen2002/89032
 #EXTINF:0 group-title="Now-Klub",MY: ASTRO SUPERSPORTS 1 HD-1903.full57.us:8000@D-230806.done
@@ -3830,6 +3844,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/7269/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/7269/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/7269/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 1 HD HR-8b5d5460.akadatel.com@D-230625.done
@@ -4750,6 +4766,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/7270/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/7270/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/7270/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 2 HD HR-8b5d5460.akadatel.com@D-230625.done
@@ -5760,6 +5778,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/7271/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/7271/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/7271/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 3 HD HR-8b5d5460.akadatel.com@D-230625.done
@@ -6204,6 +6224,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/7272/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/7272/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/7272/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 4 HD HR-8b5d5460.akadatel.com@D-230625.done
@@ -6754,6 +6776,8 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/7273/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/7273/index.m3u8
+#EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-88c0ad0b.ottrast.com@D-230807.done
+http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/7273/index.m3u8
 #EXTINF:0 group-title="Now-Klub",Sport Klub 5 HD HR-8b5d5460.akadatel.com@D-230625.done
@@ -7116,6 +7140,8 @@ http://live.euroteamspro.xyz:8080/mesut123/123mesut/306999
 http://watch-now.xyz:8080/Radikarls/gazzagazza/242990
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 1 FHD-xy.viptveu.com:8080@D-230527.done
 http://xy.viptveu.com:8080/7Tycsyy3wY/uWr58nb8Qn/306999
+#EXTINF:0 group-title="Now-Klub", SR: Sport Klub 1 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1711/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A-jhU_kdzra18tnto22NhBZys91adlvU7AuWMOhi0clk
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 1 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/81507
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 1 HD-medotv.nl:8000@D-230623.done
@@ -7128,6 +7154,8 @@ http://live.euroteamspro.xyz:8080/mesut123/123mesut/307001
 http://watch-now.xyz:8080/Radikarls/gazzagazza/242991
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 2 FHD-xy.viptveu.com:8080@D-230527.done
 http://xy.viptveu.com:8080/7Tycsyy3wY/uWr58nb8Qn/307001
+#EXTINF:0 group-title="Now-Klub", SR: Sport Klub 2 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1712/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A9tpckLtw1VMyQmjtoyg6h2r3Qd-ueJUKjzhnkukS23E
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 2 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/81508
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 2 HD-medotv.nl:8000@D-230623.done
@@ -7138,6 +7166,8 @@ http://live.euroteamspro.xyz:8080/mesut123/123mesut/307003
 http://watch-now.xyz:8080/Radikarls/gazzagazza/242992
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 3 FHD-xy.viptveu.com:8080@D-230527.done
 http://xy.viptveu.com:8080/7Tycsyy3wY/uWr58nb8Qn/307003
+#EXTINF:0 group-title="Now-Klub", SR: Sport Klub 3 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1713/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A91J7DOUGHECt07zrtPibqsYL-Bd1mxRzLOP3-jX5yhW
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 3 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/81509
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 3 HD-medotv.nl:8000@D-230623.done
@@ -7152,6 +7182,8 @@ http://live.euroteamspro.xyz:8080/mesut123/123mesut/307005
 http://watch-now.xyz:8080/Radikarls/gazzagazza/242993
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 4 FHD-xy.viptveu.com:8080@D-230527.done
 http://xy.viptveu.com:8080/7Tycsyy3wY/uWr58nb8Qn/307005
+#EXTINF:0 group-title="Now-Klub", SR: Sport Klub 4 HD-3.troya.today:34000@D-230807.done
+http://3.troya.today:34000/ch1714/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A6hWl1KbGUM5T58ms_2oBVGC535kZRXEqTRV7NlCnhJv
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 4 HD-ip.xtremetv.eu:8000@D-230716.done
 http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/81510
 #EXTINF:0 group-title="Now-Klub",SR: SPORT KLUB 4 HD-medotv.nl:8000@D-230623.done
