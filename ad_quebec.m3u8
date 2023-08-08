@@ -1,5 +1,5 @@
-#EXTM3U 9254
-#DATE 2023-08-07 14:04
+#EXTM3U 9200
+#DATE 2023-08-07 20:00
 #EXTINF:0 group-title="QC-Fashion",4K Fashion & Style-evolved.host:8080@D-230604.done.NC.dead
 http://evolved.host:8080/lou99/c8DtRWieta/510619
 #EXTINF:0 group-title="QC-Fashion",4K Fashion & Style-evolved.host:8080@D-230616.done.NC.dead
@@ -1154,6 +1154,8 @@ http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/146058
 http://xtra.fireottplus.com:2052/344320547498/344320547498/146058
 #EXTINF:0 group-title="QC-Ici",CA: FR TVA Montreal-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213693
+#EXTINF:0 group-title="QC-Ici",CA: FR TVA Montreal-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213693
 #EXTINF:0 group-title="QC-Ici",CA: FR TVA Montreal-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213693
 #EXTINF:0 group-title="QC-Ici",CA : HD ICI MONTREAL-cloud.cdn-proxy.win:2052@D-230803.done
@@ -1834,12 +1836,16 @@ http://iptvch.com:2082/avanger-discord/dU2S7yeQ20N6fK/213562
 http://iptvh2o.com:2082/khkanbar/452d/213562
 #EXTINF:0 group-title="QC-Info",CA: FR ICI RDI-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213562
+#EXTINF:0 group-title="QC-Info",CA: FR ICI RDI-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213562
 #EXTINF:0 group-title="QC-Info",CA: FR ICI RDI-star8iptv.com:2082@D-230712.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213562
 #EXTINF:0 group-title="QC-Info",CA: FR LCN-iptvch.com:2082@D-230716.done
 http://iptvch.com:2082/avanger-discord/dU2S7yeQ20N6fK/213592
 #EXTINF:0 group-title="QC-Info",CA: FR LCN-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213592
+#EXTINF:0 group-title="QC-Info",CA: FR LCN-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213592
 #EXTINF:0 group-title="QC-Info",CA: FR LCN-star8iptv.com:2082@D-230712.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213592
 #EXTINF:0 group-title="QC-Info",CA : HD LCN-cloud.cdn-proxy.win:2052@D-230803.done
@@ -3696,22 +3702,32 @@ http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/146148
 http://xtra.fireottplus.com:2052/344320547498/344320547498/146148
 #EXTINF:0 group-title="QC-Other",CA: FR Addik TV-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213615
+#EXTINF:0 group-title="QC-Other",CA: FR Addik TV-myserveriptv.com:2082@D-230807.fail3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213615
 #EXTINF:0 group-title="QC-Other",CA: FR Addik TV-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213615
 #EXTINF:0 group-title="QC-Other",CA: FR Canal Vie-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213613
+#EXTINF:0 group-title="QC-Other",CA: FR Canal Vie-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213613
 #EXTINF:0 group-title="QC-Other",CA: FR Canal Vie-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213613
 #EXTINF:0 group-title="QC-Other",CA: FR CBC Montreal-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213563
+#EXTINF:0 group-title="QC-Other",CA: FR CBC Montreal-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213563
 #EXTINF:0 group-title="QC-Other",CA: FR CBC Montreal-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213563
 #EXTINF:0 group-title="QC-Other",CA: FR Cine Pop-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213644
+#EXTINF:0 group-title="QC-Other",CA: FR Cine Pop-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213644
 #EXTINF:0 group-title="QC-Other",CA: FR Cine Pop-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213644
 #EXTINF:0 group-title="QC-Other",CA: FR Evasion-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213604
+#EXTINF:0 group-title="QC-Other",CA: FR Evasion-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213604
 #EXTINF:0 group-title="QC-Other",CA: FR Evasion-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213604
 #EXTINF:0 group-title="QC-Other",CA: Fr Francophonie 24 TV-7go.xyz:8080@D-230807.done
@@ -3728,14 +3744,20 @@ http://monte.mare7.co:8000/live/dXQXjEmsfT/CRHfuJqwzq/154921.ts
 http://srv4.tecnolab.top:8080/it908/29022020apmz/221483
 #EXTINF:0 group-title="QC-Other",CA: FR Moi Cie-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213617
+#EXTINF:0 group-title="QC-Other",CA: FR Moi Cie-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213617
 #EXTINF:0 group-title="QC-Other",CA: FR Moi Cie-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213617
 #EXTINF:0 group-title="QC-Other",CA: FR Music Plus-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/135359
+#EXTINF:0 group-title="QC-Other",CA: FR Music Plus-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/135359
 #EXTINF:0 group-title="QC-Other",CA: FR Music Plus-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/135359
 #EXTINF:0 group-title="QC-Other",CA: FR Prise 2-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213556
+#EXTINF:0 group-title="QC-Other",CA: FR Prise 2-myserveriptv.com:2082@D-230807.fail3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213556
 #EXTINF:0 group-title="QC-Other",CA: FR Prise 2-star8iptv.com:2082@D-230721.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213556
 #EXTINF:0 group-title="QC-Other",CA: Fr Rogers TV-7go.xyz:8080@D-230807.done
@@ -3746,6 +3768,8 @@ http://7go.xyz:8080/21982604800/21ghygtrfd/308836
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/233488
 #EXTINF:0 group-title="QC-Other",CA: FR Series+-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/31957
+#EXTINF:0 group-title="QC-Other",CA: FR Series+-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/31957
 #EXTINF:0 group-title="QC-Other",CA: FR Series+-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/31957
 #EXTINF:0 group-title="QC-Other",CA: Fr Tamil Vision TV-7go.xyz:8080@D-230807.done
@@ -3758,6 +3782,8 @@ http://daleplaypro.com:8080/Jorgenay2022/Cel955808388/233489
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/233489
 #EXTINF:0 group-title="QC-Other",CA: FR TV5 Quebec-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213627
+#EXTINF:0 group-title="QC-Other",CA: FR TV5 Quebec-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213627
 #EXTINF:0 group-title="QC-Other",CA: FR TV5 Quebec-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213627
 #EXTINF:0 group-title="QC-Other",CA: Fr Unis TV-7go.xyz:8080@D-230807.done
@@ -3768,14 +3794,20 @@ http://7go.xyz:8080/1tuvw9xs/kxy9po85/308838
 http://daleplaytv.vip:8080/Espnhhdhf/Teyebbfbf/233490
 #EXTINF:0 group-title="QC-Other",CA: FR Unis TV-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213565
+#EXTINF:0 group-title="QC-Other",CA: FR Unis TV-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213565
 #EXTINF:0 group-title="QC-Other",CA: FR Unis TV-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213565
 #EXTINF:0 group-title="QC-Other",CA: FR Zeste-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/113934
+#EXTINF:0 group-title="QC-Other",CA: FR Zeste-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/113934
 #EXTINF:0 group-title="QC-Other",CA: FR Zeste-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/113934
 #EXTINF:0 group-title="QC-Other",CA: FR Z Tele-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/135368
+#EXTINF:0 group-title="QC-Other",CA: FR Z Tele-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/135368
 #EXTINF:0 group-title="QC-Other",CA: FR Z Tele-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/135368
 #EXTINF:0 group-title="QC-Other",CA: FXX HD (FR)-awoxiptv.xyz:8080@D-230806.done
@@ -10160,6 +10192,8 @@ http://mains.services/live/wR34qMzGj3/6530858/4aea29e6-822a-4516-9300-ff6f265730
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/4aea29e6-822a-4516-9300-ff6f26573005.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 1-mains.services@D-230726.done.NC.dead
 http://mains.services/live/Grahxen/3docpGDalU/4aea29e6-822a-4516-9300-ff6f26573005.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA: Crave 1-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213609
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 1-playhispano.org:8080@D-230807.done
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253643
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE1-server.serveript.com:80@D-230807.done
@@ -10366,6 +10400,8 @@ http://mains.services/live/wR34qMzGj3/6530858/2da0df01-7653-4bed-bb95-cbcb2c991c
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 2-mains.services@D-230726.done.NC.dead
 http://mains.services/live/Grahxen/3docpGDalU/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA: Crave 2-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213608
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE2-p2flix.fun:80@D-230803.done
 http://p2flix.fun:80/7/7/116588
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 2-playhispano.org:8080@D-230807.done
@@ -10556,6 +10592,8 @@ http://mains.services/live/wR34qMzGj3/6530858/d2a25995-aceb-49af-aa80-710b36bfb0
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 3-mains.services@D-230726.done.NC.dead
 http://mains.services/live/Grahxen/3docpGDalU/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA: Crave 3-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213607
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE 3-nocable.cc:8080@D-230511.done
 http://nocable.cc:8080/turtle/turtle/57322
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 3-playhispano.org:8080@D-230807.done
@@ -10722,6 +10760,8 @@ http://mains.services/live/wR34qMzGj3/6530858/9e50f43d-801c-4229-beb3-38bdbf14dc
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
 #EXTINF:0 group-title="QC-Super Ecran",CA : CRAVE 4-mains.services@D-230726.done.NC.dead
 http://mains.services/live/Grahxen/3docpGDalU/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
+#EXTINF:0 group-title="QC-Super Ecran",CA: Crave 4-myserveriptv.com:2082@D-230807.fail3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213606
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE4-p2flix.fun:80@D-230803.done
 http://p2flix.fun:80/7/7/116590
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 4-playhispano.org:8080@D-230807.done
@@ -10874,14 +10914,20 @@ http://xtra.fireottplus.com:2052/344320547498/344320547498/146076
 http://xtra.fireottplus.com:2052/344320547498/344320547498/146077
 #EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 1-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213560
+#EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 1-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213560
 #EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 1-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213560
 #EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 2-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213631
+#EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 2-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213631
 #EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 2-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213631
 #EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 3-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/213561
+#EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 3-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/213561
 #EXTINF:0 group-title="QC-Super Ecran",CA: FR Super Ecran 3-star8iptv.com:2082@D-230730.done
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/213561
 #EXTINF:0 group-title="QC-Super Ecran",CA : HD SUPER ECRAN 1-xtra.fireottplus.com:2052@D-230803.done
@@ -16852,6 +16898,8 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/150607
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/150607
 #EXTINF:0 group-title="QC-Super Ecran",US-Logo-moods42.com:80@D-230612.done
 http://moods42.com:80/P1GNSA32/MXnmDbz40I/204447
+#EXTINF:0 group-title="QC-Super Ecran",US-Logo-myserveriptv.com:2082@D-230807.done
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208715
 #EXTINF:0 group-title="QC-Super Ecran",US-Logo-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/14239
 #EXTINF:0 group-title="QC-Super Ecran",US-Logo-sevi.2022spn.net:8080@D-230625.done
