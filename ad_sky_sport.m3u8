@@ -1,6 +1,6 @@
-#EXTM3U 8104
-#DATE 2023-08-11 21:48
-#EXTINF:0 group-title="Now-Klub",#### UK NOW SPORTS #####-ctvu.me:80@D-230811.done
+#EXTM3U 7796
+#DATE 2023-08-12 15:26
+#EXTINF:0 group-title="Now-Klub",### UK NOW SPORTS #####-ctvu.me:80@D-230811.done
 http://ctvu.me:80/Nicolas/Nicolas/1032490
 #EXTINF:0 group-title="Now-Klub",.RS. SPORT KLUB 1 HD-tv.pro-ott.com:25443@D-230628.done
 http://tv.pro-ott.com:25443/live/BEEGERY0CN/312U4GU1BO/116841.ts
@@ -294,6 +294,18 @@ http://pfsv.io:80/Maurohc3/Senhanova122/131011.ts
 http://pfsv.io:80/Felipe4432/Eduardo4553/131011.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230807.done
 http://pfsv.io:80/deumar/deumar/131011.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230812.done
+http://pfsv.io:80/gilmarmota0406/7657657/131011.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230812.done
+http://pfsv.io:80/ana1002/ana1002/131011.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230812.done
+http://pfsv.io:80/altair2099/4598altair/131011.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230812.done
+http://pfsv.io:80/sa12h9/rh15e3/131011.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230812.done
+http://pfsv.io:80/valmir6082/60822020/131011.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 1-pfsv.io:80@D-230812.done
+http://pfsv.io:80/elianolista/sualista/131011.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230807.done
 http://pfsv.io:80/paulo1/B8619MnocF/131012.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230807.done
@@ -326,6 +338,18 @@ http://pfsv.io:80/gui1020/102030/131012.ts
 http://pfsv.io:80/Henrique@/Henrique@2020/131012.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230807.done
 http://pfsv.io:80/Maurohc3/Senhanova122/131012.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230812.done
+http://pfsv.io:80/gilmarmota0406/7657657/131012.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230812.done
+http://pfsv.io:80/ana1002/ana1002/131012.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230812.done
+http://pfsv.io:80/altair2099/4598altair/131012.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230812.done
+http://pfsv.io:80/sa12h9/rh15e3/131012.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230812.done
+http://pfsv.io:80/valmir6082/60822020/131012.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 2-pfsv.io:80@D-230812.done
+http://pfsv.io:80/elianolista/sualista/131012.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230807.done
 http://pfsv.io:80/paulo1/B8619MnocF/131013.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230807.done
@@ -358,6 +382,18 @@ http://pfsv.io:80/Henrique@/Henrique@2020/131013.ts
 http://pfsv.io:80/Maurohc3/Senhanova122/131013.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230807.done
 http://pfsv.io:80/deumar/deumar/131013.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230812.done
+http://pfsv.io:80/gilmarmota0406/7657657/131013.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230812.done
+http://pfsv.io:80/ana1002/ana1002/131013.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230812.done
+http://pfsv.io:80/altair2099/4598altair/131013.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230812.done
+http://pfsv.io:80/sa12h9/rh15e3/131013.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230812.done
+http://pfsv.io:80/valmir6082/60822020/131013.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 3-pfsv.io:80@D-230812.done
+http://pfsv.io:80/elianolista/sualista/131013.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230807.done
 http://pfsv.io:80/paulo1/B8619MnocF/131014.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230807.done
@@ -390,6 +426,18 @@ http://pfsv.io:80/Maurohc3/Senhanova122/131014.ts
 http://pfsv.io:80/deumar/deumar/131014.ts
 #EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230807.done
 http://pfsv.io:80/Felipe4432/Eduardo4553/131014.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230812.done
+http://pfsv.io:80/gilmarmota0406/7657657/131014.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230812.done
+http://pfsv.io:80/ana1002/ana1002/131014.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230812.done
+http://pfsv.io:80/altair2099/4598altair/131014.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230812.done
+http://pfsv.io:80/sa12h9/rh15e3/131014.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230812.done
+http://pfsv.io:80/valmir6082/60822020/131014.ts
+#EXTINF:0 group-title="Now-Klub",[MY] Astro SuperSport 4-pfsv.io:80@D-230812.done
+http://pfsv.io:80/elianolista/sualista/131014.ts
 #EXTINF:0 group-title="Now-Klub",Astro Sooka  SuperSport 1-gtvstreams.me:80@D-230806.done
 http://gtvstreams.me:80/Robbie/Robbie/716930
 #EXTINF:0 group-title="Now-Klub",Astro Sooka  SuperSport 2-gtvstreams.me:80@D-230806.done
@@ -2294,10 +2342,32 @@ http://4k.boxip.org:8080/695553539585239/2076559245/89131.ts
 http://4k.boxip.org:8080/697303143383473/2052727552/89141.ts
 #EXTINF:0 group-title="Now-Klub",EX-YU  Sport Klub 5 SR HD-4k.boxip.org:8080@D-230627.done
 http://4k.boxip.org:8080/695553539585239/2076559245/89141.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 1 HD SLO-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16424.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 1 HR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16410.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 1 SR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16414.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 2 HD SLO-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16425.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 2 HR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16411.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 2 SR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16415.ts
 #EXTINF:0 group-title="Now-Klub",EXYU:SPORT KLUB 3 HD-be.iptivi.net:2086@D-230425.done
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/13956
 #EXTINF:0 group-title="Now-Klub",EXYU:SPORT KLUB 3 HD-gu.iptivi.net:2086@D-230421.done
 http://gu.iptivi.net:2086/guzel5943/xytRW2945g/13956
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 3 HD SLO-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16426.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 3 HR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16412.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 3 SR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16417.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 4 HD SLO-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16427.ts
+#EXTINF:0 group-title="Now-Klub",EX YU: Sport Klub 4 HR/SR HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/16418.ts
 #EXTINF:0 group-title="Now-Klub",EXYU BCKP: SR: SPORT KLUB 1 HD-boxportal.store:8080@D-230811.done
 http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/295633
 #EXTINF:0 group-title="Now-Klub",EXYU BCKP: SR: SPORT KLUB 1 HD-boxportal.store:8080@D-230811.done
@@ -9594,8 +9664,6 @@ http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/263
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/263
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-koolamy.live:80@D-230728.done
 http://koolamy.live:80/aabb_nelvic/f320b7e9/390941
-#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-kuchini.site:8080@D-230811.done
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/263
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/1821337.ts
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE-likea8bitboss.xyz:80@D-230630.done.NC.dead
@@ -9986,6 +10054,8 @@ http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/286361
 http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262408
 #EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-boxportal.store:8080@D-230811.done
 http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/299930
+#EXTINF:0 group-title="Sky",UK-Sky Sports Premier League HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/15982.ts
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE HD-gffs.8kugur.online:80@D-230603.done
 http://gffs.8kugur.online:80/bbs4336/uGtgMp2Rc8Wv/135251
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE HD-gotv.vip:8880@D-230806.done
@@ -10084,14 +10154,6 @@ http://263750967376301744.ot0711.xyz:80/play/vd08206/2960766689/301744.ts
 http://263750967376314012.ot0711.xyz:80/play/vd08206/2960766689/314012.ts
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE HEVC-51473136914301744.of3805.xyz:80@D-230811.done
 http://51473136914301744.of3805.xyz:80/play/D8TNPXGL7V/STvG6fah@P/301744.ts
-#EXTINF:0 group-title="Sky",UK-Sky Sports Premier league SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/262409
-#EXTINF:0 group-title="Sky",UK-Sky Sports Premier league SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/262409
-#EXTINF:0 group-title="Sky",UK-Sky Sports Premier league SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262409
-#EXTINF:0 group-title="Sky",UK-Sky Sports Premier Leagueⓧ SD-xplatinmedia.com:8080@D-230811.done
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61579
 #EXTINF:0 group-title="Sky",UK- Sky Sports Premier League UHD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62554
 #EXTINF:0 group-title="Sky",UK- Sky Sports Premier League UHD-2hubs.ddns.net:25461@D-230610.done
@@ -10118,44 +10180,6 @@ http://scorpione.net:25461/Filipe/123456/172402
 http://scorpione.net:25461/LHOCIEN/MO7AMED2/172402
 #EXTINF:0 group-title="Sky",UK-SKY SPORTS PREMIER LEAGUE VIP-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/497822.ts
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 01-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014241
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 02-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014242
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 03-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014243
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 04-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014244
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 05-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014245
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 06-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014246
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 07-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014247
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 08-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014248
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 09-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014249
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 10-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014250
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 11-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014251
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 12-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014252
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 13-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014253
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 14-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014254
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 15-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014255
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 16-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014256
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 17-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014257
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 18-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014258
-#EXTINF:0 group-title="Sky",UK-SKY SPORTS RED BUTTON 19-ctvu.me:80@D-230811.done
-http://ctvu.me:80/Nicolas/Nicolas/1014259
 #EXTINF:0 group-title="Sky",UK-UK FHD  Sky Sports Premier League FHD-mybox.plus:80@D-230728.done
 http://mybox.plus:80/hisham/123456/150708
 #EXTINF:0 group-title="Sky",UK-UKHD Sky Sports Premier League HD-mybox.plus:80@D-230712.done
@@ -11112,6 +11136,8 @@ http://7go.xyz:8080/21041987/21041987/306305
 http://7go.xyz:8080/2326367/323448/306305
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sport Football HD-7go.xyz:8080@D-230807.done
 http://7go.xyz:8080/21982604800/21ghygtrfd/306305
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sport Football HD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/5512991313469/91313469abba/306305
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sport Football HD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/137160
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sport Main Event-76271.atr91.com:80@D-230728.done
@@ -11390,8 +11416,6 @@ http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/265
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/265
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-kalitelitv.xyz:8080@D-230703.done
 http://kalitelitv.xyz:8080/almnihat/GgN4CUDGxN/171497
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-kuchini.site:8080@D-230811.done
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/265
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/1846774.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1-likea8bitboss.xyz:80@D-230630.done.NC
@@ -11864,6 +11888,8 @@ http://ctvu.me:80/Nicolas/Nicolas/83453
 http://domainame.lg.ua:8080/play/WNltiUwx_cy51QNptBhA6XtGx5EfeOIKXA_7SpCAYRjLhOFQfLCAJnLLb8UVAV-t
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-domainame.lg.ua:8080@D-230803.done
 http://domainame.lg.ua:8080/play/45f7W2Rc7_EkhEj_uReuEI7LoXA0DM0_putvvO5mNEP3LsbVmxqqxq3v6Efv7JWs
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/15976.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 HD-gffs.8kugur.online:80@D-230603.done
 http://gffs.8kugur.online:80/bbs4336/uGtgMp2Rc8Wv/135255
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 HD-hardcoremedia.xyz:80@D-230502.done
@@ -12044,12 +12070,6 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/130349
 http://zeintv.xyz:8080/55225522/55225522/130349
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 HD 25-23.134.94.129:8080@D-230811.done
 http://23.134.94.129:8080/kobra_telegram/jvWdJf4P23rJ/131679
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/262417
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1 SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262417
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports F1ⓧ SD-xplatinmedia.com:8080@D-230811.done
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/144
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS F1 UHD-germanydnsx15.com:8080@D-230803.done
 http://germanydnsx15.com:8080/mustafa123/123mustafa/86109
 #EXTINF:0 group-title="Sky-F1-Foot",UK- SKY SPORTS F1  UHD-meuservicotv.club:8000@D-230620.done
@@ -12284,8 +12304,6 @@ http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/266
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/266
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-koolamy.live:80@D-230728.done
 http://koolamy.live:80/aabb_nelvic/f320b7e9/390947
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-kuchini.site:8080@D-230811.done
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/266
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football-ky-iptv.com:80@D-230708.done
 http://ky-iptv.com:80/clayton21/clayton2021/1846775.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL-likea8bitboss.xyz:80@D-230630.done.NC
@@ -12486,6 +12504,20 @@ http://7go.xyz:8080/4184030032/6zw35535/306309
 http://7go.xyz:8080/2362378/573948/306309
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230811.done
 http://7go.xyz:8080/jairopt58/34mp3g/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/Clennon28/C283772/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/RPLQemQ9/oYGnP3dz/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/5197198370/aa519719/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/5512991313469/91313469abba/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/keila91672855/91672855keila/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/FrancieleSouzaEUA/9dh38jd97/306309
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/4lywh215/3ubefgdq/306309
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-a36m.net:8080@D-230806.done
 http://a36m.net:8080/fsbsWq/L4FCczaJDy/76285
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football FHD-ab05.xyz:80@D-230414.done
@@ -12632,6 +12664,8 @@ http://ctvu.me:80/Nicolas/Nicolas/83452
 http://domainame.lg.ua:8080/play/WNltiUwx_cy51QNptBhA6XtGx5EfeOIKXA_7SpCAYRhPTNLADO64r653kCzRtG8B
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-domainame.lg.ua:8080@D-230803.done
 http://domainame.lg.ua:8080/play/45f7W2Rc7_EkhEj_uReuEI7LoXA0DM0_putvvO5mNEPnRKjWLGdLfgNqA9wjDApy
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/15977.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD-germanyipbox.com:8000@D-230503.done
 http://germany.bestipbox.com:8000/eulm49/qXOvtVEGID/88959
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS FOOTBALL HD-gffs.8kugur.online:80@D-230603.done
@@ -12724,14 +12758,6 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/130337
 http://zeintv.xyz:8080/55225522/55225522/130337
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football HD 25-23.134.94.129:8080@D-230811.done
 http://23.134.94.129:8080/kobra_telegram/jvWdJf4P23rJ/131681
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/262411
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/262411
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Football SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262411
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Footballⓧ SD-xplatinmedia.com:8080@D-230811.done
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/61577
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Football UHD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62555
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Football UHD-2hubs.ddns.net:25461@D-230610.done
@@ -13028,8 +13054,6 @@ http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/283053
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/283053
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-koolamy.live:80@D-230728.done
 http://koolamy.live:80/aabb_nelvic/f320b7e9/390945
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event-kuchini.site:8080@D-230811.done
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283053
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT-likea8bitboss.xyz:80@D-230630.done.NC
 http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/761348
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT-likea8bitboss.xyz:80@D-230703.done.NC
@@ -13204,6 +13228,10 @@ http://appfactory.group:8080/54bDUMBXu9/eiZ0BuJQAS/2351
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/2351
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event FHD-appfactory.group:8080@D-230811.done
 http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/2351
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event FHD-appfactory.group:8080@D-230812.done
+http://appfactory.group:8080/DWE6ci3KTN/CciNyfHTce/2351
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event FHD-appfactory.group:8080@D-230812.done
+http://appfactory.group:8080/z7ngPcVwjO/Ctx1Lz6kla/2351
 #EXTINF:0 group-title="Sky-F1-Foot",UK- Sky Sports Main Event FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/7960
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT FHD-ctvu.me:80@D-230811.done
@@ -13448,6 +13476,8 @@ http://cdn.rtyh.xyz:80/30sonia/37982618/235997
 http://domainame.lg.ua:8080/play/WNltiUwx_cy51QNptBhA6XtGx5EfeOIKXA_7SpCAYRjP-mautCc3Hx1OBnM1hpJk
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-domainame.lg.ua:8080@D-230803.done
 http://domainame.lg.ua:8080/play/45f7W2Rc7_EkhEj_uReuEI7LoXA0DM0_putvvO5mNEMMICs6aaidTbwSlpeKuoOA
+#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/15980.ts
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT HD-fortv.cc:8080@D-230811.done
 http://fortv.cc:8080/jonathan/jonathan/137720
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENT HD-gffs.8kugur.online:80@D-230603.done
@@ -13528,12 +13558,6 @@ http://ky-iptv.com:80/clayton21/clayton2021/1847084.ts
 http://watchalien.ddns.net:2095/1813901482/6329933888/6565
 #EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Events-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/1847084.ts
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/262407
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event SD-boxportal.store:8080@D-230811.done
-http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262407
-#EXTINF:0 group-title="Sky-F1-Foot",UK-Sky Sports Main Event ⓧ SD-xplatinmedia.com:8080@D-230811.done
-http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/143064
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENTS HD-ctvu.me:80@D-230811.done
 http://ctvu.me:80/Nicolas/Nicolas/83450
 #EXTINF:0 group-title="Sky-F1-Foot",UK-SKY SPORTS MAIN EVENTS HD-ip365.cx:80@D-230606.done
@@ -14400,6 +14424,10 @@ http://appfactory.group:8080/54bDUMBXu9/eiZ0BuJQAS/1115
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/1115
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 1 HD-appfactory.group:8080@D-230811.done
 http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/1115
+#EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 1 HD-appfactory.group:8080@D-230812.done
+http://appfactory.group:8080/DWE6ci3KTN/CciNyfHTce/1115
+#EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 1 HD-appfactory.group:8080@D-230812.done
+http://appfactory.group:8080/z7ngPcVwjO/Ctx1Lz6kla/1115
 #EXTINF:0 group-title="UK-Eurosport",UK-EuroSport 1 HD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/137082
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 1 HD-boxportal.store:8080@D-230811.done
@@ -14410,6 +14438,8 @@ http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/262425
 http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262425
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-ctvu.me:80@D-230811.done
 http://ctvu.me:80/Nicolas/Nicolas/547746
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/15919.ts
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-germanyipbox.com:8000@D-230503.done
 http://germany.bestipbox.com:8000/eulm49/qXOvtVEGID/88968
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 1 HD-germanyipbox.com:8000@D-230503.done
@@ -14956,6 +14986,10 @@ http://appfactory.group:8080/54bDUMBXu9/eiZ0BuJQAS/1116
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/1116
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 2 HD-appfactory.group:8080@D-230811.done
 http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/1116
+#EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 2 HD-appfactory.group:8080@D-230812.done
+http://appfactory.group:8080/DWE6ci3KTN/CciNyfHTce/1116
+#EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 2 HD-appfactory.group:8080@D-230812.done
+http://appfactory.group:8080/z7ngPcVwjO/Ctx1Lz6kla/1116
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 2 HD-boxportal.store:8080@D-230811.done
 http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/262426
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosport 2 HD-boxportal.store:8080@D-230811.done
@@ -14964,6 +14998,8 @@ http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/262426
 http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/262426
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-ctvu.me:80@D-230811.done
 http://ctvu.me:80/Nicolas/Nicolas/547747
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-fairsgo.net:8080@D-230812.done
+http://fairsgo.net:8080/live/Ionut-Drondu/22aGuMcRzbQwuMcR/15920.ts
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-germanyipbox.com:8000@D-230503.done
 http://germany.bestipbox.com:8000/eulm49/qXOvtVEGID/88969
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORT 2 HD-germanyipbox.com:8000@D-230503.done
@@ -15208,6 +15244,10 @@ http://7go.xyz:8080/1tuvw9xs/kxy9po85/306262
 http://7go.xyz:8080/2326367/323448/306262
 #EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORTS 2 HD-7go.xyz:8080@D-230807.done
 http://7go.xyz:8080/21982604800/21ghygtrfd/306262
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORTS 2 HD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/5512991313469/91313469abba/306262
+#EXTINF:0 group-title="UK-Eurosport",UK-EUROSPORTS 2 HD-7go.xyz:8080@D-230812.done
+http://7go.xyz:8080/4lywh215/3ubefgdq/306262
 #EXTINF:0 group-title="UK-Eurosport",UK- EUROSPORTS 2 HD-iron-man.life:8000@D-230706.done
 http://iron-man.life:8000/Leonel-ab/Tyuiop123reza/25501
 #EXTINF:0 group-title="UK-Eurosport",UK-Eurosports 2 HD-url.linesecurity.cyou:8080@D-230806.done
