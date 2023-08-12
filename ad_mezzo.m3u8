@@ -1,5 +1,5 @@
-#EXTM3U 7403
-#DATE 2023-08-07 19:58
+#EXTM3U 8252
+#DATE 2023-08-11 20:45
 #EXTINF:0 group-title="Mezzo",(PT) MEZZO-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/15547
 #EXTINF:0 group-title="Mezzo",(PT) MEZZO-moontools.me:8080@D-230328.done.best
@@ -18,8 +18,12 @@ http://iptv-gmeuro.dyndns.tv:25461/mc_Cgerla/GCiropass/713
 http://line.iptv-4k.cc:80/8882D1/411458/2651
 #EXTINF:0 group-title="Mezzo",[NL] MEZZO HEVC-line.iptv-4k.cc:80@D-230803.done
 http://line.iptv-4k.cc:80/8882D1/411458/15556
+#EXTINF:0 group-title="Mezzo",[NL] MEZZO TV HD-fix.mniltv.xyz:8080@D-230811.done
+http://fix.mniltv.xyz:8080/arda5436/3Ag59XqNjkqj/77683
 #EXTINF:0 group-title="Mezzo",[PT] MEZZO-hd.turki.stream:8080@D-230703.done
 http://hd.turki.stream:8080/aydnfrck/6CtVgjUCScMA/92420
+#EXTINF:0 group-title="Mezzo",[RU]  Mezzo-fix.mniltv.xyz:8080@D-230811.done
+http://fix.mniltv.xyz:8080/arda5436/3Ag59XqNjkqj/147531
 #EXTINF:0 group-title="Mezzo",[RUS] MEZZO HD-appfactory.group:8080@D-230728.done
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/1598
 #EXTINF:0 group-title="Mezzo",AF.Mezzo HD-zeintv.xyz:8080@D-230621.done
@@ -50,6 +54,10 @@ http://hide55ss.online:8080/ibrahimkaplan2/NLXYKN5kA4vN/276393
 http://iptvsantral1.xyz:8080/mNtRKwSasB/zjtdWcEKxG/276393
 #EXTINF:0 group-title="Mezzo",BE: MEZZO-referans35.xyz:8080@D-230803.done
 http://referans35.xyz:8080/nJsYVAwBnHRA/PkbdTtkNsQwh/276393
+#EXTINF:0 group-title="Mezzo",BE MEZZO-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/811956
+#EXTINF:0 group-title="Mezzo",BE MEZZO-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/812038
 #EXTINF:0 group-title="Mezzo",BE MEZZO-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/811956
 #EXTINF:0 group-title="Mezzo",BE MEZZO-portal.magic8kip.tv:80@D-230725.done
@@ -86,6 +94,28 @@ http://iptv-rks.com:25461/SarandaFazliu/uK9PwadVuzgt/3812
 http://pandar.plus:25461/tSN7rESrAftqbRe/ZgzLqLAOMJvufcR/127811
 #EXTINF:0 group-title="Mezzo",ES - Mezzo-nlgteam.ddns.net:80@D-230707.done.NC.dead
 http://nlgteam.ddns.net:80/VipDavExch/ZtJDXPWmAV/1637
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/james_wong_telegram/SbDSs3Ss9Q4q/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/kobra_telegram/jvWdJf4P23rJ/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/gotsugar/Juma2ySyG9/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/n0pb0tdiscord/vsVw4f8ss7/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/dageek_discord/nm2Fu5HFxT/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/magicman_telegram/STFFdytQu5U5/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/AngelaMc/AMC0591/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/gotsugar_maxnet/3BQVJFAJC4/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/the_guardian/nwcYw8JukH5C/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/80761
+#EXTINF:0 group-title="Mezzo",ES: Mezzo-23.134.94.129:8080@D-230811.done
+http://23.134.94.129:8080/orbyt_magic_telegram/2YApHeJjZC/80761
 #EXTINF:0 group-title="Mezzo",ES: MEZZO-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1301052
 #EXTINF:0 group-title="Mezzo",ES: MEZZO-cdn.erost.us:8080@D-230715.done
@@ -102,6 +132,8 @@ http://moontools.me:8080/124BERWICK/SF6PTv6DX5QY/1301052
 http://moontools.me:8080/franmujica/v2sJ5r2tyb/1301052
 #EXTINF:0 group-title="Mezzo",ES: MEZZO-n1.koalatv.xyz:2052@D-230619.done
 http://n1.koalatv.xyz:2052/1/49974484/142210
+#EXTINF:0 group-title="Mezzo",ES: MEZZO-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/142210
 #EXTINF:0 group-title="Mezzo",ES: MEZZO-niaip.com:80@D-230315.done
 http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/492096
 #EXTINF:0 group-title="Mezzo",ES: Mezzo-premium-ks.ddns.net:88@D-230727.done
@@ -130,6 +162,8 @@ http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/35005
 http://vipchanoen.top:8080/live/VIP0167168517643003/61685176430/34145.ts
 #EXTINF:0 group-title="Mezzo",ES: Mezzo-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/34145.ts
+#EXTINF:0 group-title="Mezzo",ES : MEZZO-watchalien.ddns.net:2095@D-230811.done
+http://watchalien.ddns.net:2095/1813901482/6329933888/7411
 #EXTINF:0 group-title="Mezzo",ES: MEZZO FHD-5.44.253.151:80@D-230311.done.NC.dead
 http://5.44.253.151:80/Selver123/Selver123/389079.ts
 #EXTINF:0 group-title="Mezzo",ES: MEZZO FHD-awoxiptv.xyz:8080@D-230806.done
@@ -150,6 +184,8 @@ http://375060664772538668.ot0711.xyz:80/play/Elias/8683723805/538668.ts
 http://383747181953538668.ot0711.xyz:80/play/67WT243VS4/4897979791/538668.ts
 #EXTINF:0 group-title="Mezzo",ES: MEZZO SD-733070605556538668.ot0711.xyz:80@D-230723.done
 http://733070605556538668.ot0711.xyz:80/play/fe605229/UbQrQMqTeD76/538668.ts
+#EXTINF:0 group-title="Mezzo",ES: MEZZO SD-741731953629538668.of3805.xyz:80@D-230811.done
+http://741731953629538668.of3805.xyz:80/play/ja0308649/9h3SmfbRHY/538668.ts
 #EXTINF:0 group-title="Mezzo",ES: MEZZO SD-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/194727
 #EXTINF:0 group-title="Mezzo",ES: Mezzo SD-tv.titanicos.net:2095@D-230717.done
@@ -234,6 +270,8 @@ http://sansat.org:25461/02029487602778/de3986bb25e24a34/127804
 http://superbtv.online:8080/DrafuZ9mtp/cR5jM6mrBP/324919
 #EXTINF:0 group-title="Mezzo",ES MEZZO ©-tesslatv.net:80@D-230407.done
 http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/116317.ts
+#EXTINF:0 group-title="Mezzo",ES  MEZZO-tv.challenge.tn:2052@D-230811.done
+http://tv.challenge.tn:2052/jben7800/sidi765/9967
 #EXTINF:0 group-title="Mezzo",ES MEZZO-vodkom.net:25461@D-230803.done
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/127804
 #EXTINF:0 group-title="Mezzo",ES MEZZO 4K-89.37.116.35:2089@D-230716.done
@@ -246,10 +284,14 @@ http://obsfullhd.tv:25461/geoffrey2/t95ukVHaNarP/56670
 http://magott.net:80/cafemers/112233/2754
 #EXTINF:0 group-title="Mezzo",ES MEZZO  HD-magott.net:80@D-230803.done
 http://magott.net:80/okota385/3254615854211/2754
+#EXTINF:0 group-title="Mezzo",ES MEZZO  HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/2754
 #EXTINF:0 group-title="Mezzo",ES MEZZO HD-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/51390
 #EXTINF:0 group-title="Mezzo",ES  Mezzoⓧ SD-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48660
+#EXTINF:0 group-title="Mezzo",ES  Mezzoⓧ SD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/48660
 #EXTINF:0 group-title="Mezzo",ESP - MEZZO SD-nlgteam.ddns.net:80@D-230630.done.NC.dead
 http://nlgteam.ddns.net:80/pimptvexchg/EaTHJEyOcj/26225
 #EXTINF:0 group-title="Mezzo",ESP - MEZZO SD-nlgteam.ddns.net:80@D-230709.done.NC.dead
@@ -262,6 +304,10 @@ http://nlgteam.ddns.net:80/Alliptv/ExchgAlliptv/26225
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/267481
 #EXTINF:0 group-title="Mezzo",FR-(C+AF) MEZZO-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/112809
+#EXTINF:0 group-title="Mezzo",FR-(C+AF) MEZZO-1.revportal.eu:80@D-230811.done
+http://1.revportal.eu:80/SPIDER_mpXxio/JUMusgQUzE/112809
+#EXTINF:0 group-title="Mezzo",FR-(C+AF) MEZZO-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/112809.m3u8
 #EXTINF:0 group-title="Mezzo",FR-(C+AF) MEZZO-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/112809
 #EXTINF:0 group-title="Mezzo",FR-(C+AF) MEZZO-onrev.xyz:80@D-230806.done
@@ -278,6 +324,10 @@ http://gediz.online:8080/UfukGoksu1/uTyf87bNBD/264952
 http://iptvbudur.xyz:8080/engin3535/EQeeEZEm42BF/264952
 #EXTINF:0 group-title="Mezzo",FR-2MB+  MEZZO HD-superbtv.online:8080@D-230716.done
 http://superbtv.online:8080/zehra7813026/tRfvWcyxfSyA/264952
+#EXTINF:0 group-title="Mezzo",FR-4K MEZZO -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96878
+#EXTINF:0 group-title="Mezzo",FR-HD MEZZO -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96877
 #EXTINF:0 group-title="Mezzo",FR-Mezzo (HD)-nxtplay.xyz:8080@D-230512.done
 http://nxtplay.xyz:8080/VZ4GYOtUrqVP1FV/qEOISzIJKDHQCOECyl/361843
 #EXTINF:0 group-title="Mezzo",FR-Mezzo (HD)-tigerkanaler2.loginto.me:8080@D-230730.done
@@ -296,6 +346,8 @@ http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/361843
 http://tigerkanaler2.loginto.me:8080/SnX6ArNtzt/RQh6uwkB8a/361843
 #EXTINF:0 group-title="Mezzo",FR-Mezzo (HD)-tigerkanaler2.loginto.me:8080@D-230730.done
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/361843
+#EXTINF:0 group-title="Mezzo",FR-Mezzo-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/230026
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/230026
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-159734.mavitv.eu:80@D-230728.done
@@ -366,12 +418,26 @@ http://appfactory.group:8080/MbK9LR5x8m/ZUTX1ow37b/2020
 http://appfactory.group:8080/NwxLJCekzY/2m2x7FLyX8/2020
 #EXTINF:0 group-title="Mezzo",FR- Mezzo-appfactory.group:8080@D-230728.done
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/2020
+#EXTINF:0 group-title="Mezzo",FR- Mezzo-appfactory.group:8080@D-230811.done
+http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/2020
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-baseel.top:8080@D-230803.done
 http://baseel.top:8080/live/71685027297087/01685027297/8138.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/498608.ts
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/212613
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/212613
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/212613
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/8138.ts
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/941664923552657016/4751664923552657/8138.ts
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/371668264135561045/8631668264135561/8138.ts
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/161678907076328072/6291678907076328/8138.ts
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/34263844/14193048/53671
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-cdn.erost.us:8080@D-230715.done
@@ -390,10 +456,14 @@ http://domainame.lg.ua:8080/play/45f7W2Rc7_EkhEj_uReuEEp8rOFDWGmecJapjXUyemP7IbX
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/496690
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-evolved.host:8080@D-230604.done.NC
 http://evolved.host:8080/lou99/c8DtRWieta/496690
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-fix.mniltv.xyz:8080@D-230811.done
+http://fix.mniltv.xyz:8080/arda5436/3Ag59XqNjkqj/84257
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-gamsgo.cyou:8080@D-230613.done
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/5355
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/5355
+#EXTINF:0 group-title="Mezzo",FR-Mezzo-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/5355
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/8138.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-halostyle.top:8080@D-230624.done
@@ -408,6 +478,8 @@ http://halostyle.top:8080/live/141661869418158/7631661869418158/8138.ts
 http://iptv7.premium-stv.com:2082/A2109/mHEAG3jvRhh6/360795
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5355
+#EXTINF:0 group-title="Mezzo",FR-Mezzo-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/5355
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-kuchini.site:8080@D-230523.done
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5355
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-kuchini.site:8080@D-230709.done
@@ -454,6 +526,8 @@ http://metalbchm.xyz:8080/Gurkan85/8mVCEderba/157725
 http://mybox.plus:80/hisham/123456/118818
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-n1.koalatv.xyz:2052@D-230619.done
 http://n1.koalatv.xyz:2052/1/49974484/15220
+#EXTINF:0 group-title="Mezzo",FR-MEZZO-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/15220
 #EXTINF:0 group-title="Mezzo",FR-MEZZO-nepenthes.top:8080@D-230627.done
 http://nepenthes.top:8080/live/7571660336847260/5151660336847260/8138.ts
 #EXTINF:0 group-title="Mezzo",FR- Mezzo-nlgteam.ddns.net:80@D-230630.done.NC.dead
@@ -470,6 +544,8 @@ http://nlgteam.ddns.net:80/dvbcrypt/cxNLE8hvVm/6300
 http://nlgteam.ddns.net:80/VipDavExch/ZtJDXPWmAV/6300
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/427778
+#EXTINF:0 group-title="Mezzo",FR-Mezzo-redmonkeytv.com:8080@D-230811.done
+http://redmonkeytv.com:8080/test1234/test1234/25559
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/28130
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-skylogic.site:8080@D-230730.done
@@ -490,6 +566,8 @@ http://vipchanoen.top:8080/live/VIP0167168517643003/61685176430/561.ts
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/561.ts
 #EXTINF:0 group-title="Mezzo",FR-Mezzo-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/5355
+#EXTINF:0 group-title="Mezzo",FR-Mezzo-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/5355
 #EXTINF:0 group-title="Mezzo",FR-MEZZO 4K-ott1.co:8080@D-230627.done
 http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/143651.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO 8K-m3u.ottc.pro:80@D-230716.done
@@ -538,6 +616,8 @@ http://2678ydr.xyz:80/live/yavuzistanbul.2022/aa10092022zz/227049.ts
 http://almanya505.com:80/live/urar308/14092021g.s/227049.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127351
+#EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/506490
 #EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-dual1.nsviptv.xyz:80@D-230722.done
 http://dual1.nsviptv.xyz:80/47935867650/6zM69kNFwb/164023
 #EXTINF:0 group-title="Mezzo",FR-MEZZO FHD-dual2.rsviptv.xyz:80@D-230728.done
@@ -744,6 +824,8 @@ http://magott.net:80/cafemers/112233/863
 http://magott.net:80/m5ge2TQ7Tr9Q/5JKyFNz2xuHD/863
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HD-magott.net:80@D-230803.done
 http://magott.net:80/okota385/3254615854211/863
+#EXTINF:0 group-title="Mezzo",FR-MEZZO HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/863
 #EXTINF:0 group-title="Mezzo",FR-Mezzo HD-myserveriptv.com:2082@D-230705.done
 http://myserveriptv.com:2082/Derkaoui/fDmZMAtQUu/20976
 #EXTINF:0 group-title="Mezzo",FR-Mezzo HD-myserveriptv.com:2082@D-230807.done
@@ -866,6 +948,8 @@ http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/15149.ts
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/15149.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/15149.ts
+#EXTINF:0 group-title="Mezzo",FR-MEZZO HD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/15149.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HD-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/15149.ts
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HD-x.v-iptv.com:25443@D-230522.done
@@ -876,6 +960,8 @@ http://x.v-iptv.com:25443/live/V7P0ZjHCInlv/7Cp8sXGgBA/15149.ts
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/15149.ts
 #EXTINF:0 group-title="Mezzo",FR- Mezzoⓧ HD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9241
+#EXTINF:0 group-title="Mezzo",FR-Mezzoⓧ HD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/9241
 #EXTINF:0 group-title="Mezzo",FR-Mezzo HD-zeintv.xyz:8080@D-230313.done
 http://zeintv.xyz:8080/05314536123/WMuXHbbsxBs5/129913
 #EXTINF:0 group-title="Mezzo",FR-Mezzo HD-zeintv.xyz:8080@D-230507.done
@@ -930,6 +1016,8 @@ http://arrepiado.xyz:8080/eduardoferreira/EDF231021/68307
 http://arrepiado.xyz:8080/ASilvestre10/101112/68307
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HEVC-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/69311
+#EXTINF:0 group-title="Mezzo",FR-MEZZO HEVC-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/28672
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HEVC-portal.dm-lv.com:8080@D-230429.done
 http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/184580
 #EXTINF:0 group-title="Mezzo",FR-MEZZO HEVC-tesslatv.net:80@D-230407.done
@@ -1012,6 +1100,8 @@ http://sansat.org:25461/02029487602778/de3986bb25e24a34/127383
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/127383
 #EXTINF:0 group-title="Mezzo",FR- Mezzoⓧ SD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/67257
+#EXTINF:0 group-title="Mezzo",FR-Mezzoⓧ SD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/67257
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-104.244.73.237:8080@D-230714.done
 http://104.244.73.237:8080/ahmetsubasi/6266977291/71425
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-54thegeek.de:8080@D-230803.done
@@ -1020,6 +1110,8 @@ http://54thegeek.de:8080/Aliffm1234/Sdert45thf/20924
 http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/71425
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-amazingiptv.life:8080@D-230703.done
 http://amazingiptv.life:8080/N7PwW2PSze9K/SHwhT4hctv3U/293142
+#EXTINF:0 group-title="Mezzo",FR-MEZZO TV-amazingiptv.life:8080@D-230811.done
+http://amazingiptv.life:8080/cenk7186716/RrPG4YsZJtBC/293142
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-club.panelchanel.xyz:8080@D-230530.done.NC.dead
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/4531.m3u
 #EXTINF:0 group-title="Mezzo",FR-MEZZO TV-club.panelchanel.xyz:8080@D-230606.done.NC.dead
@@ -1116,6 +1208,10 @@ http://mxu03.wanicelife.com:8880/12mmk0810053/75147417/28103
 http://xtr.ottprotv.com:80/live/X582231298216492/X582231298216492/4530.ts
 #EXTINF:0 group-title="Mezzo",France   MEZZO HD-ok4.club:25461@D-230601.done
 http://ok4.club:25461/JJ020915/4073006144/1046
+#EXTINF:0 group-title="Mezzo",France   MEZZO HD-ok4.club:25461@D-230811.done
+http://ok4.club:25461/OrlanRios1/Ceye6AzUTN/1046
+#EXTINF:0 group-title="Mezzo",France   MEZZO HD-ok4.club:25461@D-230811.done
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/1046
 #EXTINF:0 group-title="Mezzo",FRFHD MEZZO FR-sultan-iptv.com:8089@D-230714.done
 http://sultan-iptv.com:8089/0102030405/123456789/83194
 #EXTINF:0 group-title="Mezzo",FRMEZZO HD-kingtop10.net:7070@D-230625.done
@@ -1156,12 +1252,16 @@ http://1.revportal.eu:80/SPIDER_FE418D/nfgnvBuh3c/77047
 http://1.revportal.eu:80/SPIDER_3jZBwb/Ur3Qs8zTZ5/77047
 #EXTINF:0 group-title="Mezzo",MEZZO-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_i98fJ7/OyeTE8gq05/77047
+#EXTINF:0 group-title="Mezzo",MEZZO-1.revportal.eu:80@D-230811.done
+http://1.revportal.eu:80/SPIDER_mpXxio/JUMusgQUzE/77047
 #EXTINF:0 group-title="Mezzo",Mezzo-125c43e8.amazzin.pw@D-230625.done
 http://125c43e8.amazzin.pw/iptv/G8K83VRM8BL63W/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-176.222.190.74@D-230807.fail3
-http://176.222.190.74/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-1ef06edc.melpakomn.ru@D-230804.done
 http://1ef06edc.melpakomn.ru/iptv/DZ8L5KH929Y57H/707/index.m3u8
+#EXTINF:0 group-title="Mezzo",MEZZO-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/133173.m3u8
+#EXTINF:0 group-title="Mezzo",MEZZO-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/77047.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/77047
 #EXTINF:0 group-title="Mezzo",MEZZO-2.revportal.eu:80@D-230806.done
@@ -1242,8 +1342,6 @@ http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/707/index.m3u8
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/145514
 #EXTINF:0 group-title="Mezzo",Mezzo-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/707/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo-88c0ad0b.ottrast.com@D-230807.done
-http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-8b5d5460.akadatel.com@D-230625.done
@@ -1376,6 +1474,10 @@ http://cmsott.com:8080/JahiAdili/x95JGrUW45ut/23125
 http://cmsott.com:8080/remzirexhepimek/kTP8RVCSZwyZ/23125
 #EXTINF:0 group-title="Mezzo",MEZZO-cmsott.com:8080@D-230806.done
 http://cmsott.com:8080/remzirexhepimek/kTP8RVCSZwyZ/23277
+#EXTINF:0 group-title="Mezzo",MEZZO-cmsott.com:8080@D-230811.done
+http://cmsott.com:8080/beniiskee/zfT7FrKwBw3f/23125
+#EXTINF:0 group-title="Mezzo",MEZZO-cmsott.com:8080@D-230811.done
+http://cmsott.com:8080/beniiskee/zfT7FrKwBw3f/23277
 #EXTINF:0 group-title="Mezzo",Mezzo-cv7jhvdz.otttv.pw@D-230718.done
 http://cv7jhvdz.otttv.pw/iptv/VX3A3MXVB42Q3Z/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-czrb8vng.ottclub.xyz@D-230510.done
@@ -1670,8 +1772,10 @@ http://omdtxvgd.otttv.pw/iptv/WTRMLWF6MHW5NG/707/index.m3u8
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/77047
 #EXTINF:0 group-title="Mezzo",MEZZO-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/133173
-#EXTINF:0 group-title="Mezzo",Mezzo-ott-cdn.ucom.am@D-230807.fail3
-http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:0 group-title="Mezzo",MEZZO-onrev.xyz:80@D-230811.done
+http://onrev.xyz:80/rQrw9cY0/94sxyzn9Lm/77047
+#EXTINF:0 group-title="Mezzo",Mezzo-p2cineshow.fun:80@D-230811.done
+http://p2cineshow.fun:80/602778983762/129403165159/1081102
 #EXTINF:0 group-title="Mezzo",Mezzo-ponferrada.toppanel.ru:8080@D-230721.done
 http://ponferrada.toppanel.ru:8080/0V689247AP610625P/zXGxvyySiu/496
 #EXTINF:0 group-title="Mezzo",Mezzo-ponferrada.toppanel.ru:8080@D-230721.done
@@ -1770,6 +1874,10 @@ http://ponferrada.toppanel.ru:8080/2RE67058K9302062R/XPBRvc3Xfd/496
 http://ponferrada.toppanel.ru:8080/5XW99502EJ216774W/WTiUYXtxgA/496
 #EXTINF:0 group-title="Mezzo",Mezzo-ponferrada.toppanel.ru:8080@D-230730.done
 http://ponferrada.toppanel.ru:8080/temprasuiz/21072022cc/496
+#EXTINF:0 group-title="Mezzo",MEZZO-portalshqip.eu:8080@D-230811.done
+http://portalshqip.eu:8080/Test1234/Test1234/23277
+#EXTINF:0 group-title="Mezzo",MEZZO-portalshqip.eu:8080@D-230811.done
+http://portalshqip.eu:8080/Test1234/Test1234/23125
 #EXTINF:0 group-title="Mezzo",Mezzo-q01bznud.ottclub.xyz@D-230720.done
 http://q01bznud.ottclub.xyz/iptv/VD69TDEPM76BA2/707/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo-qu23454ti234rume45r.ottolok.net@D-230804.done
@@ -1826,6 +1934,10 @@ http://sevi.2022spn.net:8080/Angola/Ang0LA516/17379
 http://sevi.2022spn.net:8080/AgustinHinojosAlex/pwhSv5eHSjAh/17379
 #EXTINF:0 group-title="Mezzo",Mezzo-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/6897211195/0469090322/54577
+#EXTINF:0 group-title="Mezzo",MEZZO-spain1.offshorerev.cc:80@D-230811.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/133173
+#EXTINF:0 group-title="Mezzo",MEZZO-spain1.offshorerev.cc:80@D-230811.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/77047
 #EXTINF:0 group-title="Mezzo",Mezzo-sr1.mitv-iptv.ru:3000@D-230803.done
 http://sr1.mitv-iptv.ru:3000/vital410/vital410/4090
 #EXTINF:0 group-title="Mezzo",Mezzo-srv4.tecnolab.top:8080@D-230603.done
@@ -1908,6 +2020,8 @@ http://hplay.xyz:80/sFbw7N4Ys/b5Y5khH51s/327750
 http://hplay.xyz:80/yuxbvlvd/eBv20U0pr4/327750
 #EXTINF:0 group-title="Mezzo",Mezzo FHD (es)-hplay.xyz:80@D-230719.done
 http://hplay.xyz:80/hykeprxk/F5t181bfRn/327750
+#EXTINF:0 group-title="Mezzo",Mezzo FHD (es)-tvla.xyz:80@D-230811.done
+http://tvla.xyz:80/vrhqyawo/87e0n2pQcM/327750
 #EXTINF:0 group-title="Mezzo",Mezzo FHD FR-clientsportals.com:80@D-230722.done
 http://clientsportals.com:80/st6HGHKd/dgCaygFg/82811
 #EXTINF:0 group-title="Mezzo",Mezzo FHD FR-mag.you24.online:80@D-230806.done
@@ -2290,6 +2404,8 @@ http://tv.kujtaiptv.xdns.pro:80/yqTqk3kjYtAI997/NaCPNo3NTLpl625/16832
 http://tv.pisonic.tvip.xyz:80/Mger2022n4/t7K0Vw60/16832
 #EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-deylertv.xyz:80@D-230717.done
 http://deylertv.xyz:80/34512/24757/1197430
+#EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-deylertv.xyz:80@D-230811.done
+http://deylertv.xyz:80/live/ramon258/mm96243/1197430.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230708.done
 http://zx.pe:80/peunutri/82998325047/1563999.ts
 #EXTINF:0 group-title="Mezzo",MEZZO FRANCE TV CHANNEL-zx.pe:80@D-230724.done
@@ -2312,6 +2428,8 @@ http://1.revportal.eu:80/mag00:1A:79:53:22:DD/k5pPUYZgvA/134167
 http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/134167
 #EXTINF:0 group-title="Mezzo",Mezzo HD-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_FE418D/nfgnvBuh3c/134167
+#EXTINF:0 group-title="Mezzo",Mezzo HD-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/134167.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo HD-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/134167
 #EXTINF:0 group-title="Mezzo",Mezzo Hd-2678ydr.xyz:80@D-230603.done
@@ -2600,8 +2718,6 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/9170/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/9170/index.m3u8
-#EXTINF:0 group-title="Mezzo",Mezzo orig-88c0ad0b.ottrast.com@D-230807.done
-http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/9170/index.m3u8
 #EXTINF:0 group-title="Mezzo",Mezzo orig-908e3c5e.rossteleccom.net@D-230718.done
@@ -3004,8 +3120,6 @@ http://77.72.23.28/iptv/R2C4Z73LFFW9PC/7011/index.m3u8
 http://77.72.23.28/iptv/LBXCLUXQPUBD4N/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-8355ba68.ottolok.net@D-230630.done
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/7011/index.m3u8
-#EXTINF:0 group-title="Mezzo",MEZZO RO-88c0ad0b.ottrast.com@D-230807.done
-http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/7011/index.m3u8
 #EXTINF:0 group-title="Mezzo",MEZZO RO-ae325328.ucomist.net@D-230511.done
@@ -3528,6 +3642,10 @@ http://ultratv.one:2095/yK0kuGKs/g9q2hxk/445792
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/445792
 #EXTINF:0 group-title="Mezzo",MEZZO RU-ultratv.one:2095@D-230501.done.NC
 http://ultratv.one:2095/eBszdU8m/p8uQSGGE/445792
+#EXTINF:0 group-title="Mezzo",Mezzoⓧ SD-fiqueemcasa.club:80@D-230811.done
+http://fiqueemcasa.club:80/adhjm8769/678924421/160135
+#EXTINF:0 group-title="Mezzo",MEZZO SD-lista.deluxeprime.net:8080@D-230811.done
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/199183
 #EXTINF:0 group-title="Mezzo",MEZZO SD-vip.lotusnet.digital:19051@D-230603.done
 http://vip.lotusnet.digital:19051/DeAgostini/wM9j2YKCfSjg/21114
 #EXTINF:0 group-title="Mezzo",Mezzo Tv-bestavb.maria-db.co:8008@D-230515.done
@@ -3624,6 +3742,8 @@ http://gediz.online:8080/UfukGoksu1/uTyf87bNBD/264951
 http://iptvbudur.xyz:8080/engin3535/EQeeEZEm42BF/264951
 #EXTINF:0 group-title="Mezzo",NL 4MB+  Mezzo-memotv.xyz:8080@D-230722.done
 http://memotv.xyz:8080/VfvTKKWhgZrt/wrD6XPXa6jFx/264951
+#EXTINF:0 group-title="Mezzo",NL: Mezzo-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/226832
 #EXTINF:0 group-title="Mezzo",NL: Mezzo-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/226832
 #EXTINF:0 group-title="Mezzo",NL: Mezzo-159734.mavitv.eu:80@D-230728.done
@@ -3762,12 +3882,26 @@ http://akiptv.xyz:8000/05324457954@/DXMU4mBFJ9py/104248
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/137799
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-baseel.top:8080@D-230803.done
 http://baseel.top:8080/live/71685027297087/01685027297/9898.ts
+#EXTINF:0 group-title="Mezzo",NL: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/230798
+#EXTINF:0 group-title="Mezzo",NL: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/230798
+#EXTINF:0 group-title="Mezzo",NL: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/230798
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/9898.ts
+#EXTINF:0 group-title="Mezzo",NL: MEZZO-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/941664923552657016/4751664923552657/9898.ts
+#EXTINF:0 group-title="Mezzo",NL: MEZZO-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/371668264135561045/8631668264135561/9898.ts
+#EXTINF:0 group-title="Mezzo",NL: MEZZO-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/161678907076328072/6291678907076328/9898.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-domainame.lg.ua:8080@D-230803.done
 http://domainame.lg.ua:8080/play/WNltiUwx_cy51QNptBhA6Wxp0b5hpkhoZ5U42Gn5I1E0d-rUTXuNJZr_weDeuRNM
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-domainame.lg.ua:8080@D-230803.done
 http://domainame.lg.ua:8080/play/45f7W2Rc7_EkhEj_uReuEGERFiF1Ec5AlKpTLX2NY2yslLLIiRD-WZ_yyoBWAr-8
+#EXTINF:0 group-title="Mezzo",NL: Mezzo-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Moses08/Jahwayne31/148228
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/9898.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO-halostyle.top:8080@D-230624.done
@@ -3828,6 +3962,8 @@ http://399979071485338870.otrees.xyz:80/play/ff08264/T3XGBdku98/338870.ts
 http://481979993601338870.otrees.xyz:80/play/ja1021208/8088721968/338870.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO FHD-49227452934338870.ot0711.xyz:80@D-230727.done
 http://49227452934338870.ot0711.xyz:80/play/fe1109120/Q8Apk@AxBF5/338870.ts
+#EXTINF:0 group-title="Mezzo",NL: MEZZO FHD-51473136914338870.of3805.xyz:80@D-230811.done
+http://51473136914338870.of3805.xyz:80/play/D8TNPXGL7V/STvG6fah@P/338870.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO FHD-587070910755338870.ot0711.xyz:80@D-230723.done
 http://587070910755338870.ot0711.xyz:80/play/G23JQ9MTWA/4wxqHSkuEeb/338870.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO FHD-853980449349338870.otrees.xyz:80@D-230410.done
@@ -3852,6 +3988,8 @@ http://381977186208279362.otrees.xyz:80/play/ja1209052/TTChJvygy6vg/279362.ts
 http://481979993601279362.otrees.xyz:80/play/ja1021208/8088721968/279362.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO HD-49227452934279362.ot0711.xyz:80@D-230727.done
 http://49227452934279362.ot0711.xyz:80/play/fe1109120/Q8Apk@AxBF5/279362.ts
+#EXTINF:0 group-title="Mezzo",NL: MEZZO HD-51473136914279362.of3805.xyz:80@D-230811.done
+http://51473136914279362.of3805.xyz:80/play/D8TNPXGL7V/STvG6fah@P/279362.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO HD-587070910755279362.ot0711.xyz:80@D-230723.done
 http://587070910755279362.ot0711.xyz:80/play/G23JQ9MTWA/4wxqHSkuEeb/279362.ts
 #EXTINF:0 group-title="Mezzo",NL: MEZZO HD-835069659312279362.ot0711.xyz:80@D-230723.done
@@ -3874,6 +4012,8 @@ http://www.funmitra.com:8080/soner51510/ZXNOiMqQUQ27/377041
 http://4k.boxip.org:8080/697303143383473/2052727552/16380.ts
 #EXTINF:0 group-title="Mezzo",NL MEZZO-4k.boxip.org:8080@D-230627.done
 http://4k.boxip.org:8080/695553539585239/2076559245/16380.ts
+#EXTINF:0 group-title="Mezzo",NL MEZZO-62.182.83.91:80@D-230811.done
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/320
 #EXTINF:0 group-title="Mezzo",NL  MEZZO-apontv.pm:80@D-230305.done
 http://apontv.pm:80/live/623400619588166/1593574628/30801.ts
 #EXTINF:0 group-title="Mezzo",NL  MEZZO-apontv.pm:80@D-230325.done
@@ -3926,12 +4066,20 @@ http://apontv.pm:80/live/231898749678226/1593574628/30893.ts
 http://apontv.pm:80/live/375617456966824/1593574628/30893.ts
 #EXTINF:0 group-title="Mezzo",NL  MEZZO [H265]-yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/30893.ts
+#EXTINF:0 group-title="Mezzo",NL MEZZO FHD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/4719
 #EXTINF:0 group-title="Mezzo",NL MEZZO FHD-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/51725
+#EXTINF:0 group-title="Mezzo",NL MEZZO FHD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/115770
 #EXTINF:0 group-title="Mezzo",NL MEZZO HD-magott.net:80@D-230730.done
 http://magott.net:80/yousefsahbicc/HgsydJgu9m/4720
+#EXTINF:0 group-title="Mezzo",NL MEZZO HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/4720
 #EXTINF:0 group-title="Mezzo",NL MEZZO HD-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/51647
+#EXTINF:0 group-title="Mezzo",NL MEZZO HD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/115704
 #EXTINF:0 group-title="Mezzo",NL MEZZO HD-portal.dm-lv.com:8080@D-230429.done
 http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/185851
 #EXTINF:0 group-title="Mezzo",NL MEZZO HD-zeintv.xyz:8080@D-230313.done
@@ -3964,6 +4112,8 @@ http://4k.boxip.org:8080/697303143383473/2052727552/69900.ts
 http://4k.boxip.org:8080/695553539585239/2076559245/69900.ts
 #EXTINF:0 group-title="Mezzo",NL  Mezzoⓧ SD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92129
+#EXTINF:0 group-title="Mezzo",NL  Mezzoⓧ SD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/92129
 #EXTINF:0 group-title="Mezzo",PL MEZZO HD-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/1121752
 #EXTINF:0 group-title="Mezzo",PL MEZZO HD-tr.redatvgold.com:80@D-230722.done
@@ -4004,6 +4154,10 @@ http://c.strzzi.site:80/741188760920/175248245292/2944462
 http://c.strzzi.site:80/102030/123456/2944462
 #EXTINF:0 group-title="Mezzo",Portugal  MEZZO  SD-ok4.club:25461@D-230601.done
 http://ok4.club:25461/JJ020915/4073006144/76709
+#EXTINF:0 group-title="Mezzo",Portugal  MEZZO  SD-ok4.club:25461@D-230811.done
+http://ok4.club:25461/OrlanRios1/Ceye6AzUTN/76709
+#EXTINF:0 group-title="Mezzo",Portugal  MEZZO  SD-ok4.club:25461@D-230811.done
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/76709
 #EXTINF:0 group-title="Mezzo",PT-NOS MEZZO-m3u.ottc.pro:80@D-230716.done
 http://m3u.ottc.pro:80/EIN1UMYQ4Z/EPCHWQHKQN/287171
 #EXTINF:0 group-title="Mezzo",PT138:MEZZO HD-ae2.aatvbox.club:8880@D-230510.done
@@ -4040,6 +4194,8 @@ http://1.revportal.eu:80/SPIDER_FE418D/nfgnvBuh3c/106479
 http://1.revportal.eu:80/SPIDER_3jZBwb/Ur3Qs8zTZ5/106479
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_i98fJ7/OyeTE8gq05/106479
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/229229
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/229229
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-159734.mavitv.eu:80@D-230728.done
@@ -4066,6 +4222,8 @@ http://7go.xyz:8080/11963304341/11974574/308043
 http://7go.xyz:8080/1m8kb86s/lelocwep/308043
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230807.done
 http://7go.xyz:8080/1tuvw9xs/kxy9po85/308043
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-7go.xyz:8080@D-230811.done
+http://7go.xyz:8080/jairopt58/34mp3g/308043
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-abc123.digital:8080@D-230417.done
 http://abc123.digital:8080/kaceadams@gmail.com/fCr981GG16/495235
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-abc123.digital:8080@D-230611.done
@@ -4094,6 +4252,12 @@ http://assista.pro:80/0333686557/Vilamariante1/222161
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/136489
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/95377
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/281888
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/281888
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/5dWYz4rZU6pF/xAsr2x3JeJuc/281888
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-cdn.erost.cc:8080@D-230717.done
 http://cdn.erost.cc:8080/64096133/46555874/73639
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-cdn.erost.cc:8080@D-230717.done
@@ -4118,6 +4282,10 @@ http://conexaoonline.top:80/Felipe7441/11992667441F/261050
 http://conexaoonline.top:80/AlessonCechini/vhFkq1DN6P/261050
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-deylertv.xyz:80@D-230717.done
 http://deylertv.xyz:80/34512/24757/1198370
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-deylertv.xyz:80@D-230811.done
+http://deylertv.xyz:80/live/ramon258/mm96243/1198345.m3u8
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-deylertv.xyz:80@D-230811.done
+http://deylertv.xyz:80/live/ramon258/mm96243/1198370.m3u8
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-evolved.host:8080@D-230528.done.NC
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495235
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-evolved.host:8080@D-230604.done.NC
@@ -4136,6 +4304,8 @@ http://hdtvs.top:80/4249873977/0964866767/116703
 http://hdtvs.top:80/1576275198/8881992918/116703
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-hdtvs.top:80@D-230721.done
 http://hdtvs.top:80/5422644010/9682544980/116703
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-infraz.top:80@D-230811.done
+http://infraz.top:80/0656511133/9068630789/261050
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-iptv7.premium-stv.com:2082@D-230806.done
 http://iptv7.premium-stv.com:2082/A2109/mHEAG3jvRhh6/380874
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-iptvch.com:2082@D-230515.done
@@ -4270,10 +4440,16 @@ http://server.serveript.com:80/718351550/126791715/261050
 http://star8iptv.com:2082/avanger-discord/dU2S7yeQ20N6fK/131075
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-trsat.nl:80@D-230806.done
 http://trsat.nl:80/554d0128ebd2/N8uuAN2UNO/429
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/wiley0698@gmail.com/MYTtW6X63q/303113
+#EXTINF:0 group-title="Mezzo",PT: Mezzo-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/Vincent11/6564411/303113
 #EXTINF:0 group-title="Mezzo",PT: Mezzo-uniontvs.com:8080@D-230727.done
 http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/360956
 #EXTINF:0 group-title="Mezzo",PT: MEZZO-vodkom.net:25461@D-230803.done
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/95377
+#EXTINF:0 group-title="Mezzo",PT: MEZZO-zeusplay.life:80@D-230811.done
+http://zeusplay.life:80/6841696442/1162104879/261050
 #EXTINF:0 group-title="Mezzo",PT: MEZZO FHD-5.44.253.151:80@D-230311.done.NC.dead
 http://5.44.253.151:80/Selver123/Selver123/399359.ts
 #EXTINF:0 group-title="Mezzo",Pt: Mezzo HD-sharingmaster.org:2095@D-230721.done
@@ -4300,6 +4476,8 @@ http://sharingmaster.org:2095/882284/12382773/89289
 http://srv4.tecnolab.top:8080/it908/29022020apmz/267458
 #EXTINF:0 group-title="Mezzo",PT: MEZZO HEVC-n1.koalatv.xyz:2052@D-230619.done
 http://n1.koalatv.xyz:2052/1/49974484/28328
+#EXTINF:0 group-title="Mezzo",PT: MEZZO HEVC-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/28328
 #EXTINF:0 group-title="Mezzo",PT: MEZZO SD-169629003445449187.of3805.xyz:80@D-230806.done
 http://169629003445449187.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/449187.ts
 #EXTINF:0 group-title="Mezzo",PT MEZZO  (P)-dns.p2.wtf:80@D-230706.done
@@ -4308,10 +4486,28 @@ http://dns.p2.wtf:80/rpkmho7j/x1giut7g/149273
 http://suadns.xyz:80/VanessaLima/VanLim214/149273
 #EXTINF:0 group-title="Mezzo",PT Mezzo-62.182.83.91:80@D-230703.done
 http://62.182.83.91:80/3s8V4jk68e/kdUjcpNgtc/14379
+#EXTINF:0 group-title="Mezzo",PT Mezzo-62.182.83.91:80@D-230811.done
+http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/14379
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/jonathanrj/riodejaneiro10/10052891
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/andre321/andre321/10052891
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/diego.imolesi/diego6069/10052891
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/RODRIGO-04/dzm56GnBqJ/10052891
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/julianazambonini/brt362070s/10052891
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/elmajardim10/jardim10/10052891
+#EXTINF:0 group-title="Mezzo",PT MEZZO-asd1.me:80@D-230811.done
+http://asd1.me:80/terezinhaalemanha/htr211er/10052891
 #EXTINF:0 group-title="Mezzo",PT MEZZO-br2.me:80@D-230620.done
 http://br2.me:80/cid8114/5628114/10052891
 #EXTINF:0 group-title="Mezzo",PT  MEZZO-cdn.contentgftp.xyz:80@D-230730.done
 http://cdn.contentgftp.xyz:80/play/RQegUXzBNJek1JtinmAu6VCnrBZu1zpr9wnn2WWiCHT2ZhnTCyTUhULzjKsJi-J7
+#EXTINF:0 group-title="Mezzo",PT  MEZZO-cdn.contentgftp.xyz:80@D-230811.done
+http://cdn.contentgftp.xyz:80/play/VIpxQZ1uFg2cSEfHJ-iE5cm0ugAjGLnLPJwRe0DFcRdDMTZqRuyaNWe6zt35uPmd
 #EXTINF:0 group-title="Mezzo",PT MEZZO-dns.p2.wtf:80@D-230728.done
 http://dns.p2.wtf:80/igorvictal/72fsy37/162875
 #EXTINF:0 group-title="Mezzo",PT  MEZZO-hardcoremedia.xyz:80@D-230502.done
@@ -4322,8 +4518,6 @@ http://hardcoremedia.xyz:80/85AET5acs/ePZmaMj2d/18504
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/179109
 #EXTINF:0 group-title="Mezzo",PT MEZZO-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/107469
-#EXTINF:0 group-title="Mezzo",PT Mezzo-lionboxiptv.xyz:80@D-230807.fail3
-http://lionboxiptv.xyz:80/12unioniptv12/RhXNL2W8vU54/14379
 #EXTINF:0 group-title="Mezzo",PT Mezzo-login.lionboxtv.xyz:80@D-230802.done
 http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/14379
 #EXTINF:0 group-title="Mezzo",PT MEZZO-lserver100.xyz:8080@D-230601.done
@@ -4412,6 +4606,8 @@ http://magott.net:80/yousefsahbicc/HgsydJgu9m/3023
 http://magott.net:80/cafemers/112233/3023
 #EXTINF:0 group-title="Mezzo",PT MEZZO HD-magott.net:80@D-230803.done
 http://magott.net:80/okota385/3254615854211/3023
+#EXTINF:0 group-title="Mezzo",PT MEZZO HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/3023
 #EXTINF:0 group-title="Mezzo",PT MEZZO HD-portal.dm-lv.com:8080@D-230429.done
 http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/185658
 #EXTINF:0 group-title="Mezzo",PT  MEZZO HD-yahya.top:80@D-230710.done
@@ -4428,6 +4624,8 @@ http://tv.pro-ott.com:25443/live/kongtito/BPRF06M1L5/139959.ts
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/139959.ts
 #EXTINF:0 group-title="Mezzo",PT  Mezzoⓧ SD-xplatinmedia.com:8080@D-230523.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9674
+#EXTINF:0 group-title="Mezzo",PT  Mezzoⓧ SD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/9674
 #EXTINF:0 group-title="Mezzo",RO: Mezzo-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/mag00:1A:79:54:07:75/KjZ8As1BuE/52581
 #EXTINF:0 group-title="Mezzo",RO: Mezzo-2.revportal.eu:80@D-230806.done
@@ -4442,16 +4640,22 @@ http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/145949
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/52113
 #EXTINF:0 group-title="Mezzo",RO: MEZZO SD-169629003445560591.of3805.xyz:80@D-230806.done
 http://169629003445560591.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/560591.ts
+#EXTINF:0 group-title="Mezzo",RO :Mezzo Tv-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Moses08/Jahwayne31/214950
 #EXTINF:0 group-title="Mezzo",RO: Mezzo TV-magsmart.xyz:80@D-230209.done
 http://magsmart.xyz:80/play/hsJAQKKxXWi9eiZlbF9dJ3fAbHs5UYlewVEWxGmsjUPhZJ_DSy9ijATRyTSzX9KB/ts
 #EXTINF:0 group-title="Mezzo",RO: MEZZO TV SD-169629003445535813.of3805.xyz:80@D-230806.done
 http://169629003445535813.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/535813.ts
+#EXTINF:0 group-title="Mezzo",RO:VIP Mezzo-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/63008
 #EXTINF:0 group-title="Mezzo",RO MEZZO-obsfullhd.tv:25461@D-230803.done
 http://obsfullhd.tv:25461/geoffrey2/t95ukVHaNarP/68561
 #EXTINF:0 group-title="Mezzo",RO MEZZO HD-portal.dm-lv.com:8080@D-230429.done
 http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/186916
 #EXTINF:0 group-title="Mezzo",RO  Mezzoⓧ SD-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85705
+#EXTINF:0 group-title="Mezzo",RO  Mezzoⓧ SD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/85705
 #EXTINF:0 group-title="Mezzo",RU*  Mezzo-boomtivi.xyz:80@D-230705.done
 http://boomtivi.xyz:80/play/D_Mogcq4EtwRXChkvFCLJlJPDKRm6CXQ-XLzQsGtZ0o
 #EXTINF:0 group-title="Mezzo",RU: MEZZO-1.revportal.eu:80@D-230803.done
@@ -4506,10 +4710,16 @@ http://7go.xyz:8080/1m8kb86s/lelocwep/307540
 http://7go.xyz:8080/1tuvw9xs/kxy9po85/307540
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230807.done
 http://7go.xyz:8080/21982604800/21ghygtrfd/307540
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-7go.xyz:8080@D-230811.done
+http://7go.xyz:8080/jairopt58/34mp3g/307540
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-abmclass.com:8080@D-230714.done
 http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/73588
+#EXTINF:0 group-title="Mezzo",RU: Mezzo-amazingiptv.life:8080@D-230811.done
+http://amazingiptv.life:8080/cenk7186716/RrPG4YsZJtBC/193947
 #EXTINF:0 group-title="Mezzo",RU: MEZZO-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/46239
+#EXTINF:0 group-title="Mezzo",RU: MEZZO-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/298079
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-devgnr.xyz:8080@D-230728.done
 http://devgnr.xyz:8080/kadirturksoy/2102033462/73588
 #EXTINF:0 group-title="Mezzo",RU: Mezzo-gediz.online:8080@D-230722.done
@@ -4624,14 +4834,18 @@ http://line.rs6ott.com:80/17BB91LL/51HDMM29/132573
 http://portal.magic8kip.tv:80/admin123/admin123/132573
 #EXTINF:0 group-title="Mezzo",RU Mezzo-vipgature.top:8080@D-230627.done
 http://vipgature.top:8080/live/VIP0180168537735303/31685377353/25547.ts
-#EXTINF:0 group-title="Mezzo",RU Mezzo 4K+-lionboxiptv.xyz:80@D-230807.fail3
-http://lionboxiptv.xyz:80/12unioniptv12/RhXNL2W8vU54/14692
+#EXTINF:0 group-title="Mezzo",RU Mezzo 4K+-62.182.83.91:80@D-230811.done
+http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/14692
 #EXTINF:0 group-title="Mezzo",RU Mezzo 4K+-login.lionboxtv.xyz:80@D-230802.done
 http://login.lionboxtv.xyz:80/Localhdhd01/33sY9sjbJT/14692
 #EXTINF:0 group-title="Mezzo",RU  Mezzoⓧ HD-85.114.138.88:2052@D-230706.done
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/197561
 #EXTINF:0 group-title="Mezzo",RU  Mezzoⓧ HD -xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7983
+#EXTINF:0 group-title="Mezzo",RU  Mezzoⓧ HD -xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/7983
+#EXTINF:0 group-title="Mezzo",SE:VIP Mezzo-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/62063
 #EXTINF:0 group-title="Mezzo",SP-M+ MEZZO-tv.pro-ott.com:25443@D-230604.done
 http://tv.pro-ott.com:25443/live/355434554445/4565555665/139230.ts
 #EXTINF:0 group-title="Mezzo",SP-M+ MEZZO-tv.pro-ott.com:25443@D-230628.done
@@ -4698,6 +4912,8 @@ http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/139230.ts
 http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/139230.ts
 #EXTINF:0 group-title="Mezzo",SP-M+ MEZZO-tvpro.vprotv.com:25443@D-230726.done
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/139230.ts
+#EXTINF:0 group-title="Mezzo",SP-M+ MEZZO-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/139230.ts
 #EXTINF:0 group-title="Mezzo",SP-M+ MEZZO-x.v-iptv.com:25443@D-230803.done
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/139230.ts
 #EXTINF:0 group-title="Mezzo",SP4K MEZZO-sultan-iptv.com:8089@D-230714.done
@@ -4778,16 +4994,22 @@ http://tv.viptvpro.com:25443/live/samirayyad/AAZZEERRTT/59871.ts
 http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/59871.ts
 #EXTINF:0 group-title="Mezzo Live",.ES. MEZZO LIVE -vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/59871.ts
+#EXTINF:0 group-title="Mezzo Live",.ES. MEZZO LIVE -vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/59871.ts
 #EXTINF:0 group-title="Mezzo Live",.ES. MEZZO LIVE -x.v-iptv.com:25443@D-230708.done
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/59871.ts
 #EXTINF:0 group-title="Mezzo Live",.ES. MEZZO LIVE -x.v-iptv.com:25443@D-230803.done
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/59871.ts
 #EXTINF:0 group-title="Mezzo Live",[ES] MEZZO LIVE-iptv-gmeuro.dyndns.tv:25461@D-230620.done
 http://iptv-gmeuro.dyndns.tv:25461/mc_Cgerla/GCiropass/42971
+#EXTINF:0 group-title="Mezzo Live",[ES] MEZZO LIVE HD-fix.mniltv.xyz:8080@D-230811.done
+http://fix.mniltv.xyz:8080/arda5436/3Ag59XqNjkqj/102372
 #EXTINF:0 group-title="Mezzo Live",[ES] MEZZO LIVE HD-s1.pubnow.info:8080@D-230802.done
 http://s1.pubnow.info:8080/128.atqaoui.salah/aSzRz7WZtzwZ/125636
 #EXTINF:0 group-title="Mezzo Live",[RU] MEZZO-humiptv.live:8080@D-230730.done
 http://humiptv.live:8080/live/David100/David100/8841.ts
+#EXTINF:0 group-title="Mezzo Live",[RU]  Mezzo Live HD-fix.mniltv.xyz:8080@D-230811.done
+http://fix.mniltv.xyz:8080/arda5436/3Ag59XqNjkqj/147533
 #EXTINF:0 group-title="Mezzo Live",AF  MEZZO LIVE HD-s1.tvchallenge.tn:2052@D-230717.done
 http://s1.tvchallenge.tn:2052/mIrQTBHNWw/AAhZ3omLu1/18232
 #EXTINF:0 group-title="Mezzo Live",AF  MEZZO LIVE HD-s1.tvchallenge.tn:2052@D-230717.done
@@ -4814,6 +5036,10 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/423302
 http://evolved.host:8080/lou99/c8DtRWieta/423302
 #EXTINF:0 group-title="Mezzo Live",CA (FR) Mezzo Live HD (B)-ua-iptv.com:8080@D-230515.done
 http://ua-iptv.com:8080/MikeRoberts/Mike111/226977
+#EXTINF:0 group-title="Mezzo Live",CA (FR) Mezzo Live HD (B)-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/wiley0698@gmail.com/MYTtW6X63q/226977
+#EXTINF:0 group-title="Mezzo Live",CA (FR) Mezzo Live HD (B)-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/Vincent11/6564411/226977
 #EXTINF:0 group-title="Mezzo Live",CA (FR) MEZZO LIVE HD-negraott.com:80@D-230710.done
 http://negraott.com:80/vinzbattosai949/Ve1aVrep/167311
 #EXTINF:0 group-title="Mezzo Live",CA-FR MEZZO LIVE HD-balkanfree.net:25461@D-230722.done
@@ -4944,6 +5170,10 @@ http://tv.viptvpro.com:25443/live/SrankpaHD/A123456789/142866.ts
 http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/142866.ts
 #EXTINF:0 group-title="Mezzo Live",CANADA  Mezzo Live HD (FR)-ok4.club:25461@D-230601.done
 http://ok4.club:25461/JJ020915/4073006144/34
+#EXTINF:0 group-title="Mezzo Live",CANADA  Mezzo Live HD (FR)-ok4.club:25461@D-230811.done
+http://ok4.club:25461/OrlanRios1/Ceye6AzUTN/34
+#EXTINF:0 group-title="Mezzo Live",CANADA  Mezzo Live HD (FR)-ok4.club:25461@D-230811.done
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/34
 #EXTINF:0 group-title="Mezzo Live",CZ: Mezzo Live-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/250526
 #EXTINF:0 group-title="Mezzo Live",CZ  Mezzo-special.boxserver.live:8080@D-230807.done
@@ -4954,6 +5184,8 @@ http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/97682
 http://live2.unwiredtvnow.com:80/Bradley23/Bradley23/185606.ts
 #EXTINF:0 group-title="Mezzo Live",DK  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230523.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/10076
+#EXTINF:0 group-title="Mezzo Live",DK  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/10076
 #EXTINF:0 group-title="Mezzo Live",ES-4K MEZZO LIVE HD-iptv-rks.com:25461@D-230806.done
 http://iptv-rks.com:25461/SarandaFazliu/uK9PwadVuzgt/3813
 #EXTINF:0 group-title="Mezzo Live",ES-4K MEZZO LIVE HD-pandar.plus:25461@D-230806.done
@@ -5018,6 +5250,8 @@ http://adamnk.me:8080/negritaC69/6dN328ThKA/1123804
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1123801
 #EXTINF:0 group-title="Mezzo Live",ES3 MEZZO LIVE HD-moontools.me:8080@D-230416.done.best
 http://moontools.me:8080/franmujica/v2sJ5r2tyb/1123801
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/231194
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/231194
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-159734.mavitv.eu:80@D-230728.done
@@ -5026,6 +5260,12 @@ http://159734.mavitv.eu:80/CemilBil21/wYwf8rwbZO/231194
 http://baseel.top:8080/live/71685027297087/01685027297/5689.ts
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/5689.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/941664923552657016/4751664923552657/5689.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/371668264135561045/8631668264135561/5689.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/161678907076328072/6291678907076328/5689.ts
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-club.panelchanel.xyz:8080@D-230530.done.NC.dead
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/6226.m3u
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE-club.panelchanel.xyz:8080@D-230606.done.NC.dead
@@ -5052,6 +5292,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/716.ts
 http://169629003445550860.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/550860.ts
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE FHD-383747181953550860.ot0711.xyz:80@D-230728.done
 http://383747181953550860.ot0711.xyz:80/play/67WT243VS4/4897979791/550860.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE FHD-741731953629550860.of3805.xyz:80@D-230811.done
+http://741731953629550860.of3805.xyz:80/play/ja0308649/9h3SmfbRHY/550860.ts
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-7go.xyz:8080@D-230528.done
 http://7go.xyz:8080/q42ggak/099hded2/305805
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-7go.xyz:8080@D-230528.done
@@ -5210,6 +5452,10 @@ http://7go.xyz:8080/21982604800/21ghygtrfd/305805
 http://aca3b.tk:8080/Jaycode/EXjyXx56pG/15255
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE FHD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/136607
+#EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/262868
+#EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/262868
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/4201
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE FHD-domainame.lg.ua:8080@D-230803.done
@@ -5278,6 +5524,8 @@ http://54thegeek.de:8080/Aliffm1234/Sdert45thf/113258
 http://551539433737384247.ofio.xyz:80/play/Serte/B6eSnJGscx/384247.ts
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-733070605556384247.ot0711.xyz:80@D-230723.done
 http://733070605556384247.ot0711.xyz:80/play/fe605229/UbQrQMqTeD76/384247.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-741731953629384247.of3805.xyz:80@D-230811.done
+http://741731953629384247.of3805.xyz:80/play/ja0308649/9h3SmfbRHY/384247.ts
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live HD-76271.atr91.com:80@D-230728.done
 http://76271.atr91.com:80/Red472/cp49jh/92295
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-85.114.138.88:2052@D-230706.done
@@ -5286,6 +5534,8 @@ http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/151063
 http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/72490
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1301053
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/297655
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-cdn.rtyh.xyz:80@D-230706.done
 http://cdn.rtyh.xyz:80/1beto23/1rafa23/235359
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-cdn.rtyh.xyz:80@D-230711.done
@@ -5302,6 +5552,8 @@ http://iptvsantral1.xyz:8080/mNtRKwSasB/zjtdWcEKxG/113258
 http://moontools.me:8080/124BERWICK/SF6PTv6DX5QY/1301053
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-moontools.me:8080@D-230416.done.best
 http://moontools.me:8080/franmujica/v2sJ5r2tyb/1301053
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/142211
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-niaip.com:80@D-230315.done
 http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/491928
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-premium-ks.ddns.net:88@D-230727.done
@@ -5316,12 +5568,16 @@ http://premiumultra.xyz:8080/dpozo/Dpozo.1234/12405
 http://premiumultra.xyz:8080/6093778/8062022/12405
 #EXTINF:0 group-title="Mezzo Live",ES:MEZZO LIVE HD-premiumultra.xyz:8080@D-230806.done
 http://premiumultra.xyz:8080/pablocastillo/H4XdX5K04O/12405
+#EXTINF:0 group-title="Mezzo Live",ES:MEZZO LIVE HD-premiumultra.xyz:8080@D-230811.done
+http://premiumultra.xyz:8080/2ur8924wwa/cmis7475n6/12405
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-referans35.xyz:8080@D-230803.done
 http://referans35.xyz:8080/nJsYVAwBnHRA/PkbdTtkNsQwh/113258
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-sharingmaster.org:2095@D-230721.done
 http://sharingmaster.org:2095/6897211195/0469090322/186722
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HD-smartsistem.xyz:8080@D-230728.done
 http://smartsistem.xyz:8080/ugurkarakas2023/aSwyEtXNAA/72490
+#EXTINF:0 group-title="Mezzo Live",ES : MEZZO LIVE HD-watchalien.ddns.net:2095@D-230811.done
+http://watchalien.ddns.net:2095/1813901482/6329933888/7412
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live HD 4K-niaip.com:80@D-230315.done
 http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/491929
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE HEVC-5.44.253.151:80@D-230311.done.NC.dead
@@ -5340,6 +5596,10 @@ http://49227452934341255.ot0711.xyz:80/play/fe1109120/Q8Apk@AxBF5/341255.ts
 http://587070910755341255.ot0711.xyz:80/play/G23JQ9MTWA/4wxqHSkuEeb/341255.ts
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE SD-733070605556341255.ot0711.xyz:80@D-230723.done
 http://733070605556341255.ot0711.xyz:80/play/fe605229/UbQrQMqTeD76/341255.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE SD-741731953629341255.of3805.xyz:80@D-230811.done
+http://741731953629341255.of3805.xyz:80/play/ja0308649/9h3SmfbRHY/341255.ts
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE SD-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/297654
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live SD-hidra.live:80@D-230209.done.NC.dead
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/304008
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live SD-hidra.live:80@D-230209.done.NC.dead
@@ -5366,6 +5626,8 @@ http://hidra.live:80/wxFYeXT7K/do95R3pgW2/304008
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304008
 #EXTINF:0 group-title="Mezzo Live",ES: Mezzo Live SD-hidraplay.tv:80@D-230615.done.NC.dead
 http://hidraplay.tv:80/xvflseee/553NvYr8gx/304008
+#EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE SD-lista.deluxeprime.net:8080@D-230811.done
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/199182
 #EXTINF:0 group-title="Mezzo Live",ES: MEZZO LIVE SD-spainline.xyz:8000@D-230620.done
 http://spainline.xyz:8000/alfonso8934/j9CPnd8LSsL4/2222
 #EXTINF:0 group-title="Mezzo Live",ES_2: MEZZO LIVE HD-srv4.tecnolab.top:8080@D-230603.done
@@ -5374,6 +5636,8 @@ http://srv4.tecnolab.top:8080/it908/29022020apmz/263286
 http://cloud.cdn-proxy.win:2052/799055802981/252996276082/96502
 #EXTINF:0 group-title="Mezzo Live",ES  HD MEZZO LIVE -cloud.cdn-proxy.win:2052@D-230803.done
 http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/96502
+#EXTINF:0 group-title="Mezzo Live",ES  HD MEZZO LIVE -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96502
 #EXTINF:0 group-title="Mezzo Live",ES  HD MEZZO LIVE -ma.swords.live:2052@D-230803.done
 http://ma.swords.live:2052/721372412714/818348973987/96502
 #EXTINF:0 group-title="Mezzo Live",ES  HD MEZZO LIVE -saw.duplex-ott.net:2052@D-230803.done
@@ -5458,10 +5722,16 @@ http://xtra.fireottplus.com:2052/3913531091/0axv6fea/96502
 http://bosstv.live:8080/live/bunyamin24980929/pt5uYNy8tLtZ/324919.m3u8
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/324919
+#EXTINF:0 group-title="Mezzo Live",ES  MEZZO-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/324919
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/126442
 #EXTINF:0 group-title="Mezzo Live",ES Mezzo Live-62.182.83.91:80@D-230703.done
 http://62.182.83.91:80/3s8V4jk68e/kdUjcpNgtc/46269
+#EXTINF:0 group-title="Mezzo Live",ES Mezzo Live-62.182.83.91:80@D-230811.done
+http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/46269
+#EXTINF:0 group-title="Mezzo Live",ES Mezzo Live-62.182.83.91:80@D-230811.done
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/46269
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1114644
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE-balkanfree.net:25461@D-230722.done
@@ -5496,6 +5766,8 @@ http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/46269
 http://magott.net:80/cafemers/112233/2757
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE-magott.net:80@D-230803.done
 http://magott.net:80/okota385/3254615854211/2757
+#EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/2757
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE-moontools.me:8080@D-230328.done.best
 http://moontools.me:8080/124BERWICK/SF6PTv6DX5QY/1114644
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE-moontools.me:8080@D-230416.done.best
@@ -5572,10 +5844,14 @@ http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/116318.ts
 http://watch-now.xyz:8080/Radikarls/gazzagazza/29580
 #EXTINF:0 group-title="Mezzo Live",ES  Mezzo Liveⓧ FHD-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48686
+#EXTINF:0 group-title="Mezzo Live",ES  Mezzo Liveⓧ FHD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/48686
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE FULL HD-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/126443
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HD-adamnk.me:8080@D-230706.done
 http://adamnk.me:8080/negritaC69/6dN328ThKA/1123277
+#EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HD-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/107548
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HD-line.premiumpowers.net:80@D-230709.done
 http://line.premiumpowers.net:80/10/1234567/107548
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HD-line.rs6ott.com:80@D-230611.done
@@ -5600,6 +5876,8 @@ http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/185269
 http://tr.redatvgold.com:80/munir123/munir123/107548
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE HD-xdplayer.tv:8080@D-230806.done
 http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWp5HO0LWurqlX0MKY_PIzFy/ts
+#EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HEVC-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/118996
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HEVC-line.premiumpowers.net:80@D-230709.done
 http://line.premiumpowers.net:80/10/1234567/118996
 #EXTINF:0 group-title="Mezzo Live",ES MEZZO LIVE HEVC-line.rs6ott.com:80@D-230611.done
@@ -5614,8 +5892,12 @@ http://mjidiptv.com:1997/Stephane/123456/139670
 http://tr.redatvgold.com:80/munir123/munir123/118996
 #EXTINF:0 group-title="Mezzo Live",ES  MEZZO LIVE HEVC-watch-now.xyz:8080@D-230623.done
 http://watch-now.xyz:8080/Radikarls/gazzagazza/29639
+#EXTINF:0 group-title="Mezzo Live",ESP-1: MEZZO LIVE HD-00322.xyz:8000@D-230811.done
+http://00322.xyz:8000/coachprato/40437757/126195
 #EXTINF:0 group-title="Mezzo Live",ESP-1: MEZZO LIVE HD-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/126195
+#EXTINF:0 group-title="Mezzo Live",ESP-1: MEZZO LIVE HD HEVC-00322.xyz:8000@D-230811.done
+http://00322.xyz:8000/coachprato/40437757/126164
 #EXTINF:0 group-title="Mezzo Live",ESP-1: MEZZO LIVE HD HEVC-31.42.185.216:8000@D-230505.done
 http://31.42.185.216:8000/GregorioS/Santos52/126164
 #EXTINF:0 group-title="Mezzo Live",ESP - MEZZO LIVE HD-nlgteam.ddns.net:80@D-230630.done.NC.dead
@@ -5642,6 +5924,10 @@ http://humiptv.live:8080/live/Amanda12/12Amanda/145144.ts
 http://humiptv.live:8080/live/Linda123/123Linda/145144.ts
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO HD-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/bayramnohut/RuRRMNrkKHWN/264952
+#EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Hikkkkoooo/xwKTjeMcceqx/264952
+#EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-amazingiptv.live:8080@D-230811.done
+http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/264953
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-bestpremium4k.xyz:8080@D-230803.done
 http://bestpremium4k.xyz:8080/Hikkkkoooo/xwKTjeMcceqx/264953
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-bosstv.live:8080@D-230722.done
@@ -5652,6 +5938,10 @@ http://gediz.online:8080/UfukGoksu1/uTyf87bNBD/264953
 http://iptvbudur.xyz:8080/engin3535/EQeeEZEm42BF/264953
 #EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/bayramnohut/RuRRMNrkKHWN/264953
+#EXTINF:0 group-title="Mezzo Live",FR-2MB+  MEZZO LIVE HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Hikkkkoooo/xwKTjeMcceqx/264953
+#EXTINF:0 group-title="Mezzo Live",FR-4K MEZZO LIVE -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96879
 #EXTINF:0 group-title="Mezzo Live",FR-HD MEZZO LIVE -cloud.cdn-proxy.win:2052@D-230716.done
 http://cloud.cdn-proxy.win:2052/908067579441/483760576465/96880
 #EXTINF:0 group-title="Mezzo Live",FR-HD MEZZO LIVE -cloud.cdn-proxy.win:2052@D-230727.done
@@ -5664,6 +5954,8 @@ http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/96880
 http://es.xipi3.xyz:2052/8024984235966470/8024886739876658/96880
 #EXTINF:0 group-title="Mezzo Live",FR-HD MEZZO LIVE -es.xipi3.xyz:2052@D-230716.done
 http://es.xipi3.xyz:2052/420723189743/201367332303/96880
+#EXTINF:0 group-title="Mezzo Live",FR-HD MEZZO LIVE -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96880
 #EXTINF:0 group-title="Mezzo Live",FR-HD MEZZO LIVE -fireott.one:2052@D-230725.done
 http://fireott.one:2052/FRIENDIPTVEXCH/dFYQSy9UJVCU/96880
 #EXTINF:0 group-title="Mezzo Live",FR-HD MEZZO LIVE -ma.swords.live:2052@D-230803.done
@@ -5770,6 +6062,8 @@ http://humiptv.live:8080/live/Amanda12/12Amanda/143651.ts
 http://humiptv.live:8080/live/Linda123/123Linda/143651.ts
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO_LIVE_HD-n1.koalatv.xyz:2052@D-230619.done
 http://n1.koalatv.xyz:2052/1/49974484/15221
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO_LIVE_HD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/15221
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO FR HD-live2.unwiredtvnow.com:80@D-230527.done
 http://live2.unwiredtvnow.com:80/Bradley23/Bradley23/182332.ts
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo HD-humiptv.live:8080@D-230730.done
@@ -5802,6 +6096,8 @@ http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/361842
 http://tigerkanaler2.loginto.me:8080/SnX6ArNtzt/RQh6uwkB8a/361842
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live (HD)-tigerkanaler2.loginto.me:8080@D-230730.done
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/361842
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/230027
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/CemilBil21/wYwf8rwbZO/230027
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-159734.mavitv.eu:80@D-230728.done
@@ -5894,6 +6190,8 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8099
 http://almanya505.com:80/live/urar308/14092021g.s/227321.ts
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-bntvs.com:2052@D-230531.done
 http://bntvs.com:2052/MarinaLukovic/841368546/11125
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-bntvs.com:2052@D-230811.done
+http://bntvs.com:2052/srdjan10/krstic2202/11125
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-dual1.nsviptv.xyz:80@D-230722.done
 http://dual1.nsviptv.xyz:80/47935867650/6zM69kNFwb/164291
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-dual2.rsviptv.xyz:80@D-230728.done
@@ -5914,6 +6212,8 @@ http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/164291
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/8099
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8099
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/8099
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/8099
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-iptvmedia.live:8080@D-230507.done
@@ -5922,6 +6222,8 @@ http://iptvmedia.live:8080/outputofflinechecker/pass/8099
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/8099
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8099
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/8099
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-kuchini.site:8080@D-230523.done
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8099
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-kuchini.site:8080@D-230714.done
@@ -5970,6 +6272,8 @@ http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/164291
 http://vole1.rsvole22s.xyz:80/live/okay2023/tBQsyF2Qey/227321.ts
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/8099
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8099
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE 4K-m3u.ottc.pro:80@D-230716.done
 http://m3u.ottc.pro:80/EIN1UMYQ4Z/EPCHWQHKQN/13013
 #EXTINF:0 group-title="Mezzo Live",FR- MEZZO LIVE 4K FR-niaip.com:80@D-230315.done
@@ -6242,6 +6546,10 @@ http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/9527.ts
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/51110.ts
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE FHD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/9527.ts
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE FHD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/51110.ts
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE FHD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/9527.ts
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE FHD-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/9527.ts
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE FHD-vip.one-iptv.com:25443@D-230727.done
@@ -6362,6 +6670,8 @@ http://cdn.erost.us:8080/21980101066/98654156/53672
 http://cdn.rtyh.xyz:80/1beto23/1rafa23/235591
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-cdn.rtyh.xyz:80@D-230711.done
 http://cdn.rtyh.xyz:80/30sonia/37982618/235591
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/507296
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live HD-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/43997.m3u8
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live HD-ghostiptv.vip:80@D-230718.done
@@ -6388,6 +6698,8 @@ http://magicoiptv.org:8080/najib2022/najib2025/280
 http://magott.net:80/m5ge2TQ7Tr9Q/5JKyFNz2xuHD/866
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-magott.net:80@D-230803.done
 http://magott.net:80/okota385/3254615854211/866
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/866
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/17858
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-newfer2.dynns.com:8080@D-230621.done
@@ -6556,6 +6868,8 @@ http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/15148.ts
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/39593
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/15148.ts
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/15148.ts
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/15148.ts
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD-x.v-iptv.com:25443@D-230708.done
@@ -6566,6 +6880,8 @@ http://x.v-iptv.com:25443/live/V7P0ZjHCInlv/7Cp8sXGgBA/15148.ts
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/15148.ts
 #EXTINF:0 group-title="Mezzo Live",FR- Mezzo Liveⓧ HD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/76509
+#EXTINF:0 group-title="Mezzo Live",FR-Mezzo Liveⓧ HD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/76509
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live HD-zeintv.xyz:8080@D-230313.done
 http://zeintv.xyz:8080/05314536123/WMuXHbbsxBs5/130006
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live HD-zeintv.xyz:8080@D-230507.done
@@ -6580,6 +6896,8 @@ http://zeintv.xyz:8080/12345/123456/130006
 http://zeintv.xyz:8080/5389823648/3648/130006
 #EXTINF:0 group-title="Mezzo Live",FR-Mezzo Live HD-zeintv.xyz:8080@D-230609.done
 http://zeintv.xyz:8080/05466820130/05466820130/130006
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD FHD-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/506491
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD FHD-line.premiumpowers.net:80@D-230709.done
 http://line.premiumpowers.net:80/10/1234567/506491
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HD FHD-line.rs6ott.com:80@D-230611.done
@@ -6700,6 +7018,8 @@ http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/363580.ts
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/127361
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE HEVC-www.funmitra.com:8080@D-230529.done
 http://www.funmitra.com:8080/soner51510/ZXNOiMqQUQ27/218622
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE LQ-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/507485
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE LQ-line.premiumpowers.net:80@D-230709.done
 http://line.premiumpowers.net:80/10/1234567/507485
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE LQ-line.rs6ott.com:80@D-230611.done
@@ -6788,6 +7108,8 @@ http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/127384
 http://be.iptivi.net:2086/beyaz6570/SzSAV8z3DZaS/112964
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO LIVE UHD-gu.iptivi.net:2086@D-230421.done
 http://gu.iptivi.net:2086/guzel5943/xytRW2945g/112964
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-amazingiptv.live:8080@D-230811.done
+http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/293142
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-bosstv.live:8080@D-230722.done
 http://bosstv.live:8080/live/bunyamin24980929/pt5uYNy8tLtZ/293142.m3u8
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-de.bosstv.live:8080@D-230727.done
@@ -6800,6 +7122,20 @@ http://tr.bosstv.live:8080/abone7330/JvfLJH6gDhWe/293142
 http://tr.bosstv.live:8080/@opa49/49Opi672/293142
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/rB9tdFUXmjnY/fnd4bscQFmSJ/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/AtakliRecep/mblJoHL03a/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h9Gs3n9fqLzv/CwKnqx8Q3q6P/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ozkansaral/saral61/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ibrahim.berbat/vrjzhAMcqZ/293142
+#EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Emine-Rating/KvXuDWW23BCG/293142
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV LIVE-club.panelchanel.xyz:8080@D-230530.done.NC
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/4535.m3u
 #EXTINF:0 group-title="Mezzo Live",FR-MEZZO TV LIVE-club.panelchanel.xyz:8080@D-230606.done.NC
@@ -6888,6 +7224,8 @@ http://hidra.live:80/pesmfszv/0nfo92Vk6D/327750
 http://hidra.live:80/jqrrcnjz/21fs5J9hLs/327750
 #EXTINF:0 group-title="Mezzo Live",Mezzo FHD (es)-hidra.live:80@D-230803.done.NC.dead
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327750
+#EXTINF:0 group-title="Mezzo Live",Mezzo FHD (es)-hidra.live:80@D-230811.done.NC
+http://hidra.live:80/ilseucuh/J52j6Fslu8/327750
 #EXTINF:0 group-title="Mezzo Live",MEZZO FR-fastrunner.live:8080@D-230728.done
 http://fastrunner.live:8080/wgSpPmRW9K/KnwrGA9lDT/89977
 #EXTINF:0 group-title="Mezzo Live",Mezzo Liveᴴᴰ-001004.eu:8080@D-230520.done
@@ -6906,10 +7244,16 @@ http://1.revportal.eu:80/SPIDER_FE418D/nfgnvBuh3c/76926
 http://1.revportal.eu:80/SPIDER_3jZBwb/Ur3Qs8zTZ5/76926
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_i98fJ7/OyeTE8gq05/76926
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-1.revportal.eu:80@D-230811.done
+http://1.revportal.eu:80/SPIDER_mpXxio/JUMusgQUzE/76926
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live-176.9.16.190:8080@D-230705.done
 http://176.9.16.190:8080/jmariajjk2023/abono2023hhd/1387393
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-185.246.66.5:8000@D-230220.done
 http://185.246.66.5:8000/channel/1758fef5/index.ts?q=dd21b7b5a71f22ac7fa79db1e2f192b4
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/133172.m3u8
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/76926.m3u8
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/76926
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE-2.revportal.eu:80@D-230806.done
@@ -7124,6 +7468,10 @@ http://vegasizle.xyz:8080/Acar2023nvd/mWwBXHFtdWew/501498
 http://vegasizle.xyz:8080/Acar2023nvd/mWwBXHFtdWew/501497
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live-www.premiumiptvmk.com:8080@D-230617.done
 http://www.premiumiptvmk.com:8080/F29175/cd31b677/8099
+#EXTINF:0 group-title="Mezzo Live",Mezzo Liveᴴᴰ-you10.4youall.xyz:8080@D-230811.done
+http://you10.4youall.xyz:8080/nX36838399DADS/PLgdhdyyy3637/177
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVEᴴᴰ-you10.4youall.xyz:8080@D-230811.done
+http://you10.4youall.xyz:8080/nX36838399DADS/PLgdhdyyy3637/24075
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live BE-ultratv.one:2095@D-230413.done.NC.dead
 http://ultratv.one:2095/yK0kuGKs/g9q2hxk/460480
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live BE-ultratv.one:2095@D-230415.done.NC
@@ -7140,14 +7488,20 @@ http://hidra.live:80/daqgsrmi/6MlLh8s0p3/327751
 http://hidra.live:80/pesmfszv/0nfo92Vk6D/327751
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live FHD (es)-hidra.live:80@D-230803.done.NC
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327751
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live FHD (es)-hidra.live:80@D-230811.done.NC
+http://hidra.live:80/ilseucuh/J52j6Fslu8/327751
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live FHD (es)-hplay.xyz:80@D-230716.done
 http://hplay.xyz:80/sFbw7N4Ys/b5Y5khH51s/327751
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live FHD (es)-hplay.xyz:80@D-230716.done
 http://hplay.xyz:80/yuxbvlvd/eBv20U0pr4/327751
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live FHD (es)-hplay.xyz:80@D-230719.done
 http://hplay.xyz:80/hykeprxk/F5t181bfRn/327751
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live FHD (es)-tvla.xyz:80@D-230811.done
+http://tvla.xyz:80/vrhqyawo/87e0n2pQcM/327751
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-acsa.ws:80@D-230516.done
 http://acsa.ws:80/HBWmePeRu/5387TYUHpehh/191335.ts
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-acsa.ws:80@D-230811.done
+http://acsa.ws:80/RoberthRafaela/RobRaf753/191335.ts
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-apontv.pm:80@D-230305.done
 http://apontv.pm:80/live/623400619588166/1593574628/2349.ts
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-apontv.pm:80@D-230325.done
@@ -7158,6 +7512,8 @@ http://apontv.pm:80/live/375617456966824/1593574628/2349.ts
 http://bdta.pro:80/alexsanderrg27clb/986ZUWfps/191335.ts
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-bdta.pro:80@D-230717.done
 http://bdta.pro:80/5516981347887/x347887aB/191335.ts
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-bdtb.io:80@D-230811.done
+http://bdtb.io:80/israelantunes/616290Ji/191335.ts
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-iptv7.premium-stv.com:2082@D-230806.done
 http://iptv7.premium-stv.com:2082/A2109/mHEAG3jvRhh6/52921
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FHD-negraott.com:80@D-230620.done
@@ -7294,6 +7650,8 @@ http://dnsbr.tk:80/6365378926/8362899165/548471
 http://dnsbr.tk:80/marciojsl/Jslmarcio/548471
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FULL HD-dnsbr.tk:80@D-230721.done
 http://dnsbr.tk:80/9496612083lorival/94lorival2083/548471
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FULL HD-dnsbr.tk:80@D-230811.done
+http://dnsbr.tk:80/083991595959/jonatas95959/548471
 #EXTINF:0 group-title="Mezzo Live", MEZZO LIVE FullHD-hdliveiptv.com:8900@D-230617.done
 http://hdliveiptv.com:8900/32711514524371/32711514524371/119000
 #EXTINF:0 group-title="Mezzo Live", MEZZO LIVE FullHD-hdliveiptv.com:8900@D-230621.done
@@ -7304,6 +7662,8 @@ http://hdliveiptv.com:8900/32648651828564/32648651828564/119000
 http://hdliveiptv.com:8900/32770560422685/32770560422685/119000
 #EXTINF:0 group-title="Mezzo Live", MEZZO LIVE FullHD-hdliveiptv.com:8900@D-230708.done
 http://hdliveiptv.com:8900/32817709191027/32817709191027/119000
+#EXTINF:0 group-title="Mezzo Live",Mezzo Live FULL HD-p2cineshow.fun:80@D-230811.done
+http://p2cineshow.fun:80/602778983762/129403165159/1081103
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FULL HD-premiumultra.xyz:8080@D-230730.done
 http://premiumultra.xyz:8080/dpozo/Dpozo.1234/60460
 #EXTINF:0 group-title="Mezzo Live",MEZZO LIVE FULL HD-premiumultra.xyz:8080@D-230803.done
@@ -7354,8 +7714,6 @@ http://2c1e584b.cbilant.com/iptv/SB5L3NKSZ2QXZP/208/index.m3u8
 http://2e36980f.cbilant.com/iptv/MC47PYFWXZ4D3W/217/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-2hoqrvgn.akciatv.ru@D-230630.done
 http://2hoqrvgn.akciatv.ru/iptv/SPFDNTXCXG4LU2/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live", Mezzo Live HD-3.troya.today:34000@D-230807.fail3
-http://3.troya.today:34000/ch130/mono.m3u8?token=rl_arina1.tuFDVvmfS9_0_oityBFlOvXIC88sGKDIblKXd4JHJArdIOJWXNelWnjxwH4nGnda
 #EXTINF:0 group-title="Mezzo Live", Mezzo Live HD-3.troya.today:34000@D-230807.done
 http://3.troya.today:34000/ch130/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19AyzWqJeb_2ebFmQJro6eVKc_pG_ysiSDrxpE48VfI4ek
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-30201a72.rossteleccom.net@D-230524.done
@@ -7364,8 +7722,6 @@ http://30201a72.rossteleccom.net/iptv/8KHG3C9XMLB7HX/208/index.m3u8
 http://36c9aee1.edmonst.net/iptv/FP78L5SP82NDBY/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo live HD-37.192.62.118:1234@D-230209.done
 http://37.192.62.118:1234/udp/239.1.10.1:1234
-#EXTINF:0 group-title="Mezzo Live", Mezzo Live HD-37.29.23.129:4000@D-230807.fail3
-http://37.29.23.129:4000/play/a03g/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-3aynck8f.akciatv.ru@D-230608.done
 http://3aynck8f.akciatv.ru/iptv/P4QLV9KWYVDTNT/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-3cc842a1.edmonst.net@D-230625.done
@@ -7416,8 +7772,6 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/208/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/208/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-88c0ad0b.ottrast.com@D-230807.done
-http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-8b5d5460.akadatel.com@D-230625.done
@@ -7640,6 +7994,8 @@ http://fd2f5da9.edmonst.net/iptv/3Z4H4E9X3XN79G/208/index.m3u8
 http://fd528cf2.ottrast.com/iptv/DSEEV2HZL7B8K6/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-ff993f3b.otttv.pw@D-230722.done
 http://ff993f3b.otttv.pw/iptv/9VVVF55ZF3FFXW/208/index.m3u8
+#EXTINF:0 group-title="Mezzo Live",Mezzo Liveⓧ HD-fiqueemcasa.club:80@D-230811.done
+http://fiqueemcasa.club:80/adhjm8769/678924421/160136
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/58K8XD6E8VQ7BS/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-foymmpeq.klaipedalt.org@D-230615.done
@@ -7806,6 +8162,8 @@ http://kldiupbm.ottclub.xyz/iptv/DGC8Z8FH6DB2KU/208/index.m3u8
 http://lds2hard.otttv.pw/iptv/7X7TH5HWBFFB23/208/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-lili2237.ottrast.com@D-230804.done
 http://lili2237.ottrast.com/iptv/PL22YWHB7VBFML/208/index.m3u8
+#EXTINF:0 group-title="Mezzo Live",MEZZO LIVE HD-lista.deluxeprime.net:8080@D-230811.done
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/199181
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-mgsiptv.cservst01.net:8896@D-230807.done
 http://mgsiptv.cservst01.net:8896/live/144Andreipc/144AndreipcFTJ/194.ts
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD-mk3gi6qohdjrudj.russtv.net@D-230604.done
@@ -8444,8 +8802,6 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/9014/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/9014/index.m3u8
-#EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-88c0ad0b.ottrast.com@D-230807.done
-http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-8b5d5460.akadatel.com@D-230625.done
 http://8b5d5460.akadatel.com/iptv/WLQT25DDMB2DZ9/9014/index.m3u8
 #EXTINF:0 group-title="Mezzo Live",Mezzo Live HD orig-908e3c5e.rossteleccom.net@D-230718.done
@@ -8746,8 +9102,12 @@ http://clientsportals.tv:80/tjBaQGVgcV/yTdPcvwVjk/608818
 http://lol.bz:2095/jyZ3m1mf/dgRy1RphOn/608818
 #EXTINF:0 group-title="Mezzo Live",Muzika  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/92230
+#EXTINF:0 group-title="Mezzo Live",Muzika  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/92230
 #EXTINF:0 group-title="Mezzo Live",NL 4MB+  Mezzo-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/bayramnohut/RuRRMNrkKHWN/264951
+#EXTINF:0 group-title="Mezzo Live",NL 4MB+  Mezzo-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Hikkkkoooo/xwKTjeMcceqx/264951
 #EXTINF:0 group-title="Mezzo Live",NL: Mezzo HD-live.darkside-iptv.co:8080@D-230223.done
 http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/272411.ts
 #EXTINF:0 group-title="Mezzo Live",NL: Mezzo Llive-ghostiptv.vip:80@D-230714.done
@@ -8760,6 +9120,8 @@ http://f01.live:8080/mUmA5XevfS/gWfLh7G3jA/308405
 http://live.euroteamspro.xyz:8080/mesut123/123mesut/308405
 #EXTINF:0 group-title="Mezzo Live",NL  Mezzo Liveⓧ HD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5766
+#EXTINF:0 group-title="Mezzo Live",NL  Mezzo Liveⓧ HD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/5766
 #EXTINF:0 group-title="Mezzo Live",NL Mezzo Llive 4K-kingtop10.net:7070@D-230625.done
 http://kingtop10.net:7070/Anasgamout/m5kkbx3l/172651
 #EXTINF:0 group-title="Mezzo Live",Nl  VIP: Mezzo Llive-sharingmaster.org:2095@D-230721.done
@@ -8826,6 +9188,10 @@ http://cdnr1.xyz:80/316002769/264974957/139525
 http://cdnr1.xyz:80/4gzjua0nyh/bd04mpd32g/139525
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230807.done
 http://cdnr1.xyz:80/526196942/409342057/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230811.done
+http://cdnr1.xyz:80/silviainter/28339211/139525
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-cdnr1.xyz:80@D-230811.done
+http://cdnr1.xyz:80/edivania3892jr/edi593084vania/139525
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-evolved.host:8080@D-230528.done.NC
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/495236
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-evolved.host:8080@D-230604.done.NC
@@ -8836,8 +9202,16 @@ http://s.apkwuv.xyz:80/34PW8x/1z8rmP/139525
 http://srv.cldplay.in:80/danyaraujo/graniptv2802/139525
 #EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-ua-iptv.com:8080@D-230515.done
 http://ua-iptv.com:8080/MikeRoberts/Mike111/303114
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/wiley0698@gmail.com/MYTtW6X63q/303114
+#EXTINF:0 group-title="Mezzo Live",PT: Mezzo Live-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/Vincent11/6564411/303114
+#EXTINF:0 group-title="Mezzo Live",PT: MEZZO LIVE FHD-lista.deluxeprime.net:8080@D-230811.done
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/130339
 #EXTINF:0 group-title="Mezzo Live",PT: MEZZO LIVE FHD-niaip.com:80@D-230315.done
 http://niaip.com:80/6hwcduwc7147duwgc/py6k5ZWsyE/442879
+#EXTINF:0 group-title="Mezzo Live",PT: MEZZO LIVE HD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/5983
 #EXTINF:0 group-title="Mezzo Live",PT  MEZZO-LIVE HD-tesslatv.net:80@D-230407.done
 http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/67170.ts
 #EXTINF:0 group-title="Mezzo Live",PT  Mezzo-srvmain02.cctvhub.live:2087@D-230604.done
@@ -8858,6 +9232,8 @@ http://hdliveiptv.com:8900/32817709191027/32817709191027/131464
 http://moboton.com:80/4Zhmhe6ZB/cIXRCQoghJ0W/18505
 #EXTINF:0 group-title="Mezzo Live",PT  Mezzo Liveⓧ HD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9665
+#EXTINF:0 group-title="Mezzo Live",PT  Mezzo Liveⓧ HD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/9665
 #EXTINF:0 group-title="Mezzo Live",RO: Mezzo-tvim.live:80@D-230528.done
 http://tvim.live:80/play/4f-c37DwxR1A6ZoN9xt2vjL030PqKxU67G7V0nwro8k/ts
 #EXTINF:0 group-title="Mezzo Live",RO: Mezzo-tvim.live:80@D-230625.done
@@ -8898,6 +9274,16 @@ http://tr.bosstv.live:8080/abone7960/t8dVGsRBr7/193947
 http://tr.bosstv.live:8080/abone7330/JvfLJH6gDhWe/193947
 #EXTINF:0 group-title="Mezzo Live",RU: Mezzo-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/@opa49/49Opi672/193947
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/193947
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/AtakliRecep/mblJoHL03a/193947
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h9Gs3n9fqLzv/CwKnqx8Q3q6P/193947
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ozkansaral/saral61/193947
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ibrahim.berbat/vrjzhAMcqZ/193947
 #EXTINF:0 group-title="Mezzo Live",RU: MEZZO live HD-1.revportal.eu:80@D-230803.done
 http://1.revportal.eu:80/mag00:1A:79:53:22:DD/k5pPUYZgvA/73695
 #EXTINF:0 group-title="Mezzo Live",RU: MEZZO live HD-1.revportal.eu:80@D-230806.done
@@ -8914,6 +9300,8 @@ http://1903.full57.us:8000/ibrahimtan49/9FDpxkNSm9GU/78401
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/73695
 #EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-abmclass.com:8080@D-230714.done
 http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/73590
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-amazingiptv.life:8080@D-230811.done
+http://amazingiptv.life:8080/cenk7186716/RrPG4YsZJtBC/193949
 #EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-amazingiptv.live:8080@D-230718.done
 http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/193949
 #EXTINF:0 group-title="Mezzo Live",RU: MEZZO LIVE HD-balkanfree.net:25461@D-230722.done
@@ -9012,6 +9400,16 @@ http://tr.bosstv.live:8080/abone7960/t8dVGsRBr7/193949
 http://tr.bosstv.live:8080/abone7330/JvfLJH6gDhWe/193949
 #EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/@opa49/49Opi672/193949
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/193949
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/AtakliRecep/mblJoHL03a/193949
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h9Gs3n9fqLzv/CwKnqx8Q3q6P/193949
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ozkansaral/saral61/193949
+#EXTINF:0 group-title="Mezzo Live",RU: Mezzo Live HD-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ibrahim.berbat/vrjzhAMcqZ/193949
 #EXTINF:0 group-title="Mezzo Live",RU: MEZZO LIVE HD-vodkom.net:25461@D-230803.done
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/46240
 #EXTINF:0 group-title="Mezzo Live",RU Mezzo Live HD-vipchanoen.top:8080@D-230604.done
@@ -9022,6 +9420,12 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/25545.ts
 http://baseel.top:8080/live/71685027297087/01685027297/52023.ts
 #EXTINF:0 group-title="Mezzo Live",RUS: MEZZO LIVE-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/52023.ts
+#EXTINF:0 group-title="Mezzo Live",RUS: MEZZO LIVE-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/941664923552657016/4751664923552657/52023.ts
+#EXTINF:0 group-title="Mezzo Live",RUS: MEZZO LIVE-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/371668264135561045/8631668264135561/52023.ts
+#EXTINF:0 group-title="Mezzo Live",RUS: MEZZO LIVE-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/161678907076328072/6291678907076328/52023.ts
 #EXTINF:0 group-title="Mezzo Live",RUS: MEZZO LIVE-iptv7.premium-stv.com:2082@D-230806.done
 http://iptv7.premium-stv.com:2082/A2109/mHEAG3jvRhh6/337152
 #EXTINF:0 group-title="Mezzo Live",RUS: MEZZO LIVE-linevip1.top:8080@D-230703.done
@@ -9036,6 +9440,8 @@ http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/45695.m3u8
 http://ghostiptv.vip:80/162CBD98400E/63769b7dd9734/45695
 #EXTINF:0 group-title="Mezzo Live",RUS: Mezzo live HD-magsmart.xyz:80@D-230209.done
 http://magsmart.xyz:80/play/hsJAQKKxXWi9eiZlbF9dJ078U6FD52rZx5fRrnI7s5w5O9uCvs_-rNqfI77FTeXb/ts
+#EXTINF:0 group-title="Mezzo Live",RUS: Mezzo live HD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/137911
 #EXTINF:0 group-title="Mezzo Live",RUS: Mezzo live HD-zeintv.xyz:8080@D-230313.done
 http://zeintv.xyz:8080/05314536123/WMuXHbbsxBs5/131955
 #EXTINF:0 group-title="Mezzo Live",RUS: Mezzo live HD-zeintv.xyz:8080@D-230507.done
@@ -9052,8 +9458,12 @@ http://zeintv.xyz:8080/5389823648/3648/131955
 http://zeintv.xyz:8080/05466820130/05466820130/131955
 #EXTINF:0 group-title="Mezzo Live",SE  Mezzo Live-85.114.138.88:2052@D-230706.done
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/196869
+#EXTINF:0 group-title="Mezzo Live",SE  MEZZO LIVE-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Lambertnc1/Beaudog1/135708
 #EXTINF:0 group-title="Mezzo Live",SE  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/62602
+#EXTINF:0 group-title="Mezzo Live",SE  Mezzo Liveⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/62602
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.viptvpro.com:25443@D-230718.done
 http://tv.viptvpro.com:25443/live/V5sVxpbyA7us/rSA9Y5BYX0/139231.ts
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tv.viptvpro.com:25443@D-230718.done
@@ -9068,6 +9478,8 @@ http://tv.viptvpro.com:25443/live/SrankpaHD/A123456789/139231.ts
 http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/139231.ts
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-tvpro.vprotv.com:25443@D-230716.done
 http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/139231.ts
+#EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/139231.ts
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/139231.ts
 #EXTINF:0 group-title="Mezzo Live",SP-M+ MEZZO LIVE HD-x.v-iptv.com:25443@D-230708.done
@@ -9092,6 +9504,8 @@ http://appfactory.group:8080/NwxLJCekzY/2m2x7FLyX8/25971
 http://appfactory.group:8080/MbK9LR5x8m/ZUTX1ow37b/25971
 #EXTINF:0 group-title="Mezzo Live",SPA: MEZZO LIVE-appfactory.group:8080@D-230728.done
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/25971
+#EXTINF:0 group-title="Mezzo Live",SPA: MEZZO LIVE-appfactory.group:8080@D-230811.done
+http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/25971
 #EXTINF:0 group-title="Mezzo Live",SP MEZZO LIVE HD-m3u.ottc.pro:80@D-230716.done
 http://m3u.ottc.pro:80/EIN1UMYQ4Z/EPCHWQHKQN/1616
 #EXTINF:0 group-title="Mezzo Live",SP MEZZO LIVE HD-sultan-iptv.com:8089@D-230714.done
@@ -9162,18 +9576,24 @@ http://tv.viptvpro.com:25443/live/samirayyad/AAZZEERRTT/249287.ts
 http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/249287.ts
 #EXTINF:0 group-title="Music",.BE. NRJ Hits-tvpro.vprotv.com:25443@D-230716.done
 http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/249287.ts
+#EXTINF:0 group-title="Music",.BE. NRJ Hits-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/249287.ts
 #EXTINF:0 group-title="Music",.BE. NRJ Hits-x.v-iptv.com:25443@D-230522.done
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/249287.ts
 #EXTINF:0 group-title="Music",.BE. NRJ Hits-x.v-iptv.com:25443@D-230803.done
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/249287.ts
 #EXTINF:0 group-title="Music",113.fm KPOP live-1tv41.icu:8080@D-230621.done
 http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/123183
+#EXTINF:0 group-title="Music",113.fm KPOP live-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/123183
 #EXTINF:0 group-title="Music",113.fm KPOP live-nocable.cc:8080@D-230511.done
 http://nocable.cc:8080/turtle/turtle/123183
 #EXTINF:0 group-title="Music",113.fm KPOP live-tv70.icu:8080@D-230716.done
 http://tv70.icu:8080/BYS2dE/808078/123183
 #EXTINF:0 group-title="Music",113.fm KPOP live-tvmate.icu:8080@D-230716.done
 http://tvmate.icu:8080/lilly1/lilly1/123183
+#EXTINF:0 group-title="Music",[MU] NRJ Hits-redmonkeytv.com:8080@D-230811.done
+http://redmonkeytv.com:8080/test1234/test1234/13572
 #EXTINF:0 group-title="Music",AF086:KPOP-kkwa76.wanicelife.com:8880@D-230727.done
 http://kkwa76.wanicelife.com:8880/D12m1968/47632966/59257
 #EXTINF:0 group-title="Music",AF086:KPOP-mxu03.wanicelife.com:8880@D-230727.done
@@ -9186,6 +9606,8 @@ http://cdn.rtyh.xyz:80/johanjarley/trj12706kiuo/234354
 http://162.251.62.114:80/live/fernandonoob13/ti7ovttn/48604.ts
 #EXTINF:0 group-title="Music",All KPOP FHD-162.251.62.114:80@D-230706.done
 http://162.251.62.114:80/live/0212530/8907988/48604.ts
+#EXTINF:0 group-title="Music",All KPOP FHD¹-4p.vc:80@D-230811.done
+http://4p.vc:80/cabralquartofilha/12345678910/181017
 #EXTINF:0 group-title="Music",BE027:NRJ Hits-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/6ms210011/88738116/30674
 #EXTINF:0 group-title="Music",BE027:NRJ Hits-ae2.aatvbox.club:8880@D-230510.done
@@ -9198,6 +9620,8 @@ http://54thegeek.de:8080/Aliffm1234/Sdert45thf/276407
 http://digimaxviptv.xyz:8080/fatihyildirimtr/TykwD3VEnT26/276407
 #EXTINF:0 group-title="Music",BE: NRJ HITS-mrcool.nomorecable.me:8000@D-230706.done
 http://mrcool.nomorecable.me:8000/klbrstnwk7/8PVKk3fxNQ/63300
+#EXTINF:0 group-title="Music",Be: NRJ Hits-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/136363
 #EXTINF:0 group-title="Music",BE: NRJ HITS-premium-ks.ddns.net:88@D-230727.done
 http://premium-ks.ddns.net:88/TAHIR_TAHIRI/f0:27:2d:e5:9b:f0/65497
 #EXTINF:0 group-title="Music",Be: NRJ Hits-sharingmaster.org:2095@D-230721.done
@@ -9280,6 +9704,8 @@ http://4r6.grande365.xyz:80/play/X6S4miIL5ZJuKy7dbOd-dz0tM7yKVXEwvmcGOGIXko4/ts
 http://4r6.grande365.xyz:80/play/X6S4miIL5ZJuKy7dbOd-d6qeACXgHP8-zrUaDCa4uQw/ts
 #EXTINF:0 group-title="Music",BE: NRJ HITS HD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/143763
+#EXTINF:0 group-title="Music",BE: NRJ HITS TV-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/226796
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/226796
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV-159734.mavitv.eu:80@D-230728.done
@@ -9290,6 +9716,14 @@ http://76271.atr91.com:80/Red472/cp49jh/124574
 http://baseel.top:8080/live/71685027297087/01685027297/8567.ts
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/8567.ts
+#EXTINF:0 group-title="Music",BE: NRJ HITS TV-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/941664923552657016/4751664923552657/8567.ts
+#EXTINF:0 group-title="Music",BE: NRJ HITS TV-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/371668264135561045/8631668264135561/8567.ts
+#EXTINF:0 group-title="Music",BE: NRJ HITS TV-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/161678907076328072/6291678907076328/8567.ts
+#EXTINF:0 group-title="Music",BE: NRJ Hits TV-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Moses08/Jahwayne31/143910
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/5071662158313678/4821662158313678/8567.ts
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV-halostyle.top:8080@D-230624.done
@@ -9320,6 +9754,8 @@ http://233836167629316914.ot0711.xyz:80/play/vd08206/2960766689/316914.ts
 http://301995741980316914.of913.xyz:80/play/mi1122882/g5@JrMsu3t/316914.ts
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV HD-49227452934316914.ot0711.xyz:80@D-230727.done
 http://49227452934316914.ot0711.xyz:80/play/fe1109120/Q8Apk@AxBF5/316914.ts
+#EXTINF:0 group-title="Music",BE: NRJ HITS TV HD-51473136914316914.of3805.xyz:80@D-230811.done
+http://51473136914316914.of3805.xyz:80/play/D8TNPXGL7V/STvG6fah@P/316914.ts
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV HEVC-169629003445416322.of3805.xyz:80@D-230806.done
 http://169629003445416322.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/416322.ts
 #EXTINF:0 group-title="Music",BE: NRJ HITS TV HEVC-301995741980416322.of913.xyz:80@D-230515.done
@@ -9352,6 +9788,8 @@ http://appfactory.group:8080/MbK9LR5x8m/ZUTX1ow37b/1924
 http://appfactory.group:8080/NwxLJCekzY/2m2x7FLyX8/1924
 #EXTINF:0 group-title="Music",BEL: NRJ Hits Belgique-appfactory.group:8080@D-230728.done
 http://appfactory.group:8080/SOqzPWp6ia/Mo1ywDkXgD/1924
+#EXTINF:0 group-title="Music",BEL: NRJ Hits Belgique-appfactory.group:8080@D-230811.done
+http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/1924
 #EXTINF:0 group-title="Music",BE  NRJ HITS-nxtplay.xyz:8080@D-230512.done
 http://nxtplay.xyz:8080/VZ4GYOtUrqVP1FV/qEOISzIJKDHQCOECyl/208255
 #EXTINF:0 group-title="Music",BE  NRJ HITS-tigerkanaler2.loginto.me:8080@D-230730.done
@@ -9368,6 +9806,8 @@ http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/208255
 http://tigerkanaler2.loginto.me:8080/SnX6ArNtzt/RQh6uwkB8a/208255
 #EXTINF:0 group-title="Music",BE  NRJ HITS-tigerkanaler2.loginto.me:8080@D-230730.done
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/208255
+#EXTINF:0 group-title="Music",BE NRJ HITS BELGIQUE-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/812098
 #EXTINF:0 group-title="Music",BE NRJ HITS BELGIQUE-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/812098
 #EXTINF:0 group-title="Music",BE NRJ HITS BELGIQUE-lserver100.xyz:8080@D-230601.done
@@ -9408,6 +9848,8 @@ http://tigerkanaler2.loginto.me:8080/SnX6ArNtzt/RQh6uwkB8a/208254
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/208254
 #EXTINF:0 group-title="Music",BE  NRJ Hitsⓧ HD-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/49456
+#EXTINF:0 group-title="Music",BE  NRJ Hitsⓧ HD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/49456
 #EXTINF:0 group-title="Music",BR: Kpop-aanax.com:8080@D-230728.done
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298082
 #EXTINF:0 group-title="Music",BR: Kpop-aanax.com:8080@D-230728.done
@@ -9440,12 +9882,16 @@ http://aflaxtv.xyz:8080/googleiptvex/8XsdD8qVstQhcjuy/298082
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298082
 #EXTINF:0 group-title="Music",BR: Kpop-gamsgo.cyou:8080@D-230613.done
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298082
+#EXTINF:0 group-title="Music",BR: Kpop-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/298082
 #EXTINF:0 group-title="Music",BR: Kpop-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/298082
 #EXTINF:0 group-title="Music",BR: Kpop-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/298082
 #EXTINF:0 group-title="Music",BR: Kpop-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298082
+#EXTINF:0 group-title="Music",BR: Kpop-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298082
 #EXTINF:0 group-title="Music",BR: Kpop-kuchini.site:8080@D-230523.done
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298082
 #EXTINF:0 group-title="Music",BR: Kpop-kuchini.site:8080@D-230709.done
@@ -9486,6 +9932,8 @@ http://skylogic.site:8080/Vladisergeevic/7eef2c4388/298082
 http://skylogic.site:8080/0613bffd/69b6b8f260/298082
 #EXTINF:0 group-title="Music",BR: Kpop-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/298082
+#EXTINF:0 group-title="Music",BR: Kpop-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298082
 #EXTINF:0 group-title="Music",BR: Kpoptv Play-hidra.live:80@D-230317.done.NC.dead
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/304132
 #EXTINF:0 group-title="Music",BR: Kpoptv Play-hidra.live:80@D-230620.done.NC.dead
@@ -9520,6 +9968,8 @@ http://smartv.pro:80/live/828282/484848/131838.ts
 http://smartv.pro:80/live/Sultan123/Sultan123123/131838.ts
 #EXTINF:0 group-title="Music",DJ Digital K-Pop Wave live-1tv41.icu:8080@D-230621.done
 http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/123519
+#EXTINF:0 group-title="Music",DJ Digital K-Pop Wave live-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/123519
 #EXTINF:0 group-title="Music",DJ Digital K-Pop Wave live-nocable.cc:8080@D-230511.done
 http://nocable.cc:8080/turtle/turtle/123519
 #EXTINF:0 group-title="Music",DJ Digital K-Pop Wave live-tv70.icu:8080@D-230716.done
@@ -9528,6 +9978,8 @@ http://tv70.icu:8080/BYS2dE/808078/123519
 http://tvmate.icu:8080/lilly1/lilly1/123519
 #EXTINF:0 group-title="Music",ES 2kPOP FM-m3u.ottc.pro:80@D-230716.done
 http://m3u.ottc.pro:80/EIN1UMYQ4Z/EPCHWQHKQN/406140
+#EXTINF:0 group-title="Music",Essência Kpop - Espanha-ccdntp.xyz:80@D-230811.done
+http://ccdntp.xyz:80/AlexandreP/100620jn/132305
 #EXTINF:0 group-title="Music",F- NRJ HITS FHD-yorkshiredog.xyz:8080@D-230730.done
 http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10846
 #EXTINF:0 group-title="Music",F- NRJ HITS HD-yorkshiredog.xyz:8080@D-230730.done
@@ -9538,6 +9990,8 @@ http://cloud.cdn-proxy.win:2052/8024019845804520/8024485734244944/96865
 http://cloud.cdn-proxy.win:2052/799055802981/252996276082/96865
 #EXTINF:0 group-title="Music",FR-4K NRJ HITS -cloud.cdn-proxy.win:2052@D-230803.done
 http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/96865
+#EXTINF:0 group-title="Music",FR-4K NRJ HITS -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96865
 #EXTINF:0 group-title="Music",FR-4K NRJ HITS -ma.swords.live:2052@D-230803.done
 http://ma.swords.live:2052/721372412714/818348973987/96865
 #EXTINF:0 group-title="Music",FR-4K NRJ HITS -saw.duplex-ott.net:2052@D-230803.done
@@ -9616,8 +10070,12 @@ http://xtra.fireottplus.com:2052/276331779148/117295674629/96865
 http://xtra.fireottplus.com:2052/448210150112/352515716881/96865
 #EXTINF:0 group-title="Music",FR-4K NRJ HITS -xtra.fireottplus.com:2052@D-230803.done
 http://xtra.fireottplus.com:2052/3913531091/0axv6fea/96865
+#EXTINF:0 group-title="Music",FR-HD NRJ HITS -fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/96866
 #EXTINF:0 group-title="Music",FR-NRJ hit-bntvs.com:2052@D-230531.done
 http://bntvs.com:2052/MarinaLukovic/841368546/10960
+#EXTINF:0 group-title="Music",FR-NRJ hit-bntvs.com:2052@D-230811.done
+http://bntvs.com:2052/srdjan10/krstic2202/10960
 #EXTINF:0 group-title="Music",FR-NRJ Hits (HD)-nxtplay.xyz:8080@D-230512.done
 http://nxtplay.xyz:8080/VZ4GYOtUrqVP1FV/qEOISzIJKDHQCOECyl/361845
 #EXTINF:0 group-title="Music",FR-NRJ Hits (HD)-tigerkanaler2.loginto.me:8080@D-230730.done
@@ -9638,6 +10096,8 @@ http://tigerkanaler2.loginto.me:8080/SnX6ArNtzt/RQh6uwkB8a/361845
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/361845
 #EXTINF:0 group-title="Music",FR-NRJ HITS (P)-dns.p2.wtf:80@D-230728.done
 http://dns.p2.wtf:80/igorvictal/72fsy37/162759
+#EXTINF:0 group-title="Music",FR-NRJ Hits-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/230054
 #EXTINF:0 group-title="Music",FR-NRJ HITS-159734.mavitv.eu:80@D-230422.done
 http://159734.mavitv.eu:80/ces192/BlkounQGj4/183008
 #EXTINF:0 group-title="Music",FR-NRJ Hits-159734.mavitv.eu:80@D-230728.done
@@ -9728,14 +10188,26 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/221
 http://alcapone1.com:8080/Mario/123456/28132
 #EXTINF:0 group-title="Music",FR- NRJ Hits-appfactory.group:8080@D-230508.done
 http://appfactory.group:8080/qCgDwQzqjh/5oYshpPqtb/2018
+#EXTINF:0 group-title="Music",FR- NRJ Hits-appfactory.group:8080@D-230811.done
+http://appfactory.group:8080/P8SQcCxqKD/LlXFvYqN6W/2018
 #EXTINF:0 group-title="Music",FR-NRJ HITS-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/137606
 #EXTINF:0 group-title="Music",FR-NRJ HITS-baseel.top:8080@D-230803.done
 http://baseel.top:8080/live/71685027297087/01685027297/8153.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS-bestsave.ltd:80@D-230709.done
 http://bestsave.ltd:80/live/5544332211/1122334455/498625.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/212616
+#EXTINF:0 group-title="Music",FR-NRJ HITS-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/8NQaRRaPm3ek/k3XERthkZJzZ/212616
 #EXTINF:0 group-title="Music",FR-NRJ HITS-cacoet.top:8080@D-230519.done
 http://cacoet.top:8080/live/721665614988930022/4471665614988930/8153.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/941664923552657016/4751664923552657/8153.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/371668264135561045/8631668264135561/8153.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS-cacoet.top:8080@D-230811.done
+http://cacoet.top:8080/live/161678907076328072/6291678907076328/8153.ts
 #EXTINF:0 group-title="Music",FR-NRJ Hits-dual2.rsviptv.xyz:80@D-230728.done
 http://dual2.rsviptv.xyz:80/live/Apdullah@34/30eylul@2022/227318.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS-evolved.host:8080@D-230528.done.NC
@@ -9750,12 +10222,16 @@ http://fanatik22.xyz:80/Hamza1985/WR2WveKjd2/164288
 http://fanatik22.xyz:80/halil.demir/AAncHPywfb/164288
 #EXTINF:0 group-title="Music",FR-NRJ Hits-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/164288
+#EXTINF:0 group-title="Music",FR-NRJ HITS-fix.mniltv.xyz:8080@D-230811.done
+http://fix.mniltv.xyz:8080/arda5436/3Ag59XqNjkqj/84261
 #EXTINF:0 group-title="Music",FR-NRJ Hits-friiptv.com:8080@D-230629.done
 http://friiptv.com:8080/49172913712Whatsap/8NKwHnw2dq/20460
 #EXTINF:0 group-title="Music",FR-NRJ Hits-gamsgo.cyou:8080@D-230613.done
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/221
 #EXTINF:0 group-title="Music",FR-NRJ Hits-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221
+#EXTINF:0 group-title="Music",FR-NRJ Hits-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/221
 #EXTINF:0 group-title="Music",FR-NRJ HITS-halostyle.top:8080@D-230624.done
 http://halostyle.top:8080/live/561669544822135057/6461669544822135/8153.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS-halostyle.top:8080@D-230624.done
@@ -9794,6 +10270,8 @@ http://iptvmedia.live:8080/outputofflinechecker/pass/221
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/221
 #EXTINF:0 group-title="Music",FR-NRJ Hits-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221
+#EXTINF:0 group-title="Music",FR-NRJ Hits-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/221
 #EXTINF:0 group-title="Music",FR-NRJ Hits-kuchini.site:8080@D-230709.done
 http://kuchini.site:8080/supermediatv/kDV7uQaQKRW5XwQd/221
 #EXTINF:0 group-title="Music",FR-NRJ Hits-kuchini.site:8080@D-230714.done
@@ -9846,6 +10324,8 @@ http://nox.nox102.xyz:80/muratim35/16.08.2021mrt/164288
 http://ott1.co:8080/live/p2GRI8QKKz/1Zi8iGfJxP/143342.ts
 #EXTINF:0 group-title="Music",FR-NRJ Hits-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/427750
+#EXTINF:0 group-title="Music",FR-NRJ HITS-redmonkeytv.com:8080@D-230811.done
+http://redmonkeytv.com:8080/test1234/test1234/25441
 #EXTINF:0 group-title="Music",FR-NRJ HITS-s1.pubnow.info:8080@D-230703.done
 http://s1.pubnow.info:8080/Guijac62/Jacques62!/267
 #EXTINF:0 group-title="Music",FR-NRJ Hits-sevi.2022spn.net:8080@D-230625.done
@@ -9874,6 +10354,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/567.ts
 http://wt.mirosfresh.info:8080/AvdylHalili/8o4kwSgxkrBvzQcL9JABfdOenpSQaG8Y/400
 #EXTINF:0 group-title="Music",FR-NRJ Hits-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/221
+#EXTINF:0 group-title="Music",FR-NRJ Hits-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/221
 #EXTINF:0 group-title="Music",FR-NRJ HITS-xtremeport.com:80@D-230717.done
 http://xtremeport.com:80/Lorena2023/Lorena2023/226595.ts
 #EXTINF:0 group-title="Music",FR- NRJ HITS-zeintv.xyz:8080@D-230718.done
@@ -9932,6 +10414,8 @@ http://arrepiado.xyz:8080/eduardoferreira/EDF231021/68376
 http://arrepiado.xyz:8080/ASilvestre10/101112/68376
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-balkanfree.net:25461@D-230722.done
 http://balkanfree.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127343
+#EXTINF:0 group-title="Music",FR-NRJ HITS FHD-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/506498
 #EXTINF:0 group-title="Music",FR-NRJ Hitsⓧ FHD-gtvstreams.me:80@D-230806.done
 http://gtvstreams.me:80/Robbie/Robbie/640108
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-iptvzeus.com:25461@D-230626.done
@@ -10112,6 +10596,8 @@ http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/9249.ts
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/9249.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/9249.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS FHD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/9249.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/9249.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS FHD-vodkom.net:25461@D-230803.done
@@ -10122,6 +10608,8 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9249.ts
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/9249.ts
 #EXTINF:0 group-title="Music",FR- NRJ Hitsⓧ FHD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/76510
+#EXTINF:0 group-title="Music",FR-NRJ Hitsⓧ FHD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/76510
 #EXTINF:0 group-title="Music",FR-NRJ HITS FRANCE FHD-cdn.erost.us:8080@D-230715.done
 http://cdn.erost.us:8080/loginquarto/70283372/53724
 #EXTINF:0 group-title="Music",FR-NRJ HITS FRANCE FHD-cdn.erost.us:8080@D-230715.done
@@ -10138,6 +10626,8 @@ http://ghost-x99.uno:8080/BKs00tQ67o/DtmBBqRQ20/23943
 http://ghost-x99.uno:8080/HS1JLYeYFn/LW46bgzWj6/23943
 #EXTINF:0 group-title="Music",FR-NRJ HITS FRANCE HD-pro.ipcover.tv:8080@D-230417.done
 http://pro.ipcover.tv:8080/USERN81154/PASSW88990/336
+#EXTINF:0 group-title="Music",FR-NRJ HITS FRANCE HD-you10.4youall.xyz:8080@D-230811.done
+http://you10.4youall.xyz:8080/nX36838399DADS/PLgdhdyyy3637/23943
 #EXTINF:0 group-title="Music",FR-NRJ HITS FRANCE SD-pro.ipcover.tv:8080@D-230417.done
 http://pro.ipcover.tv:8080/USERN81154/PASSW88990/138295
 #EXTINF:0 group-title="Music",FR-NRJ HITS H.265-176.9.16.190:8080@D-230705.done
@@ -10190,6 +10680,8 @@ http://cdn.erost.us:8080/33814476/08084398/53677
 http://cdn.erost.us:8080/21980101066/98654156/53677
 #EXTINF:0 group-title="Music",FR-NRJ Hits HD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/10248
+#EXTINF:0 group-title="Music",FR-NRJ HITS HD-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/507295
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-domainame.lg.ua:8080@D-230803.done
 http://domainame.lg.ua:8080/play/WNltiUwx_cy51QNptBhA6SIc0FsoKTt3xh3EM84Frn4Fl77dOYPRCTYHhl368yw2
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-domainame.lg.ua:8080@D-230803.done
@@ -10234,6 +10726,8 @@ http://magott.net:80/cafemers/112233/887
 http://magott.net:80/m5ge2TQ7Tr9Q/5JKyFNz2xuHD/887
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-magott.net:80@D-230803.done
 http://magott.net:80/okota385/3254615854211/887
+#EXTINF:0 group-title="Music",FR-NRJ HITS HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/887
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-metalbchm.xyz:8080@D-230619.done
 http://metalbchm.xyz:8080/Gurkan85/8mVCEderba/157722
 #EXTINF:0 group-title="Music",FR- NRJ Hits HD-nlgteam.ddns.net:80@D-230707.done.NC.dead
@@ -10384,6 +10878,8 @@ http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/254354
 http://url.linesecurity.cyou:8080/Diogovilaca/tTmBYazgs43Q/39578
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-vip.dom1tv.com:25443@D-230723.done
 http://vip.dom1tv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/51113.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS HD-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/51113.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/51113.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS HD-x.v-iptv.com:25443@D-230708.done
@@ -10394,6 +10890,8 @@ http://x.v-iptv.com:25443/live/V7P0ZjHCInlv/7Cp8sXGgBA/51113.ts
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/51113.ts
 #EXTINF:0 group-title="Music",FR- NRJ Hitsⓧ HD-xplatinmedia.com:8080@D-230526.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/76511
+#EXTINF:0 group-title="Music",FR-NRJ Hitsⓧ HD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/76511
 #EXTINF:0 group-title="Music",FR-NRJ Hits HD-zeintv.xyz:8080@D-230507.done
 http://zeintv.xyz:8080/moha/2020/130011
 #EXTINF:0 group-title="Music",FR-NRJ Hits HD-zeintv.xyz:8080@D-230507.done
@@ -10414,6 +10912,8 @@ http://169629003445312790.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/312790.ts
 http://233836167629312790.ot0711.xyz:80/play/vd08206/2960766689/312790.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-49227452934312790.ot0711.xyz:80@D-230727.done
 http://49227452934312790.ot0711.xyz:80/play/fe1109120/Q8Apk@AxBF5/312790.ts
+#EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-51473136914312790.of3805.xyz:80@D-230811.done
+http://51473136914312790.of3805.xyz:80/play/D8TNPXGL7V/STvG6fah@P/312790.ts
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-arrepiado.xyz:8080@D-230409.done
 http://arrepiado.xyz:8080/v6iZxPxUTD/1sejrGhMtt/68378
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-arrepiado.xyz:8080@D-230409.done
@@ -10454,6 +10954,8 @@ http://iptvzeus.com:25461/e2qnbOypNYqxYzH/oXEFaEDkuUzbv1v/127365
 http://iptvzeus.com:25461/AXYS3TMCCGRTB2Q/E29M11LLFG9UTZX/127365
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/69316
+#EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/28667
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-ottsansat.org:25461@D-230714.done
 http://ottsansat.org:25461/02024748893799/O51VG32STP476FL/127365
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-ottsansat.org:25461@D-230722.done
@@ -10516,6 +11018,8 @@ http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/363575.ts
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/127365
 #EXTINF:0 group-title="Music",FR-NRJ HITS HEVC-www.funmitra.com:8080@D-230529.done
 http://www.funmitra.com:8080/soner51510/ZXNOiMqQUQ27/218629
+#EXTINF:0 group-title="Music",FR-NRJ HITS LQ-ctvu.me:80@D-230811.done
+http://ctvu.me:80/Nicolas/Nicolas/507484
 #EXTINF:0 group-title="Music",FR-NRJ HITS LQ-line.premiumpowers.net:80@D-230709.done
 http://line.premiumpowers.net:80/10/1234567/507484
 #EXTINF:0 group-title="Music",FR-NRJ HITS LQ-line.rs6ott.com:80@D-230611.done
@@ -10682,6 +11186,8 @@ http://tv.pro-ott.com:25443/live/1RGBQAWT13/A619NO8R2I/271119.ts
 http://tv.viptvpro.com:25443/live/LamineNHD/N1234567A7/271119.ts
 #EXTINF:0 group-title="Music",FR.H265 NRJ HITS-tv.viptvpro.com:25443@D-230803.done
 http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/271119.ts
+#EXTINF:0 group-title="Music",FR.H265 NRJ HITS-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/271119.ts
 #EXTINF:0 group-title="Music",FR.H265 NRJ HITS-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/271119.ts
 #EXTINF:0 group-title="Music",FR.H265 NRJ HITS-x.v-iptv.com:25443@D-230803.done
@@ -10734,6 +11240,8 @@ http://mxu03.wanicelife.com:8880/12mmk0810053/75147417/2796
 http://sultan-iptv.com:8089/0102030405/123456789/83058
 #EXTINF:0 group-title="Music",FRSD NRJ HITS HD-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/54955
+#EXTINF:0 group-title="Music",FRSD NRJ HITS HD-1.revportal.eu:80@D-230811.done
+http://1.revportal.eu:80/SPIDER_mpXxio/JUMusgQUzE/54955
 #EXTINF:0 group-title="Music",FRSD NRJ HITS HD-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/54955
 #EXTINF:0 group-title="Music",FRSD NRJ HITS HD-onrev.xyz:80@D-230806.done
@@ -10822,8 +11330,12 @@ http://vegasizle.xyz:8080/SU4HCLdLA6sps754/zPEAG7RXa8ujIjzQ/660883
 http://vegasizle.xyz:8080/nevzat746/z8VEXGEcqfBp/660883
 #EXTINF:0 group-title="Music",HFAE ⋅ K-POPP-vegasizle.xyz:8080@D-230703.done.NC.dead
 http://vegasizle.xyz:8080/Acar2023nvd/mWwBXHFtdWew/660883
+#EXTINF:0 group-title="Music",JPopsuki Radio! - 192 kbit/s-4p.vc:80@D-230811.done
+http://4p.vc:80/cabralquartofilha/12345678910/162126
 #EXTINF:0 group-title="Music",K-POP-axr.life:80@D-230724.done
 http://axr.life:80/epg/epg/1418314
+#EXTINF:0 group-title="Music",K-POP-qetu.cc:8880@D-230811.done
+http://qetu.cc:8880/283307556991/834946705434/1418314
 #EXTINF:0 group-title="Music",K-Pop-srv1.zcast.com.br@D-230602.done
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w144579555.m3u8
 #EXTINF:0 group-title="Music",K-Pop-zaycevfm.cdnvideo.ru@D-230621.done
@@ -10834,6 +11346,8 @@ https://ythls.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 http://cdn.rtyh.xyz:80/30sonia/37982618/237387
 #EXTINF:0 group-title="Music",K-POP TV HD-cdn.contentgftp.xyz:80@D-230730.done
 http://cdn.contentgftp.xyz:80/play/RQegUXzBNJek1JtinmAu6RdYSt5qlhCVYkJGvduiI7rKwWscJB4RMWCjrTDZ9znz
+#EXTINF:0 group-title="Music",K-POP TV HD-cdn.contentgftp.xyz:80@D-230811.done
+http://cdn.contentgftp.xyz:80/play/VIpxQZ1uFg2cSEfHJ-iE5cm0ugAjGLnLPJwRe0DFcRf48i4hXcAlzF3CEZa-O-Uf
 #EXTINF:0 group-title="Music",Kpop-aanax.com:8080@D-230728.done
 http://aanax.com:8080/F19463/120bb65f/298082
 #EXTINF:0 group-title="Music",Kpop-aanax.com:8080@D-230803.done
@@ -10894,6 +11408,8 @@ http://casaplay.cf:8080/sergio/123456/149510
 http://casaplay.cf:8080/familia/102030/149510
 #EXTINF:0 group-title="Music",KPOP TV-casaplay.cf:8080@D-230717.done
 http://casaplay.cf:8080/marcelo/123456/149510
+#EXTINF:0 group-title="Music",KPOP TV-firp.me:80@D-230811.done
+http://firp.me:80/mizael/mizael/401349
 #EXTINF:0 group-title="Music",Kpop TV HD-cdn.teambr.live:80@D-230715.done
 http://cdn.teambr.live:80/live/Tavares59/240462/84895.m3u8
 #EXTINF:0 group-title="Music",Kpop TV HD-cdn.teambr.live:80@D-230722.done
@@ -10906,12 +11422,32 @@ http://cdn.xcore.ca:80/live/8uq63k/lrmfz8/84895.m3u8
 http://cdn.xcore.ca:80/m19efm/bhqloh/84895
 #EXTINF:0 group-title="Music",Kpop TV HD-cdn.xcore.ca:80@D-230717.done
 http://cdn.xcore.ca:80/live/m19efm/bhqloh/84895.m3u8
+#EXTINF:0 group-title="Music",Kpop TV HD-cdn.xcore.ca:80@D-230811.done
+http://cdn.xcore.ca:80/live/robsonlopes/dgn2201/84895.m3u8
+#EXTINF:0 group-title="Music",Kpop TV HD-cdn.xcore.ca:80@D-230811.done
+http://cdn.xcore.ca:80/live/ronaldo2999/dgn2201/84895.m3u8
+#EXTINF:0 group-title="Music",Kpop TV HD-cdn.xcore.ca:80@D-230811.done
+http://cdn.xcore.ca:80/Ligiag/Mae2309/84895
+#EXTINF:0 group-title="Music",Kpop TV HD-pkweb.ca:80@D-230811.done
+http://pkweb.ca:80/kileandro82/kanney@@/84895
+#EXTINF:0 group-title="Music",Kpop TV HD-pkweb.ca:80@D-230811.done
+http://pkweb.ca:80/live/kileandro82/kanney@@/84895.m3u8
+#EXTINF:0 group-title="Music",Kpop TV HD-pkweb.ca:80@D-230811.done
+http://pkweb.ca:80/marines4857/marines3846/84895
+#EXTINF:0 group-title="Music",Kpop TV HD-pkweb.ca:80@D-230811.done
+http://pkweb.ca:80/live/marines4857/marines3846/84895.m3u8
+#EXTINF:0 group-title="Music",Kpop TV HD-pkweb.ca:80@D-230811.done
+http://pkweb.ca:80/willbert31pvt/21324354/84895
+#EXTINF:0 group-title="Music",Kpop TV HD-pkweb.ca:80@D-230811.done
+http://pkweb.ca:80/live/willbert31pvt/21324354/84895.m3u8
 #EXTINF:0 group-title="Music",KpopTV Play (720p) [Not 24/7]-192.99.70.160:25461@D-230622.done
 http://192.99.70.160:25461/maria23/maria23/91959
 #EXTINF:0 group-title="Music",KpopTV Play (720p) [Not 24/7]-cloud.cdn-proxy.win:2052@D-230803.done
 http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/315246
 #EXTINF:0 group-title="Music",KpopTV Play (720p) [Not 24/7]-elmonkey.us:25461@D-230512.done
 http://elmonkey.us:25461/Victor/Victor/91959
+#EXTINF:0 group-title="Music",KpopTV Play (720p) [Not 24/7]-fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/315246
 #EXTINF:0 group-title="Music",KpopTV Play (720p) [Not 24/7]-ma.swords.live:2052@D-230803.done
 http://ma.swords.live:2052/721372412714/818348973987/315246
 #EXTINF:0 group-title="Music",KpopTV Play (720p) [Not 24/7]-saw.duplex-ott.net:2052@D-230803.done
@@ -11002,6 +11538,8 @@ http://cdn.rtyh.xyz:80/1beto23/1rafa23/234506
 http://cdn.rtyh.xyz:80/30sonia/37982618/234506
 #EXTINF:0 group-title="Music",KPOP TV SY HD*-cdn.rtyh.xyz:80@D-230727.done
 http://cdn.rtyh.xyz:80/johanjarley/trj12706kiuo/234506
+#EXTINF:0 group-title="Music",KPOP TV SY HD¹-4p.vc:80@D-230811.done
+http://4p.vc:80/cabralquartofilha/12345678910/181057
 #EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230730.done
 http://piglo.re:80/20016788/15962426/54680.ts
 #EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230803.done
@@ -11010,10 +11548,20 @@ http://piglo.re:80/979958617/79958617/54680.ts
 http://piglo.re:80/02051992/02051992/54680.ts
 #EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230806.done
 http://piglo.re:80/597549710011124/603663937588/54680.ts
+#EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230811.done
+http://piglo.re:80/975497975497/g2u8e8c91010/54680.ts
+#EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230811.done
+http://piglo.re:80/Tv9484/Idhdh8382/54680.ts
+#EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230811.done
+http://piglo.re:80/562486828826/318520989207/54680.ts
+#EXTINF:0 group-title="Music",KPOP TV SY HD-piglo.re:80@D-230811.done
+http://piglo.re:80/57218497/15167289/54680.ts
 #EXTINF:0 group-title="Music", LOCALNOW: NEW KPOP-mains.services@D-230623.done.NC.dead
 http://mains.services/live/wR34qMzGj3/6530858/cfbf24c8-ec5d-4246-8a28-07bb5fb6d9b1.m3u
 #EXTINF:0 group-title="Music", LOCALNOW: NEW KPOP-mains.services@D-230726.done.NC.dead
 http://mains.services/live/Grahxen/3docpGDalU/cfbf24c8-ec5d-4246-8a28-07bb5fb6d9b1.m3u
+#EXTINF:0 group-title="Music",MUSIC  Sexy Kpop TV  BR-cpi4u.com:45862@D-230811.done
+http://cpi4u.com:45862/PatricioGomez22/TZ8vCYq9pa/153962
 #EXTINF:0 group-title="Music",MUSIC  Sexy Kpop TV  BR-gotv.vip:8880@D-230806.done
 http://gotv.vip:8880/victor/mejia/36653
 #EXTINF:0 group-title="Music",N1 Play K-Pop ES-clientsportals.com:2095@D-230604.done
@@ -11046,6 +11594,12 @@ http://1.revportal.eu:80/SPIDER_FE418D/nfgnvBuh3c/76921
 http://1.revportal.eu:80/SPIDER_3jZBwb/Ur3Qs8zTZ5/76921
 #EXTINF:0 group-title="Music",NRJ HITS-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_i98fJ7/OyeTE8gq05/76921
+#EXTINF:0 group-title="Music",NRJ HITS-1.revportal.eu:80@D-230811.done
+http://1.revportal.eu:80/SPIDER_mpXxio/JUMusgQUzE/76921
+#EXTINF:0 group-title="Music",NRJ HITS-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/133177.m3u8
+#EXTINF:0 group-title="Music",NRJ HITS-2.onrev.xyz:80@D-230811.done
+http://2.onrev.xyz:80/live/SPIDER_h5cMrG/nJBk15I4Rv/76921.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/76921
 #EXTINF:0 group-title="Music",NRJ HITS-2.revportal.eu:80@D-230806.done
@@ -11098,6 +11652,8 @@ http://nygo.maroboxtv.com:2095/L2hhrTPx7G5u/9gPjKWgLFXwH/344
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/76921
 #EXTINF:0 group-title="Music",NRJ HITS-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/133177
+#EXTINF:0 group-title="Music",NRJ HITS-portalshqip.eu:8080@D-230811.done
+http://portalshqip.eu:8080/Test1234/Test1234/20165
 #EXTINF:0 group-title="Music",NRJ HITS-revteam11.offshorerev.cc:80@D-230806.done
 http://revteam11.offshorerev.cc:80/SPIDER_hris0V/GXUwp0zYAA/76921
 #EXTINF:0 group-title="Music",NRJ HITS-revteam11.offshorerev.cc:80@D-230806.done
@@ -11118,6 +11674,8 @@ http://revteam11.offshorerev.cc:80/SPIDER_L8F2Oe/S0m01VcfgQ/76921
 http://revteam11.offshorerev.cc:80/SPIDER_vQfb7P/jvpyGr1S3v/76921
 #EXTINF:0 group-title="Music",NRJ HITS -scdn.nrjaudio.fm@D-230626.done
 http://scdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3
+#EXTINF:0 group-title="Music",NRJ HITS-spain1.offshorerev.cc:80@D-230811.done
+http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/76921
 #EXTINF:0 group-title="Music",NRJ Hits-sulu.xyz:2086@D-230610.done
 http://sulu.xyz:2086/play/zp4b3Q36QOpbanEKGlU7fD3Swbm0IUJi9HNRT_o-s_I
 #EXTINF:0 group-title="Music", NRJ Hits-ua.ukrainske.tv@D-230719.done
@@ -11254,8 +11812,6 @@ http://7pahhzls.tvclub.xyz/iptv/LVM8YZVG3P4N64/19199/index.m3u8
 http://8355ba68.ottolok.net/iptv/S68HG38S5DWGCN/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19199/index.m3u8
-#EXTINF:0 group-title="Music",NRJ HITS HD-88c0ad0b.ottrast.com@D-230807.done
-http://88c0ad0b.ottrast.com/iptv/WVVSK8DQZ9MGD7/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-8a3d4c2a.edmonst.net@D-230718.done
 http://8a3d4c2a.edmonst.net/iptv/U3RQVZ5SK9LC2F/19199/index.m3u8
 #EXTINF:0 group-title="Music",NRJ HITS HD-8b5d5460.akadatel.com@D-230625.done
@@ -11926,10 +12482,14 @@ http://apontv.pm:80/live/231898749678226/1593574628/102512.ts
 http://apontv.pm:80/live/375617456966824/1593574628/102512.ts
 #EXTINF:0 group-title="Music",PLUTO K-POP-yahya.top:80@D-230710.done
 http://yahya.top:80/live/13538810817626027/1593574628/102512.ts
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-amazingiptv.live:8080@D-230811.done
+http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-gediz.online:8080@D-230727.done
 http://gediz.online:8080/UfukGoksu1/uTyf87bNBD/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-iptvbudur.xyz:8080@D-230803.done
 http://iptvbudur.xyz:8080/engin3535/EQeeEZEm42BF/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-lista.deluxeprime.net:8080@D-230811.done
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/212583
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-localchtv.xyz:8080@D-230718.done
 http://localchtv.xyz:8080/hakan94422504/wfjGNexbMs/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-localchtv.xyz:8080@D-230718.done
@@ -11958,6 +12518,18 @@ http://tr.bosstv.live:8080/abone7330/JvfLJH6gDhWe/324303
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/abone7960/t8dVGsRBr7/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h9Gs3n9fqLzv/CwKnqx8Q3q6P/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ozkansaral/saral61/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Emine-Rating/KvXuDWW23BCG/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/AtakliRecep/mblJoHL03a/324303
+#EXTINF:0 group-title="Music",Pluto TV K-Pop-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ibrahim.berbat/vrjzhAMcqZ/324303
 #EXTINF:0 group-title="Music",Pluto TV K-Pop-xdplayer.tv:8080@D-230806.done
 http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoNA5OUkK9fXImKJVGwatDc/ts
 #EXTINF:0 group-title="Music",PROTURK TURKPOP-104.244.73.237:8080@D-230714.done
@@ -11968,6 +12540,8 @@ http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/20074
 http://devgnr.xyz:8080/kadirturksoy/2102033462/20074
 #EXTINF:0 group-title="Music",PROTURK TURKPOP-smartsistem.xyz:8080@D-230728.done
 http://smartsistem.xyz:8080/ugurkarakas2023/aSwyEtXNAA/20074
+#EXTINF:0 group-title="Music",RADIO J-Pop-ccdntp.xyz:80@D-230811.done
+http://ccdntp.xyz:80/AlexandreP/100620jn/69655
 #EXTINF:0 group-title="Music",RADIO NRJ HITS 90-mastersrv.m3srv.top:8080@D-230722.done
 http://mastersrv.m3srv.top:8080/Jorgemagano/jfervwrhfk/13214
 #EXTINF:0 group-title="Music",RADIO NRJ HITS 90-mastersrv.m3srv.top:8080@D-230730.done
@@ -12014,6 +12588,8 @@ http://casaplay.cf:8080/familia/102030/152549
 http://4k.boxip.org:8080/697303143383473/2052727552/115369.ts
 #EXTINF:0 group-title="Music",SEXY KPOP TV-4k.boxip.org:8080@D-230627.done
 http://4k.boxip.org:8080/695553539585239/2076559245/115369.ts
+#EXTINF:0 group-title="Music",Sexy Kpop TV-4p.vc:80@D-230811.done
+http://4p.vc:80/cabralquartofilha/12345678910/125146
 #EXTINF:0 group-title="Music",SEXY KPOPTV-dnsbr.tk:80@D-230721.done
 http://dnsbr.tk:80/123456/123456/22084
 #EXTINF:0 group-title="Music",SEXY KPOPTV-dnsbr.tk:80@D-230721.done
@@ -12024,6 +12600,8 @@ http://dnsbr.tk:80/6488675675/5364364354/22084
 http://dnsbr.tk:80/6365378926/8362899165/22084
 #EXTINF:0 group-title="Music",SEXY KPOPTV-dnsbr.tk:80@D-230721.done
 http://dnsbr.tk:80/9496612083lorival/94lorival2083/22084
+#EXTINF:0 group-title="Music",SEXY KPOPTV-dnsbr.tk:80@D-230811.done
+http://dnsbr.tk:80/083991595959/jonatas95959/22084
 #EXTINF:0 group-title="Music",Sexy Kpop TV-exitotviptv.fun:8080@D-230727.done
 http://exitotviptv.fun:8080/Joaquin38104/8f4abyr3FDAT/138383
 #EXTINF:0 group-title="Music",Sexy KpopTV-streamer.enchart.one@D-230629.done
@@ -12064,6 +12642,8 @@ http://cloud.cdn-proxy.win:2052/8024019845804520/8024485734244944/241607
 http://cloud.cdn-proxy.win:2052/799055802981/252996276082/241607
 #EXTINF:0 group-title="Qwest",ES  HD QWEST JAZZ & BEYOND-cloud.cdn-proxy.win:2052@D-230803.done
 http://cloud.cdn-proxy.win:2052/8024109515879523/8024192802393925/241607
+#EXTINF:0 group-title="Qwest",ES  HD QWEST JAZZ & BEYOND-fireott.biz:2052@D-230811.done
+http://fireott.biz:2052/870175411887/427250059688/241607
 #EXTINF:0 group-title="Qwest",ES  HD QWEST JAZZ & BEYOND-ma.swords.live:2052@D-230803.done
 http://ma.swords.live:2052/721372412714/818348973987/241607
 #EXTINF:0 group-title="Qwest",ES  HD QWEST JAZZ & BEYOND-saw.duplex-ott.net:2052@D-230803.done
@@ -12156,6 +12736,8 @@ http://abc123.digital:8080/bajbest@gmail.com/q2ugE63asZ/405070
 http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/405070
 #EXTINF:0 group-title="Qwest",Pluto (ES) Qwest Jazz&Beyond (D)-evolved.host:8080@D-230604.done.NC
 http://evolved.host:8080/lou99/c8DtRWieta/405070
+#EXTINF:0 group-title="Qwest",Pluto (FR) Qwest Jazz & Beyond (D)-watchalien.ddns.net:2095@D-230811.done
+http://watchalien.ddns.net:2095/1813901482/6329933888/12120
 #EXTINF:0 group-title="Qwest",Qwest Classical-tigerkanaler2.loginto.me:8080@D-230730.done
 http://tigerkanaler2.loginto.me:8080/AYk65sMcJnzm0OFq7/PJ47Uwhd/174439
 #EXTINF:0 group-title="Qwest",Qwest Classical-tigerkanaler2.loginto.me:8080@D-230730.done
@@ -12168,6 +12750,10 @@ http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/174439
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/174439
 #EXTINF:0 group-title="Qwest",Qwest Jazz & Beyond (UK) (🇬🇧)-qwest-jazz-plex.amagi.tv@D-230527.done
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-amazingiptv.life:8080@D-230811.done
+http://amazingiptv.life:8080/cenk7186716/RrPG4YsZJtBC/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-amazingiptv.live:8080@D-230811.done
+http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/324307
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-daleplaypro.com:8080@D-230726.done
 http://daleplaypro.com:8080/Brisa01/brisa190/93070
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-daleplaypro.com:8080@D-230726.done
@@ -12186,6 +12772,8 @@ http://gediz.online:8080/UfukGoksu1/uTyf87bNBD/324307
 http://iptv-gmeuro.dyndns.tv:25461/mc_Cgerla/GCiropass/97173
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-iptvbudur.xyz:8080@D-230803.done
 http://iptvbudur.xyz:8080/engin3535/EQeeEZEm42BF/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-lista.deluxeprime.net:8080@D-230811.done
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/212581
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-raceipt.ddns.net:8000@D-230706.done
 http://raceipt.ddns.net:8000/daSIMO/04072023A/431402
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-simone167.ddns.net:25461@D-230604.done
@@ -12214,6 +12802,18 @@ http://tr.bosstv.live:8080/@opa49/49Opi672/324307
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/324307
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/abone7330/JvfLJH6gDhWe/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ozkansaral/saral61/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Emine-Rating/KvXuDWW23BCG/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/AtakliRecep/mblJoHL03a/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h9Gs3n9fqLzv/CwKnqx8Q3q6P/324307
+#EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ibrahim.berbat/vrjzhAMcqZ/324307
 #EXTINF:0 group-title="Qwest",Qwest Jazz&Beyond-xdplayer.tv:8080@D-230806.done
 http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWr1UnPEJDcP2WeM32gBn2Kw/ts
 #EXTINF:0 group-title="Qwest",Qwest Jazz & Beyond ES-clientsportals.com:2095@D-230604.done
@@ -12380,12 +12980,16 @@ http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/63008.ts
 http://tvpro.vprotv.com:25443/live/V5R0x4GFVezm/FPMcd7ggwH/63008.ts
 #EXTINF:0 group-title="Stingray",.NL. Stingray Djazz-tvpro.vprotv.com:25443@D-230726.done
 http://tvpro.vprotv.com:25443/live/KBFIZRDWA7/QNSYSQTQGK/63008.ts
+#EXTINF:0 group-title="Stingray",.NL. Stingray Djazz-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/63008.ts
 #EXTINF:0 group-title="Stingray",.NL. Stingray Djazz-vip.one-iptv.com:25443@D-230727.done
 http://vip.one-iptv.com:25443/live/V20nnVkweioNt/D11ViBVKX7/63008.ts
 #EXTINF:0 group-title="Stingray",.NL. Stingray Djazz-x.v-iptv.com:25443@D-230708.done
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/63008.ts
 #EXTINF:0 group-title="Stingray",.NL. Stingray Djazz-x.v-iptv.com:25443@D-230803.done
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/63008.ts
+#EXTINF:0 group-title="Stingray",[DE] Stingray Classica-redmonkeytv.com:8080@D-230811.done
+http://redmonkeytv.com:8080/test1234/test1234/45556
 #EXTINF:0 group-title="Stingray",[DE] Stingray Classica FHD-clientbox.tv:80@D-230607.done.NC.dead
 http://clientbox.tv:80/FdRxMPPBOg/sDxn40NWSs/3556
 #EXTINF:0 group-title="Stingray",[NL] [8K+] STINGRAY CLASSICA HD-line.iptv-4k.cc:80@D-230803.done
@@ -12408,6 +13012,8 @@ http://amazingiptv.life:8080/r7676/DdPXTHTpNMvq/275846
 http://amazingiptv.life:8080/N7PwW2PSze9K/SHwhT4hctv3U/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-amazingiptv.life:8080@D-230714.done
 http://amazingiptv.life:8080/ercan_saal/y7nacuZgtZ/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-amazingiptv.life:8080@D-230811.done
+http://amazingiptv.life:8080/cenk7186716/RrPG4YsZJtBC/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-amazingiptv.live:8080@D-230718.done
 http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-aventustv.online:8080@D-230727.done
@@ -12468,6 +13074,38 @@ http://tr.bosstv.live:8080/@opa49/49Opi672/275846
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/275846
 #EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/abone7960/t8dVGsRBr7/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Hikkkkoooo/xwKTjeMcceqx/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/6Kv5H8svb4Kj/Rv7PGACrmLj3/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/rB9tdFUXmjnY/fnd4bscQFmSJ/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/AtakliRecep/mblJoHL03a/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/mehmet123/ayva321/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Aligunes01/Aylin2023/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Hamsi61/24ocak2023/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/SibelTV/kyJVgXJe8eGu/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h9Gs3n9fqLzv/CwKnqx8Q3q6P/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ozkansaral/saral61/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/zk/HyxyAenhfygb/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Dizdar2828/Giresun28/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/ibrahim.berbat/vrjzhAMcqZ/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Ekber/Ekber2022/275846
+#EXTINF:0 group-title="Stingray",AMA: Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/Emine-Rating/KvXuDWW23BCG/275846
 #EXTINF:0 group-title="Stingray", BE-PX   STINGRAY CLASSICA HD-m3u.sea-iptv.com:80@D-230629.done
 http://m3u.sea-iptv.com:80/f4:7b:5e:5d:e2:4b/12flmnrt/254473
 #EXTINF:0 group-title="Stingray",BG: Stingray Djazz HD-premium-ks.ddns.net:88@D-230727.done
@@ -12488,8 +13126,16 @@ http://evolved.host:8080/onsiteinternational@gmail.com/5DdyFva5Dw/423314
 http://evolved.host:8080/lou99/c8DtRWieta/423314
 #EXTINF:0 group-title="Stingray",CA (FR) Stingray Classica (B)-ua-iptv.com:8080@D-230515.done
 http://ua-iptv.com:8080/MikeRoberts/Mike111/226989
+#EXTINF:0 group-title="Stingray",CA (FR) Stingray Classica (B)-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/Vincent11/6564411/226989
+#EXTINF:0 group-title="Stingray",CA (FR) Stingray Classica (B)-ua-iptv.com:8080@D-230811.done
+http://ua-iptv.com:8080/wiley0698@gmail.com/MYTtW6X63q/226989
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-alcapone1.com:8080@D-230802.done
 http://alcapone1.com:8080/Mario/123456/8059
+#EXTINF:0 group-title="Stingray",CA: Stingray Classica-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2088
+#EXTINF:0 group-title="Stingray",CA: Stingray Classica-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/2088
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/outputofflinechecker/pass/2088
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-kuchini.site:8080@D-230806.done
@@ -12508,6 +13154,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/2088
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2088
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/2088
+#EXTINF:0 group-title="Stingray",CA: Stingray Classica-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2088
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-sevi.2022spn.net:8080@D-230625.done
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/8059
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-skylogic.site:8080@D-230730.done
@@ -12516,6 +13164,8 @@ http://skylogic.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2088
 http://skylogic.site:8080/sniperstv/1q5HWC9l6322O61N7oYS/2088
 #EXTINF:0 group-title="Stingray",CA: Stingray Classica-skylogic.site:8080@D-230730.done
 http://skylogic.site:8080/0613bffd/69b6b8f260/2088
+#EXTINF:0 group-title="Stingray",CA: Stingray Classica-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2088
 #EXTINF:0 group-title="Stingray",CA: Stingray ClassiCA: HD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/135302
 #EXTINF:0 group-title="Stingray",CA: Stingray djazz-alcapone1.com:8080@D-230802.done
@@ -12524,6 +13174,8 @@ http://alcapone1.com:8080/Mario/123456/8060
 http://sevi.2022spn.net:8080/Angola/Ang0LA516/8060
 #EXTINF:0 group-title="Stingray",CA: Stingray Djazz FHD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/135305
+#EXTINF:0 group-title="Stingray",CA: STINGRAY TODAY'S K-POP (E)-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/98197
 #EXTINF:0 group-title="Stingray",CAFR STINGRAY CLASSICA-magott.net:80@D-230730.done
 http://magott.net:80/yousefsahbicc/HgsydJgu9m/61381
 #EXTINF:0 group-title="Stingray",CAFR STINGRAY CLASSICA-magott.net:80@D-230803.done
@@ -12534,8 +13186,18 @@ http://magott.net:80/okota385/3254615854211/61381
 http://85.114.138.88:2052/fabriziofed/R6reTq3fTC/154763
 #EXTINF:0 group-title="Stingray",CA  Stingray Classicaⓧ-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5898
+#EXTINF:0 group-title="Stingray",CA  Stingray Classicaⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/5898
 #EXTINF:0 group-title="Stingray",CA  Stingray Djazz TVⓧ-xplatinmedia.com:8080@D-230806.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/5664
+#EXTINF:0 group-title="Stingray",CA  Stingray Djazz TVⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/5664
+#EXTINF:0 group-title="Stingray",DE: MagentaTV: Stingray Classica-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/299018
+#EXTINF:0 group-title="Stingray",DE: MagentaTV: Stingray DJAZZ-boxportal.store:8080@D-230811.done
+http://boxportal.store:8080/68273764b4d6/3dGWtTGapj/299020
+#EXTINF:0 group-title="Stingray",DE: Stingray Classica-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/230358
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/230358
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-159734.mavitv.eu:80@D-230728.done
@@ -12564,8 +13226,12 @@ http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/163928
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298711
+#EXTINF:0 group-title="Stingray",DE: Stingray Classica-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298711
+#EXTINF:0 group-title="Stingray",DE: Stingray Classica-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/outputofflinechecker/pass/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-kuchini.site:8080@D-230806.done
@@ -12582,6 +13248,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/298711
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298711
+#EXTINF:0 group-title="Stingray",DE: Stingray Classica-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298711
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/muratim35/16.08.2021mrt/163928
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-nox.nox102.xyz:80@D-230722.done
@@ -12606,6 +13274,8 @@ http://vole1.rsvole22s.xyz:80/live/okay2023/tBQsyF2Qey/226956.ts
 http://www.funmitra.com:8080/soner51510/ZXNOiMqQUQ27/376535
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/298711
+#EXTINF:0 group-title="Stingray",DE: Stingray Classica-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298711
 #EXTINF:0 group-title="Stingray",DE: STINGRAY CLASSICA FHD-169629003445565129.of3805.xyz:80@D-230806.done
 http://169629003445565129.of3805.xyz:80/play/vi0225765/rrbdSgUDRSR/565129.ts
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica FHD-aca3b.tk:8080@D-230702.done
@@ -12622,6 +13292,8 @@ http://aca3b.tk:8080/Zoommaster/W4pjePuP9quW/15468
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/15468
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica FHD-magicoiptv.org:8080@D-230714.done
 http://magicoiptv.org:8080/7482992647252/98797574467/125779
+#EXTINF:0 group-title="Stingray",de: Stingray Classica FHD-n3w1337lit.ddns.net:2052@D-230811.done
+http://n3w1337lit.ddns.net:2052/111389/75180062/113063
 #EXTINF:0 group-title="Stingray",DE: STINGRAY CLASSICA FHD-nxtplay.xyz:8080@D-230512.done
 http://nxtplay.xyz:8080/VZ4GYOtUrqVP1FV/qEOISzIJKDHQCOECyl/310627
 #EXTINF:0 group-title="Stingray",DE: STINGRAY CLASSICA FHD-spainline.xyz:8000@D-230620.done
@@ -12638,6 +13310,8 @@ http://tigerkanaler2.loginto.me:8080/0uCE7nNSB5/oTLdPNU0Cz/310627
 http://tigerkanaler2.loginto.me:8080/AlIZYCuS/e6teZLxzxtmbXdJzd/310627
 #EXTINF:0 group-title="Stingray",DE: STINGRAY CLASSICA FHD-tigerkanaler2.loginto.me:8080@D-230730.done
 http://tigerkanaler2.loginto.me:8080/6u6rb7bviGbV48b/nekqG/310627
+#EXTINF:0 group-title="Stingray",DE :  Stingray Classica HD-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Lambertnc1/Beaudog1/218603
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica HD-iptvh2o.com:2082@D-230806.done
 http://iptvh2o.com:2082/denis12/denis21/236788
 #EXTINF:0 group-title="Stingray",DE: Stingray Classica HD-myserveriptv.com:2082@D-230705.done
@@ -12666,6 +13340,8 @@ http://alcapone1.com:8080/Mario/123456/31508
 http://elit64.xyz:80/nailbulu132/szAwJUme4x/183102
 #EXTINF:0 group-title="Stingray",DE STINGRAY CLASSICA HD-magott.net:80@D-230730.done
 http://magott.net:80/yousefsahbicc/HgsydJgu9m/4149
+#EXTINF:0 group-title="Stingray",DE STINGRAY CLASSICA HD-magott.net:80@D-230811.done
+http://magott.net:80/mbarek/11223344/4149
 #EXTINF:0 group-title="Stingray",DE STINGRAY CLASSICA HD-mjidiptv.com:1997@D-230803.done
 http://mjidiptv.com:1997/Stephane/123456/17666
 #EXTINF:0 group-title="Stingray",ES: Stingray Classica HD-76271.atr91.com:80@D-230728.done
@@ -12678,10 +13354,14 @@ http://iptvbudur.xyz:8080/engin3535/EQeeEZEm42BF/324924
 http://memotv.xyz:8080/VfvTKKWhgZrt/wrD6XPXa6jFx/324924
 #EXTINF:0 group-title="Stingray",ES  Stingray Classica-tr.bosstv.live:8080@D-230717.done
 http://tr.bosstv.live:8080/ante/QaAkMr5XeKmV/324924
+#EXTINF:0 group-title="Stingray",ES  Stingray Classica-tr.bosstv.live:8080@D-230811.done
+http://tr.bosstv.live:8080/h2U3LjFNj7rJ/KB5kjLc5rVyZ/324924
 #EXTINF:0 group-title="Stingray",F- STINGRAY CLASSICA HD-yorkshiredog.xyz:8080@D-230730.done
 http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10852
 #EXTINF:0 group-title="Stingray",FR-PLUTO  STINGRAY CLASSICA-m3u.sea-iptv.com:80@D-230629.done
 http://m3u.sea-iptv.com:80/f4:7b:5e:5d:e2:4b/12flmnrt/344557
+#EXTINF:0 group-title="Stingray",FR-Stingray Classica-112908.tonybox.be:80@D-230811.done
+http://112908.tonybox.be:80/muzaffersehri/kTo7xjxdiu/230092
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-159734.mavitv.eu:80@D-230728.done
 http://159734.mavitv.eu:80/huseyinxorhan/Orhan66sb/230092
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-159734.mavitv.eu:80@D-230728.done
@@ -12764,12 +13444,16 @@ http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/164111
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/281897
+#EXTINF:0 group-title="Stingray",FR-Stingray Classica-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281897
+#EXTINF:0 group-title="Stingray",FR-Stingray Classica-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-kuchini.site:8080@D-230709.done
 http://kuchini.site:8080/supermediatv/kDV7uQaQKRW5XwQd/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-kuchini.site:8080@D-230714.done
@@ -12816,10 +13500,14 @@ http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/164111
 http://vole1.rsvole22s.xyz:80/live/okay2023/tBQsyF2Qey/227137.ts
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/281897
+#EXTINF:0 group-title="Stingray",FR-Stingray Classica-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/281897
 #EXTINF:0 group-title="Stingray",FR-Stingray Classicaⓧ FHD-gtvstreams.me:80@D-230806.done
 http://gtvstreams.me:80/Robbie/Robbie/640197
 #EXTINF:0 group-title="Stingray",FR-Stingray Classicaⓧ FHD-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/77076
+#EXTINF:0 group-title="Stingray",FR-Stingray Classicaⓧ FHD-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/77076
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica HD (1080P)-a.alcapone1.com:8080@D-230709.done
 http://a.alcapone1.com:8080/Tommy/123456/28135
 #EXTINF:0 group-title="Stingray",FR-Stingray Classica HD (1080P)-a.alcapone1.com:8080@D-230716.done
@@ -12842,6 +13530,8 @@ http://portal.dm-lv.com:8080/LwoMerAbi/kydgHjk638hC/184538
 http://gtvstreams.me:80/Robbie/Robbie/640198
 #EXTINF:0 group-title="Stingray",FR-Stingray Djazz TVⓧ-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/67255
+#EXTINF:0 group-title="Stingray",FR-Stingray Djazz TVⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/67255
 #EXTINF:0 group-title="Stingray",FR.H265 STINGRAY CLASSICA-tv.pro-ott.com:25443@D-230716.done
 http://tv.pro-ott.com:25443/live/4998548523/7467896546/83110.ts
 #EXTINF:0 group-title="Stingray",FR.H265 STINGRAY CLASSICA-tv.pro-ott.com:25443@D-230727.done
@@ -12858,6 +13548,8 @@ http://tv.pro-ott.com:25443/live/1RGBQAWT13/A619NO8R2I/83110.ts
 http://tv.pro-ott.com:25443/live/Margote/HX1VFSE5KI/83110.ts
 #EXTINF:0 group-title="Stingray",FR.H265 STINGRAY CLASSICA-tv.viptvpro.com:25443@D-230803.done
 http://tv.viptvpro.com:25443/live/V19ZhnPtEFGoT/pFb1g0U0um/83110.ts
+#EXTINF:0 group-title="Stingray",FR.H265 STINGRAY CLASSICA-vip.itvdom.com:25443@D-230811.done
+http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/83110.ts
 #EXTINF:0 group-title="Stingray",FR.H265 STINGRAY CLASSICA-x.v-iptv.com:25443@D-230803.done
 http://x.v-iptv.com:25443/live/Moha91718/I963LAYTSR/83110.ts
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-aanax.com:8080@D-230728.done
@@ -12892,6 +13584,8 @@ http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/137802
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/32012
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/32012
+#EXTINF:0 group-title="Stingray",NL: Stingray Djazz-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/32012
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/32012
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-iptvmedia.live:8080@D-230507.done
@@ -12900,6 +13594,8 @@ http://iptvmedia.live:8080/outputofflinechecker/pass/32012
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/32012
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/32012
+#EXTINF:0 group-title="Stingray",NL: Stingray Djazz-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/32012
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-kuchini.site:8080@D-230523.done
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/32012
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-kuchini.site:8080@D-230709.done
@@ -12956,6 +13652,8 @@ http://tv.titanicos.net:2095/Jgonz/Restream/331055.ts
 http://uniontvs.com:8080/mostafaayman122/mostafa233ayman/345348
 #EXTINF:0 group-title="Stingray",NL: Stingray Djazz-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/32012
+#EXTINF:0 group-title="Stingray",NL: Stingray Djazz-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/32012
 #EXTINF:0 group-title="Stingray",Nl: Stingray Djazz 4K-ghostiptv.vip:80@D-230714.done
 http://ghostiptv.vip:80/live/162CBD9845CB/63852a5c5d710/45426.m3u8
 #EXTINF:0 group-title="Stingray",Nl: Stingray Djazz 4K-ghostiptv.vip:80@D-230718.done
@@ -13022,6 +13720,8 @@ http://mains.services/live/wR34qMzGj3/6530858/380f9098-5acc-4bac-84df-67f76e5483
 http://mains.services/live/Grahxen/3docpGDalU/380f9098-5acc-4bac-84df-67f76e5483b1.m3u
 #EXTINF:0 group-title="Stingray",PT  Stingray Classicaⓧ-xplatinmedia.com:8080@D-230709.done
 http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9672
+#EXTINF:0 group-title="Stingray",PT  Stingray Classicaⓧ-xplatinmedia.com:8080@D-230811.done
+http://xplatinmedia.com:8080/@mouilha20/7sqhkOvX0IfXqh1aP72JOO6mYtrcy4/9672
 #EXTINF:0 group-title="Stingray",RO : STINGRAY CLASSICA-mains.services@D-230726.done.NC.dead
 http://mains.services/live/Grahxen/3docpGDalU/f753ec7b-df4b-4895-b39f-1f010e6802da.m3u
 #EXTINF:0 group-title="Stingray",RO:Stingray Classica HD-germanydnsx15.com:8080@D-230716.done
@@ -13030,8 +13730,6 @@ http://germanydnsx15.com:8080/dvtsntrk/Dvtsntrk8654/91423
 http://germanydnsx15.com:8080/mustafa123/123mustafa/91423
 #EXTINF:0 group-title="Stingray",RO:Stingray Classica HD-izmirhd.com:8080@D-230807.done
 http://izmirhd.com:8080/mustafa123/123mustafa/91423
-#EXTINF:0 group-title="Stingray", Stingray Classica-3.troya.today:34000@D-230807.fail3
-http://3.troya.today:34000/ch1923/mono.m3u8?token=rl_arina1.tuFDVvmfS9_0_oityBFlOrWAO2pw1uQfLVi07I24s6eebE0c3MKTIHnM3hhqUEgU
 #EXTINF:0 group-title="Stingray", Stingray Classica-3.troya.today:34000@D-230807.done
 http://3.troya.today:34000/ch1923/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19Ayqsw0LcEW46QwiaC72Wtxhjda-Ap1U9MePBam2YN3el
 #EXTINF:0 group-title="Stingray",Stingray Classica-85.114.138.88:2052@D-230706.done
@@ -13136,6 +13834,8 @@ http://hidra.live:80/daqgsrmi/6MlLh8s0p3/327627
 http://hidra.live:80/pesmfszv/0nfo92Vk6D/327627
 #EXTINF:0 group-title="Stingray",Stingray Classica FHD (es)-hidra.live:80@D-230803.done.NC.dead
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327627
+#EXTINF:0 group-title="Stingray",Stingray Classica FHD (es)-hidra.live:80@D-230811.NC.dead
+http://hidra.live:80/ilseucuh/J52j6Fslu8/327627
 #EXTINF:0 group-title="Stingray",Stingray Classica FHD DE-4r6.grande365.xyz:80@D-230705.done
 http://4r6.grande365.xyz:80/play/0j2Wvw0oUcuDNSBR8wzAla0AwyV3CiDir5qihlLLiV0/ts
 #EXTINF:0 group-title="Stingray",Stingray Classica FHD DE-4r6.grande365.xyz:80@D-230719.done
@@ -13476,6 +14176,10 @@ http://tv.pisonic.tvip.xyz:80/Mger2022n4/t7K0Vw60/28889
 http://185.156.74.135:80/boris1234/1234boris/1395054.ts
 #EXTINF:0 group-title="Stingray",Stingray Classica HD-5.44.253.151:80@D-230607.done.NC
 http://5.44.253.151:80/dean12345/12345dean/1395054.ts
+#EXTINF:0 group-title="Stingray",STINGRAY Classica HD-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Moses08/Jahwayne31/215049
+#EXTINF:0 group-title="Stingray",STINGRAY Classica HD-et1.xyz:25461@D-230811.done
+http://et1.xyz:25461/Lambertnc1/Beaudog1/215049
 #EXTINF:0 group-title="Stingray",STINGRAY CLASSICA HD-live.euroteamspro.xyz:8080@D-230529.done
 http://live.euroteamspro.xyz:8080/mesut123/123mesut/95685
 #EXTINF:0 group-title="Stingray",Stingray Classica HD-live2.unwiredtvnow.com:80@D-230527.done
@@ -13628,8 +14332,6 @@ http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/526958
 http://ultratv.one:2095/yK0kuGKs/g9q2hxk/526958
 #EXTINF:0 group-title="Stingray",Stingray Djazz (1080p)-dai.google.com@D-230518.done
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:0 group-title="Stingray", Stingray Djazz-3.troya.today:34000@D-230807.fail3
-http://3.troya.today:34000/ch1921/mono.m3u8?token=rl_arina1.tuFDVvmfS9_0_oityBFlOn39BSqlRr4bo0VU3hVzFr2x2MjXV3218hNovxfP3--5
 #EXTINF:0 group-title="Stingray", Stingray Djazz-3.troya.today:34000@D-230807.done
 http://3.troya.today:34000/ch1921/mono.m3u8?token=shr_schawnd.a9A3fQTbWAoq-XMMiB19A_5pDDSNyCzNitAiUCLfrobdlAl5cSPJAC8sV0Qh2TUT
 #EXTINF:0 group-title="Stingray",Stingray Djazz-aanax.com:8080@D-230728.done
@@ -13646,6 +14348,8 @@ http://cmsott.com:8080/Julyhoxhaah/UHe6BrkJyRG2/23276
 http://cmsott.com:8080/JahiAdili/x95JGrUW45ut/23276
 #EXTINF:0 group-title="Stingray",STINGRAY DJAZZ-cmsott.com:8080@D-230806.done
 http://cmsott.com:8080/remzirexhepimek/kTP8RVCSZwyZ/23276
+#EXTINF:0 group-title="Stingray",STINGRAY DJAZZ-cmsott.com:8080@D-230811.done
+http://cmsott.com:8080/beniiskee/zfT7FrKwBw3f/23276
 #EXTINF:0 group-title="Stingray",STINGRAY DJAZZ-friiptv.com:8080@D-230629.done
 http://friiptv.com:8080/NezirhhaxhajAh/H3RxmvtfWm3Z/23276
 #EXTINF:0 group-title="Stingray",STINGRAY DJAZZ-friiptv.com:8080@D-230629.done
@@ -13672,6 +14376,8 @@ http://monte.mare7.co:8000/live/PqZrxhTBP8/mEhadWejKb/162109.ts
 http://monte.mare7.co:8000/live/Orange16/Luigi/162109.ts
 #EXTINF:0 group-title="Stingray",Stingray Djazz-monte.mare7.co:8000@D-230627.done
 http://monte.mare7.co:8000/live/michelepiccirillo/michele/162109.ts
+#EXTINF:0 group-title="Stingray",STINGRAY DJAZZ-portalshqip.eu:8080@D-230811.done
+http://portalshqip.eu:8080/Test1234/Test1234/23276
 #EXTINF:0 group-title="Stingray",Stingray Djazz-www.premiumiptvmk.com:8080@D-230617.done
 http://www.premiumiptvmk.com:8080/F29175/cd31b677/32012
 #EXTINF:0 group-title="Stingray",Stingray Djazz FHD NL-portal.geniptv.com:8080@D-230722.done
@@ -13924,8 +14630,12 @@ http://fanatik22.xyz:80/halil.demir/AAncHPywfb/160698
 http://fanatik22.xyz:80/uguraltay2/VWCuUH1OyU/160698
 #EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160698
+#EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172014
 #EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/172014
+#EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172014
 #EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-kuchini.site:8080@D-230714.done
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172014
 #EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-kuchini.site:8080@D-230806.done
@@ -13956,6 +14666,8 @@ http://skylogic.site:8080/sniperstv/1q5HWC9l6322O61N7oYS/172014
 http://skylogic.site:8080/0613bffd/69b6b8f260/172014
 #EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-skylogic.site:8080@D-230730.done
 http://skylogic.site:8080/Vladisergeevic/7eef2c4388/172014
+#EXTINF:0 group-title="Viet-TV",VN: HTV 2-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172014
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-2678ydr.xyz:80@D-230723.done
 http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/223723.ts
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-2678ydr.xyz:80@D-230723.done
@@ -13994,8 +14706,12 @@ http://fanatik22.xyz:80/halil.demir/AAncHPywfb/160699
 http://fanatik22.xyz:80/uguraltay2/VWCuUH1OyU/160699
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160699
+#EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172015
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/172015
+#EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172015
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-kuchini.site:8080@D-230714.done
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172015
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-kuchini.site:8080@D-230806.done
@@ -14026,12 +14742,18 @@ http://skylogic.site:8080/sniperstv/1q5HWC9l6322O61N7oYS/172015
 http://skylogic.site:8080/0613bffd/69b6b8f260/172015
 #EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-turkiye741nx.xyz:80@D-230722.done
 http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/160699
+#EXTINF:0 group-title="Viet-TV",VN: HTV 3-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172015
 #EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-aanax.com:8080@D-230728.done
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/172002
 #EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-aanax.com:8080@D-230728.done
 http://aanax.com:8080/argoni150Con/vU8F7dzqNqhT28gn/172002
+#EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172002
 #EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/172002
+#EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172002
 #EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-kuchini.site:8080@D-230714.done
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172002
 #EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-kuchini.site:8080@D-230716.done
@@ -14064,6 +14786,8 @@ http://skylogic.site:8080/sniperstv/1q5HWC9l6322O61N7oYS/172002
 http://skylogic.site:8080/Vladisergeevic/7eef2c4388/172002
 #EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-skylogic.site:8080@D-230730.done
 http://skylogic.site:8080/0613bffd/69b6b8f260/172002
+#EXTINF:0 group-title="Viet-TV",VN: HTV 7-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172002
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-2678ydr.xyz:80@D-230723.done
 http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/223724.ts
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-2678ydr.xyz:80@D-230723.done
@@ -14118,10 +14842,14 @@ http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160700
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/172011
+#EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/172011
+#EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-kuchini.site:8080@D-230709.done
 http://kuchini.site:8080/supermediatv/kDV7uQaQKRW5XwQd/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-kuchini.site:8080@D-230806.done
@@ -14142,6 +14870,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/172011
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/172011
+#EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172011
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/160700
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-skylogic.site:8080@D-230730.done
@@ -14156,6 +14886,8 @@ http://skylogic.site:8080/Vladisergeevic/7eef2c4388/172011
 http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/160700
 #EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/172011
+#EXTINF:0 group-title="Viet-TV",VN: HTV 9-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172011
 #EXTINF:0 group-title="Viet-TV",VN: K+ LIFE-VnTv-linevip1.top:8080@D-230703.done
 http://linevip1.top:8080/live/VIP0184168122893600/31681228936/34959.ts
 #EXTINF:0 group-title="Viet-TV",VN: K+ LIFE-VnTv-vipgature.top:8080@D-230627.done
@@ -14226,10 +14958,14 @@ http://fanatik22.xyz:80/Hamza1985/WR2WveKjd2/160734
 http://fanatik22.xyz:80/halil.demir/AAncHPywfb/160734
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160734
+#EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172072
+#EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-kuchini.site:8080@D-230718.done
@@ -14252,6 +14988,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/172072
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/172072
+#EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/160734
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-skylogic.site:8080@D-230730.done
@@ -14264,6 +15002,8 @@ http://skylogic.site:8080/Vladisergeevic/7eef2c4388/172072
 http://skylogic.site:8080/0613bffd/69b6b8f260/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-turkiye741nx.xyz:80@D-230722.done
 http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/160734
+#EXTINF:0 group-title="Viet-TV",VN: VTC 3-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172072
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-2678ydr.xyz:80@D-230723.done
 http://2678ydr.xyz:80/live/Erhan@Kaya/ZbHQtavQ4x/223759.ts
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-2678ydr.xyz:80@D-230723.done
@@ -14322,10 +15062,14 @@ http://fanatik22.xyz:80/halil.demir/AAncHPywfb/160735
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160735
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-gamsgo.cyou:8080@D-230709.done
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/296651
+#EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-iptvtree.net:8080@D-230709.done
 http://iptvtree.net:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296651
+#EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-kuchini.site:8080@D-230709.done
 http://kuchini.site:8080/supermediatv/kDV7uQaQKRW5XwQd/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-kuchini.site:8080@D-230716.done
@@ -14350,6 +15094,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/296651
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296651
+#EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/160735
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-skylogic.site:8080@D-230730.done
@@ -14366,6 +15112,8 @@ http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/160735
 http://vole1.rsvole22s.xyz:80/live/okay2023/tBQsyF2Qey/223759.ts
 #EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-www.premiumiptvmk.com:8080@D-230709.done
 http://www.premiumiptvmk.com:8080/14e17190/58U55mXw5dX2fsbu/296651
+#EXTINF:0 group-title="Viet-TV",VN: VTC 9-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296651
 #EXTINF:0 group-title="Viet-TV",VN: VTV 1-VnTv-2678ydr.xyz:80@D-230723.done
 http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/223760.ts
 #EXTINF:0 group-title="Viet-TV",VN: VTV 1-VnTv-2678ydr.xyz:80@D-230723.done
@@ -14450,8 +15198,12 @@ http://fanatik22.xyz:80/halil.demir/AAncHPywfb/160739
 http://fanatik22.xyz:80/uguraltay2/VWCuUH1OyU/160739
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160739
+#EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-iptvmedia.live:8080@D-230716.done
 http://iptvmedia.live:8080/myhdosama/cjydA4ncmMqx55pf/172039
+#EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-kuchini.site:8080@D-230716.done
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-kuchini.site:8080@D-230718.done
@@ -14474,6 +15226,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/172039
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/172039
+#EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/160739
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-skylogic.site:8080@D-230730.done
@@ -14486,6 +15240,8 @@ http://skylogic.site:8080/0613bffd/69b6b8f260/172039
 http://skylogic.site:8080/Vladisergeevic/7eef2c4388/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-turkiye741nx.xyz:80@D-230722.done
 http://turkiye741nx.xyz:80/nihateri/Sw4VShdvgq/160739
+#EXTINF:0 group-title="Viet-TV",VN: VTV 8-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172039
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-2678ydr.xyz:80@D-230723.done
 http://2678ydr.xyz:80/live/Cagdas39@/16@Agus2022Cgds/223764.ts
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-almanya505.com:80@D-230806.done
@@ -14496,6 +15252,10 @@ http://dual2.rsviptv.xyz:80/live/Apdullah@34/30eylul@2022/223764.ts
 http://fanatik22.xyz:80/Hamza1985/WR2WveKjd2/160740
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-fanatik77.xyz:80@D-230708.done
 http://fanatik77.xyz:80/SalihH36/yU7J7zdZKT/160740
+#EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-gamsgo.cyou:8080@D-230811.done
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/172013
+#EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-iptvtree.net:8080@D-230811.done
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/172013
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/outputofflinechecker/pass/172013
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-kuchini.site:8080@D-230806.done
@@ -14512,6 +15272,8 @@ http://kuchini.site:8080/joeBt/FBe7D5gDbFzmWdAx/172013
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/172013
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-kuchini.site:8080@D-230806.done
 http://kuchini.site:8080/9ba1ba9e/c9c903ce23/172013
+#EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-kuchini.site:8080@D-230811.done
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/172013
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-nox.nox102.xyz:80@D-230722.done
 http://nox.nox102.xyz:80/delen0809/5fqCjQnYyc/160740
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-skylogic.site:8080@D-230730.done
@@ -14520,10 +15282,14 @@ http://skylogic.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/172013
 http://skylogic.site:8080/sniperstv/1q5HWC9l6322O61N7oYS/172013
 #EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-skylogic.site:8080@D-230730.done
 http://skylogic.site:8080/0613bffd/69b6b8f260/172013
+#EXTINF:0 group-title="Viet-TV",VN: VTV 9-VnTv-www.premiumiptvmk.com:8080@D-230811.done
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172013
 #EXTINF:0 group-title="Viet-TV",VN HTV1 HD -VnTv-1.revportal.eu:80@D-230806.done
 http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/115879
 #EXTINF:0 group-title="Viet-TV",VN HTV1 HD -VnTv-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/115879
+#EXTINF:0 group-title="Viet-TV",VN HTV1 HD-VnTv-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/121042
 #EXTINF:0 group-title="Viet-TV",VN HTV1 HD -VnTv-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/115879
 #EXTINF:0 group-title="Viet-TV",VN HTV1 HD-VnTv-portal.magic8kip.tv:80@D-230725.done
@@ -14542,6 +15308,8 @@ http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/115880
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/115880
 #EXTINF:0 group-title="Viet-TV",VN HTV2 HD-VnTv-dns.p2.wtf:80@D-230728.done
 http://dns.p2.wtf:80/igorvictal/72fsy37/162420
+#EXTINF:0 group-title="Viet-TV",VN HTV2 HD-VnTv-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/121043
 #EXTINF:0 group-title="Viet-TV",VN HTV2 HD -VnTv-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/115880
 #EXTINF:0 group-title="Viet-TV",VN HTV2 HD-VnTv-portal.magic8kip.tv:80@D-230725.done
@@ -14558,6 +15326,8 @@ http://1.revportal.eu:80/mag00:1A:79:53:22:DD/k5pPUYZgvA/115881
 http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/115881
 #EXTINF:0 group-title="Viet-TV",VN HTV3 HD -VnTv-2.revportal.eu:80@D-230806.done
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/115881
+#EXTINF:0 group-title="Viet-TV",VN HTV3 HD-VnTv-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/121044
 #EXTINF:0 group-title="Viet-TV",VN HTV3 HD -VnTv-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/115881
 #EXTINF:0 group-title="Viet-TV",VN HTV3 HD -VnTv-revteam11.offshorerev.cc:80@D-230806.done
@@ -14572,6 +15342,8 @@ http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/115882
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/115882
 #EXTINF:0 group-title="Viet-TV",VN HTV4 HD-VnTv-dns.p2.wtf:80@D-230728.done
 http://dns.p2.wtf:80/igorvictal/72fsy37/162422
+#EXTINF:0 group-title="Viet-TV",VN HTV4 HD-VnTv-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/121045
 #EXTINF:0 group-title="Viet-TV",VN HTV4 HD-VnTv-nocable.cc:8080@D-230511.done
 http://nocable.cc:8080/turtle/turtle/121045
 #EXTINF:0 group-title="Viet-TV",VN HTV4 HD -VnTv-onrev.xyz:80@D-230806.done
@@ -14620,6 +15392,8 @@ http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/115886
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/115886
 #EXTINF:0 group-title="Viet-TV",VN HTVC PHU NU-VnTv-dns.p2.wtf:80@D-230728.done
 http://dns.p2.wtf:80/igorvictal/72fsy37/162426
+#EXTINF:0 group-title="Viet-TV",VN HTVC PHU NU-VnTv-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/121046
 #EXTINF:0 group-title="Viet-TV",VN HTVC PHU NU -VnTv-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/115886
 #EXTINF:0 group-title="Viet-TV",VN HTVC PHU NU-VnTv-portal.magic8kip.tv:80@D-230725.done
@@ -14780,6 +15554,8 @@ http://1.revportal.eu:80/SPIDER_WOXM9C/Ti8nhOrZY9/115878
 http://2.revportal.eu:80/mag00:1A:79:58:95:BC/evANEfPZka/115878
 #EXTINF:0 group-title="Viet-TV",VN VTV9 HD-VnTv-dns.p2.wtf:80@D-230728.done
 http://dns.p2.wtf:80/igorvictal/72fsy37/162418
+#EXTINF:0 group-title="Viet-TV",VN VTV9 HD-VnTv-fortv.cc:8080@D-230811.done
+http://fortv.cc:8080/jonathan/jonathan/121041
 #EXTINF:0 group-title="Viet-TV",VN VTV9 HD-VnTv-onrev.xyz:80@D-230806.done
 http://onrev.xyz:80/mag00:1A:79:32:23:B4/A3MPCBwu6X/115878
 #EXTINF:0 group-title="Viet-TV",VN VTV9 HD-VnTv-revteam11.offshorerev.cc:80@D-230806.done
