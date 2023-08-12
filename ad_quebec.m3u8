@@ -1,5 +1,5 @@
-#EXTM3U 12247
-#DATE 2023-08-12 15:13
+#EXTM3U 11351
+#DATE 2023-08-12 17:31
 #EXTINF:0 group-title="QC-Fashion",4K Fashion & Style-evolved.host:8080@D-230604.done.NC.dead
 http://evolved.host:8080/lou99/c8DtRWieta/510619
 #EXTINF:0 group-title="QC-Fashion",4K Fashion & Style-evolved.host:8080@D-230616.done.NC.dead
@@ -38,12 +38,8 @@ http://vipgature.top:8080/live/VIP0180168537735303/31685377353/3523.ts
 http://ip365.cx:80/8432671147/7922665246/174056
 #EXTINF:0 group-title="QC-Fashion",Fashion & LifeStyle HD-stream-msk-12.ott.tricolor.tv@D-230602.done
 http://stream-msk-12.ott.tricolor.tv/dtv/id405_MSKSG-PVR-1--HD_Fashion_one/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzODA0MDkwMjMxNjA2NyIsImV4cCI6MTY3MDIyOTk4MiwiaHdpZCI6IjQ0ZDgyYTNhZGExNmFhNjU2OTljODFjNzEyMGM3MjZmNDIwOWUxNzJlYjBiY2VhMTQ0ZGI5ZWVkZDQyZGRhMWIiLCJsYXN0X3JlcV9kYXRlIjoxNjU2MTA1MjY4LCJzZXNzaW9uX2lkIjoiYWQ0ZWMwYjgxNjM3OTgxOWFkYzdjMTVjMzFhMzU3ZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ctnl7yoC8riJSeSU9r9ihK3Fnhz2oFsp7Yu2YGdMq4k
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-23deb70c.ucomist.net@D-230608.done.die
-http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-3aynck8f.akciatv.ru@D-230608.done
 http://3aynck8f.akciatv.ru/iptv/P4QLV9KWYVDTNT/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-3kaki9qu.russtv.net@D-230531.done.die
-http://3kaki9qu.russtv.net/iptv/84TGZGKP6CZW26/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-41b4005a.ottolok.net@D-230603.done
 http://41b4005a.ottolok.net/iptv/7EFG26YLXUDMHM/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-7kxt9rbm.tvclub.xyz@D-230518.done
@@ -52,26 +48,16 @@ http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/14015/index.m3u8
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-ae325328.ucomist.net@D-230602.done
 http://ae325328.ucomist.net/iptv/75ZFPEEH79Z2Y4/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-anfbxqtk.russtv.net@D-230602.done
-http://anfbxqtk.russtv.net/iptv/HAZ38NYMEZMG5U/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-czrb8vng.ottclub.xyz@D-230602.done
 http://czrb8vng.ottclub.xyz/iptv/29XQMYSXK9T737/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/CFEG39GT7CB9MC/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-epvzzr4d.ottclub.xyz@D-230602.done
@@ -82,8 +68,6 @@ http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/14015/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-fa8efd4d.amazzin.pw@D-230527.done
 http://fa8efd4d.amazzin.pw/iptv/M9CGGRRH6AGX2C/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -96,8 +80,6 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/14015/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-hyqzethr.megatv.fun@D-230527.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/14015/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-vz2tmkdw.otttv.pw@D-230604.done
 http://vz2tmkdw.otttv.pw/iptv/LKQRFB856XE552/14015/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion LifeStyle HD-zc6blhep.rostelekom.xyz@D-230602.done
@@ -106,10 +88,6 @@ http://zc6blhep.rostelekom.xyz/iptv/RZ8KKN94GLF42E/14015/index.m3u8
 https://tinyurl.com/2qs7t77a
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-024b95ba.edemist.com@D-230604.done
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-23deb70c.ucomist.net@D-230608.done.die
-http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-3kaki9qu.russtv.net@D-230531.done.die
-http://3kaki9qu.russtv.net/iptv/84TGZGKP6CZW26/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-41b4005a.ottolok.net@D-230603.done
 http://41b4005a.ottolok.net/iptv/7EFG26YLXUDMHM/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-7kxt9rbm.tvclub.xyz@D-230518.done
@@ -118,18 +96,12 @@ http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/2412/index.m3u8
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-a0000.otttv.pw@D-230529.done
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-ae325328.ucomist.net@D-230602.done
 http://ae325328.ucomist.net/iptv/75ZFPEEH79Z2Y4/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-anfbxqtk.russtv.net@D-230602.done
-http://anfbxqtk.russtv.net/iptv/HAZ38NYMEZMG5U/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-czrb8vng.ottclub.xyz@D-230602.done
 http://czrb8vng.ottclub.xyz/iptv/29XQMYSXK9T737/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-epvzzr4d.ottclub.xyz@D-230602.done
@@ -138,10 +110,6 @@ http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/2412/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-eypv0ag4.siauliairsavlt.pw@D-230518.done.NC
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-f586aeb6.akadatel.com@D-230602.done
-http://f586aeb6.akadatel.com/iptv/Y2PD7YDL6DVXLD/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -158,8 +126,6 @@ http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/2412/index.m3u8
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-jhg8lfg4.megatv.fun@D-230527.done
 http://jhg8lfg4.megatv.fun/iptv/2E9EQTR6P8KX3C/2412/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion One FHD-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",  Fashion One FHD-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/2412/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion One FHD-vz2tmkdw.otttv.pw@D-230604.done
@@ -250,30 +216,20 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-024b95ba.edemist.com@D-230604.done
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-23deb70c.ucomist.net@D-230608.done.die
-http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-3aynck8f.akciatv.ru@D-230608.done
 http://3aynck8f.akciatv.ru/iptv/P4QLV9KWYVDTNT/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-3kaki9qu.russtv.net@D-230531.done.die
-http://3kaki9qu.russtv.net/iptv/84TGZGKP6CZW26/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-41b4005a.ottolok.net@D-230603.done
 http://41b4005a.ottolok.net/iptv/7EFG26YLXUDMHM/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-7kxt9rbm.tvclub.xyz@D-230518.done
 http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-8525ef27.edemist.com@D-230608.done
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-a0000.otttv.pw@D-230529.done
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-ae325328.ucomist.net@D-230602.done
 http://ae325328.ucomist.net/iptv/75ZFPEEH79Z2Y4/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-anfbxqtk.russtv.net@D-230602.done
-http://anfbxqtk.russtv.net/iptv/HAZ38NYMEZMG5U/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-czrb8vng.ottclub.xyz@D-230602.done
 http://czrb8vng.ottclub.xyz/iptv/29XQMYSXK9T737/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-epvzzr4d.ottclub.xyz@D-230602.done
@@ -282,16 +238,12 @@ http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/4005/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-eypv0ag4.siauliairsavlt.pw@D-230518.done.NC
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-f586aeb6.akadatel.com@D-230602.done
-http://f586aeb6.akadatel.com/iptv/Y2PD7YDL6DVXLD/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-fa8efd4d.amazzin.pw@D-230527.done
 http://fa8efd4d.amazzin.pw/iptv/M9CGGRRH6AGX2C/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-fash2043.cloudycdn.services@D-230602.done
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-fash2043.cloudycdn.services@D-230602.done
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -304,8 +256,6 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/4005/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-hyqzethr.megatv.fun@D-230527.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/4005/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/4005/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-saveukraine.1ce.xyz@D-230518.done
 http://saveukraine.1ce.xyz/8908/index.m3u8?token=iI04DcvZcx
 #EXTINF:0 group-title="QC-Fashion",Fashion TV UHD-vz2tmkdw.otttv.pw@D-230604.done
@@ -590,16 +540,10 @@ http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/1068/index.m3u8
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-125c43e8.amazzin.pw@D-230625.done
 http://125c43e8.amazzin.pw/iptv/G8K83VRM8BL63W/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-23deb70c.ucomist.net@D-230608.done.die
-http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-36c9aee1.edmonst.net@D-230627.done
 http://36c9aee1.edmonst.net/iptv/FP78L5SP82NDBY/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-3aynck8f.akciatv.ru@D-230608.done
 http://3aynck8f.akciatv.ru/iptv/P4QLV9KWYVDTNT/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-3kaki9qu.russtv.net@D-230531.done.die
-http://3kaki9qu.russtv.net/iptv/84TGZGKP6CZW26/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-3twmdqlu.megatv.fun@D-230621.done
-http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-41b4005a.ottolok.net@D-230603.done
 http://41b4005a.ottolok.net/iptv/7EFG26YLXUDMHM/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-761aa4b9.ottrast.com@D-230627.done
@@ -612,14 +556,10 @@ http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/1068/index.m3u8
 http://8b73a7a7.edmonst.net/iptv/D2U9NP2RR8MTPE/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-a0000.otttv.pw@D-230529.done
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-a19e70bf.edemist.com@D-230527.done
 http://a19e70bf.edemist.com/iptv/G7TV8VH6DNXUHD/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-ae325328.ucomist.net@D-230602.done
 http://ae325328.ucomist.net/iptv/75ZFPEEH79Z2Y4/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-anfbxqtk.russtv.net@D-230602.done
-http://anfbxqtk.russtv.net/iptv/HAZ38NYMEZMG5U/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-c182c462.akadatel.com@D-230621.done
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-clofxtud.rostelekom.xyz@D-230621.done
@@ -628,8 +568,6 @@ http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/1068/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-czrb8vng.ottclub.xyz@D-230602.done
 http://czrb8vng.ottclub.xyz/iptv/29XQMYSXK9T737/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-demoniaus.cbilant.com@D-230621.done
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-dphbo59v.ottclub.xyz@D-230627.done
@@ -642,8 +580,6 @@ http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/1068/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-eypv0ag4.siauliairsavlt.pw@D-230518.done.NC
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-f586aeb6.akadatel.com@D-230602.done
-http://f586aeb6.akadatel.com/iptv/Y2PD7YDL6DVXLD/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-fa8efd4d.amazzin.pw@D-230527.done
 http://fa8efd4d.amazzin.pw/iptv/M9CGGRRH6AGX2C/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-foymmpeq.klaipedalt.org@D-230615.done
@@ -652,8 +588,6 @@ http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/1068/index.m3u8
 http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/58K8XD6E8VQ7BS/1068/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -672,8 +606,6 @@ http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/1068/index.m3u8
 http://jhg8lfg4.megatv.fun/iptv/2E9EQTR6P8KX3C/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-live-3.otcnet.ru@D-230602.done
 https://live-3.otcnet.ru/wfcrusmulti/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/1068/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel-ronaldo.tvfor.pro@D-230602.done
 http://ronaldo.tvfor.pro/WorldFashionChannelRussia/4zT3EPA0xBxgHik8BFWtydOU
 #EXTINF:0 group-title="QC-Fashion",  World Fashion Channel-ryeiqlyd.rostelekom.xyz@D-230519.done
@@ -694,14 +626,8 @@ http://myott.top/stream/E9LDH2ZCN7/119.m3u8
 http://myott.top/stream/S28KVTQLD2/119.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-024b95ba.edemist.com@D-230604.done
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-23deb70c.ucomist.net@D-230608.done.die
-http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-36c9aee1.edmonst.net@D-230627.done
 http://36c9aee1.edmonst.net/iptv/FP78L5SP82NDBY/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-3kaki9qu.russtv.net@D-230531.done.die
-http://3kaki9qu.russtv.net/iptv/84TGZGKP6CZW26/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-3twmdqlu.megatv.fun@D-230621.done
-http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-41b4005a.ottolok.net@D-230603.done
 http://41b4005a.ottolok.net/iptv/7EFG26YLXUDMHM/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-761aa4b9.ottrast.com@D-230627.done
@@ -712,12 +638,8 @@ http://7kxt9rbm.tvclub.xyz/iptv/UP4EZUTEKBXD4D/9287/index.m3u8
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-9e7052ea.edemist.com@D-230604.done
 http://9e7052ea.edemist.com/iptv/RLLLD6M4L3NHMH/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-a0000.otttv.pw@D-230529.done
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-ae325328.ucomist.net@D-230602.done
 http://ae325328.ucomist.net/iptv/75ZFPEEH79Z2Y4/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-anfbxqtk.russtv.net@D-230602.done
-http://anfbxqtk.russtv.net/iptv/HAZ38NYMEZMG5U/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-c182c462.akadatel.com@D-230621.done
 http://c182c462.akadatel.com/iptv/WPSWKTB96LNXD2/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-clofxtud.rostelekom.xyz@D-230621.done
@@ -726,8 +648,6 @@ http://clofxtud.rostelekom.xyz/iptv/U5RTT4EW296H6V/9287/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-czrb8vng.ottclub.xyz@D-230602.done
 http://czrb8vng.ottclub.xyz/iptv/29XQMYSXK9T737/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-demoniaus.cbilant.com@D-230621.done
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-e748b651.amazzin.pw@D-230604.done
@@ -738,16 +658,12 @@ http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/9287/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-eypv0ag4.siauliairsavlt.pw@D-230518.done.NC
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-f586aeb6.akadatel.com@D-230602.done
-http://f586aeb6.akadatel.com/iptv/Y2PD7YDL6DVXLD/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/29SQ3W9NQ2FL78/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/2KKRWH284VKAUD/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-foymmpeq.klaipedalt.org@D-230615.done
 http://foymmpeq.klaipedalt.org/iptv/58K8XD6E8VQ7BS/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -764,8 +680,6 @@ http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/9287/index.m3u8
 http://ioplxs5h.akciatv.ru/iptv/YKTL84D2R2E5QL/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-jhg8lfg4.megatv.fun@D-230527.done
 http://jhg8lfg4.megatv.fun/iptv/2E9EQTR6P8KX3C/9287/index.m3u8
-#EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",  World Fashion Channel orig-ryeiqlyd.rostelekom.xyz@D-230519.done
 http://ryeiqlyd.rostelekom.xyz/iptv/SR5FTG6PGERPT4/9287/index.m3u8
 #EXTINF:0 group-title="QC-Fashion",World Fashion Channel orig-vz2tmkdw.otttv.pw@D-230604.done
