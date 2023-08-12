@@ -1,5 +1,5 @@
-#EXTM3U 12713
-#DATE 2023-08-12 15:24
+#EXTM3U 12365
+#DATE 2023-08-12 17:31
 #EXTINF:0, NY" tvg-name="Bally Sports Arizona"  group-title="US-BALLY",Bally Sports Arizona-23.134.94.129:8080@D-230811.done
 http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/111191
 #EXTINF:0, NY" tvg-name="Bally Sports Arizona"  group-title="US-BALLY",Bally Sports Arizona-23.134.94.129:8080@D-230811.done
@@ -664,20 +664,12 @@ http://hidra.live:80/ilseucuh/J52j6Fslu8/319422
 http://024b95ba.edemist.com/iptv/PSW43AC4PBQYTW/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EB4SUCARYVW96D/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PRSR9LHDDY6XNX/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-ecvltpac.akciatv.ru@D-230807.done
 http://ecvltpac.akciatv.ru/iptv/GVHGZKS8W74N5M/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-gotv.vip:8880@D-230806.done
@@ -696,8 +688,6 @@ http://czrb8vng.ottclub.xyz/iptv/NZ777TZ7C5C27P/19149/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-hyqzethr.megatv.fun@D-230506.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/2WAMYB26HSVLNN/19149/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -712,8 +702,6 @@ http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/19149/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS GREAT LAKES-lucidhosting.xyz:82@D-230601.done
 http://lucidhosting.xyz:82/wendym/wendy@123/222122
-#EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-rhsbjv7k.tvclub.xyz@D-230807.done
 http://rhsbjv7k.tvclub.xyz/iptv/XX4SGCHWELMC2R/19149/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Great Lakes-rhsbjv7k.tvclub.xyz@D-230807.done
@@ -924,26 +912,16 @@ https://6oclock.xyz:8443/JonnyG/gimmie20/15903
 http://ae325328.ucomist.net/iptv/75ZFPEEH79Z2Y4/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Midwest-aflaxtv.xyz:8080@D-230516.done
 http://aflaxtv.xyz:8080/multi9159/d1a478bd/58557
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-anfbxqtk.russtv.net@D-230602.done
-http://anfbxqtk.russtv.net/iptv/HAZ38NYMEZMG5U/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-czrb8vng.ottclub.xyz@D-230510.done
 http://czrb8vng.ottclub.xyz/iptv/29XQMYSXK9T737/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19153/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EB4SUCARYVW96D/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PSQLL4MZB6PYRH/19153/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19153/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19153/index.m3u8
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-ecvltpac.akciatv.ru@D-230807.done
 http://ecvltpac.akciatv.ru/iptv/GVHGZKS8W74N5M/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports Midwest-gotv.vip:8880@D-230806.done
@@ -968,8 +946,6 @@ http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/19153/index.m3u8
 http://k4livetv.com:8080/MOISES4/50543/586153
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS MIDWEST-lucidhosting.xyz:82@D-230601.done
 http://lucidhosting.xyz:82/wendym/wendy@123/222123
-#EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-rhsbjv7k.tvclub.xyz@D-230807.done
 http://rhsbjv7k.tvclub.xyz/iptv/XX4SGCHWELMC2R/19153/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally SPORTS MIDWEST-rhsbjv7k.tvclub.xyz@D-230807.done
@@ -1136,8 +1112,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25331
 https://6oclock.xyz:8443/JonnyG/gimmie20/25331
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -1148,16 +1122,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/AHMQNVLWUTM5PW/19152/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EB4SUCARYVW96D/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/PSQLL4MZB6PYRH/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/X9VELUUZWMTRBL/19152/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-e748b651.amazzin.pw@D-230604.done
 http://e748b651.amazzin.pw/iptv/8VXVBRTDB9QZSG/19152/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS NORTH-ecvltpac.akciatv.ru@D-230807.done
@@ -1692,8 +1656,6 @@ http://thevdm.xyz:25461/James_axe1@comcast.net/h3hk5H7z6T/20074
 http://watchalien.ddns.net:2095/1813901482/6329933888/37817
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -1702,22 +1664,12 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/19151/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/AHMQNVLWUTM5PW/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EB4SUCARYVW96D/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-ecvltpac.akciatv.ru@D-230807.done
 http://ecvltpac.akciatv.ru/iptv/GVHGZKS8W74N5M/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/3Z4H4E9X3XN79G/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/MRDP2VRMNQ3GZM/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230518.done.best.NC.dead
-http://czrb8vng.ottclub.xyz/iptv/9LVWV5R68KLTVT/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230522.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/SR5FTG6PGERPT4/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -1730,8 +1682,6 @@ http://czrb8vng.ottclub.xyz/iptv/N6N2ZVY3ZABEVZ/19151/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/PFBT54K5D8NE2P/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-hyqzethr.megatv.fun@D-230527.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/19151/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-rhsbjv7k.tvclub.xyz@D-230807.done
 http://rhsbjv7k.tvclub.xyz/iptv/XX4SGCHWELMC2R/19151/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SOUTHEAST CAROLINAS-rhsbjv7k.tvclub.xyz@D-230807.done
@@ -1930,8 +1880,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26912
 https://6oclock.xyz:8443/JonnyG/gimmie20/26912
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-czrb8vng.ottclub.xyz@D-230524.done
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-czrb8vng.ottclub.xyz@D-230602.done
-http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/29SQ3W9NQ2FL78/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
@@ -1940,14 +1888,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/852UPAMGYC5FDA/19150/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/AHMQNVLWUTM5PW/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EB4SUCARYVW96D/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/7LWYWESXHUB7E3/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/99Y7AUY3PAY8PQ/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/E74M9PWBVPGBBG/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-d3opspehgd3862dmfdp3sdf.siauliairsavlt.org@D-230605.done.NC.dead
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/NQ6APN5M8WVCKB/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",Bally Sports SUN-dnslivetv.online:80@D-230603.done
 http://dnslivetv.online:80/play/zscOzs_2xP5N2ktdfD9PNAPb6-Pn_1fc2lYAm4V_OEE/ts
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-ecvltpac.akciatv.ru@D-230807.done
@@ -1958,8 +1898,6 @@ http://gotv.vip:8880/victor/mejia/33977
 http://czrb8vng.ottclub.xyz/iptv/EWXTFK4KN55UDR/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-hyqzethr.megatv.fun@D-230505.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/TXQXV6VX7ZDC6S/19150/index.m3u8
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-hyqzethr.megatv.fun@D-230505.done.best.NC
-http://czrb8vng.ottclub.xyz/iptv/7LWYWESXHUB7E3/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-hyqzethr.megatv.fun@D-230506.done.best.NC
 http://czrb8vng.ottclub.xyz/iptv/XP2DFA2ML2YEFG/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-hyqzethr.megatv.fun@D-230524.done.best.NC
@@ -1976,8 +1914,6 @@ http://czrb8vng.ottclub.xyz/iptv/QGP3QXDP95UFB4/19150/index.m3u8
 http://k4livetv.com:8080/MOISES4/50543/586151
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-lucidhosting.xyz:82@D-230601.done
 http://lucidhosting.xyz:82/wendym/wendy@123/222132
-#EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-mk3gi6qohdjrudj.russtv.net@D-230604.done
-http://mk3gi6qohdjrudj.russtv.net/iptv/WB53C76BWNR9CB/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-rhsbjv7k.tvclub.xyz@D-230807.done
 http://rhsbjv7k.tvclub.xyz/iptv/XX4SGCHWELMC2R/19150/index.m3u8
 #EXTINF:0 group-title="US-BALLY",BALLY SPORTS SUN-rhsbjv7k.tvclub.xyz@D-230807.done
