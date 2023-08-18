@@ -1,5 +1,5 @@
-#EXTM3U 11721
-#DATE 2023-08-17 19:06
+#EXTM3U 11512
+#DATE 2023-08-17 23:05
 #EXTINF:0 group-title="FR-Bein", AMAZON PRIME 4K ####-line.rs6ott.com:80@D-230611.done
 http://line.rs6ott.com:80/17BB91LL/51HDMM29/721151
 #EXTINF:0 group-title="FR-Bein",Amazon Prime FHD-zxc123.hopto.org:2052@D-230607.done
@@ -2930,6 +2930,8 @@ http://a.alcapone1.com:8080/Miguel04/Bet4/27683
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2945
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 1 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2945
+#EXTINF:0 group-title="FR-Bein",FR-Bein Sports 1 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2945
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD-airportlounge.xyz:8080@D-230815.done
 http://airportlounge.xyz:8080/nCXYJfHAQNDr/FFnZTHdRy9Lw/258441
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 1 HD-airportlounge.xyz:8080@D-230815.done
@@ -4014,6 +4016,8 @@ http://a.alcapone1.com:8080/Miguel04/Bet4/27687
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2946
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 2 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2946
+#EXTINF:0 group-title="FR-Bein",FR-Bein Sports 2 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2946
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-airportlounge.xyz:8080@D-230815.done
 http://airportlounge.xyz:8080/OnqVQjnBbg/Tr3naPCjYr/258442
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 2 HD-airportlounge.xyz:8080@D-230815.done
@@ -5108,6 +5112,8 @@ http://a.alcapone1.com:8080/Miguel04/Bet4/27691
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2947
 #EXTINF:0 group-title="FR-Bein",FR-Bein Sports 3 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2947
+#EXTINF:0 group-title="FR-Bein",FR-Bein Sports 3 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2947
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-airportlounge.xyz:8080@D-230815.done
 http://airportlounge.xyz:8080/OnqVQjnBbg/Tr3naPCjYr/258443
 #EXTINF:0 group-title="FR-Bein",FR-BEIN SPORTS 3 HD-airportlounge.xyz:8080@D-230815.done
@@ -5850,18 +5856,24 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/2830
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2830
 #EXTINF:0 group-title="FR-Bein",FR036:BEIN SPORTS 1 FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2830
+#EXTINF:0 group-title="FR-Bein",FR036:BEIN SPORTS 1 FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2830
 #EXTINF:0 group-title="FR-Bein",FR037:BEIN SPORTS 2 FHD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2829
 #EXTINF:0 group-title="FR-Bein",FR037:BEIN SPORTS 2 FHD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2829
 #EXTINF:0 group-title="FR-Bein",FR037:BEIN SPORTS 2 FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2829
+#EXTINF:0 group-title="FR-Bein",FR037:BEIN SPORTS 2 FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2829
 #EXTINF:0 group-title="FR-Bein",FR038:BEIN SPORTS 3 FHD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2828
 #EXTINF:0 group-title="FR-Bein",FR038:BEIN SPORTS 3 FHD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2828
 #EXTINF:0 group-title="FR-Bein",FR038:BEIN SPORTS 3 FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2828
+#EXTINF:0 group-title="FR-Bein",FR038:BEIN SPORTS 3 FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2828
 #EXTINF:0 group-title="FR-Bein",FR1: beIN SPORT 1HD-4tv.site:2082@D-230730.done
 http://4tv.site:2082/Luciana201/81638161916205519/170358
 #EXTINF:0 group-title="FR-Bein",FR1: beIN SPORT 2HD-4tv.site:2082@D-230730.done
@@ -6638,6 +6650,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/26583
 http://muka03.wanicelife.com:8880/6mm020041/21515718/26583
 #EXTINF:0 group-title="FR-Canal+",AF037:CANAL+ SPORT 1-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/26583
+#EXTINF:0 group-title="FR-Canal+",AF037:CANAL+ SPORT 1-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/26583
 #EXTINF:0 group-title="FR-Canal+",AF037:CANAL+ SPORT 1-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/26583
 #EXTINF:0 group-title="FR-Canal+",AF037:CANAL+ SPORT 1-mxu03.wanicelife.com:8880@D-230727.done
@@ -6650,6 +6664,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/26582
 http://muka03.wanicelife.com:8880/6mm020041/21515718/26582
 #EXTINF:0 group-title="FR-Canal+",AF038:CANAL+ SPORT 2-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/26582
+#EXTINF:0 group-title="FR-Canal+",AF038:CANAL+ SPORT 2-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/26582
 #EXTINF:0 group-title="FR-Canal+",AF038:CANAL+ SPORT 2-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/26582
 #EXTINF:0 group-title="FR-Canal+",AF038:CANAL+ SPORT 2-mxu03.wanicelife.com:8880@D-230727.done
@@ -6662,6 +6678,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/26581
 http://muka03.wanicelife.com:8880/6mm020041/21515718/26581
 #EXTINF:0 group-title="FR-Canal+",AF039:CANAL+ SPORT 3-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/26581
+#EXTINF:0 group-title="FR-Canal+",AF039:CANAL+ SPORT 3-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/26581
 #EXTINF:0 group-title="FR-Canal+",AF039:CANAL+ SPORT 3-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/26581
 #EXTINF:0 group-title="FR-Canal+",AF039:CANAL+ SPORT 3-mxu03.wanicelife.com:8880@D-230727.done
@@ -6674,6 +6692,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/26577
 http://muka03.wanicelife.com:8880/6mm020041/21515718/26577
 #EXTINF:0 group-title="FR-Canal+",AF040:CANAL+ SPORT 4-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/26577
+#EXTINF:0 group-title="FR-Canal+",AF040:CANAL+ SPORT 4-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/26577
 #EXTINF:0 group-title="FR-Canal+",AF040:CANAL+ SPORT 4-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/26577
 #EXTINF:0 group-title="FR-Canal+",AF040:CANAL+ SPORT 4-mxu03.wanicelife.com:8880@D-230727.done
@@ -6686,6 +6706,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/26576
 http://muka03.wanicelife.com:8880/6mm020041/21515718/26576
 #EXTINF:0 group-title="FR-Canal+",AF041:CANAL+ SPORT 5-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/26576
+#EXTINF:0 group-title="FR-Canal+",AF041:CANAL+ SPORT 5-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/26576
 #EXTINF:0 group-title="FR-Canal+",AF041:CANAL+ SPORT 5-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/26576
 #EXTINF:0 group-title="FR-Canal+",AF041:CANAL+ SPORT 5-mxu03.wanicelife.com:8880@D-230727.done
@@ -12834,6 +12856,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/2790
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2790
 #EXTINF:0 group-title="FR-Canal+",FR076:CANAL+ SPORT FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2790
+#EXTINF:0 group-title="FR-Canal+",FR076:CANAL+ SPORT FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2790
 #EXTINF:0 group-title="FR-Canal+",FR101:CANAL+ PREMIER LEAGUE-kkwa76.wanicelife.com:8880@D-230727.done
 http://kkwa76.wanicelife.com:8880/D12m1968/47632966/28208
 #EXTINF:0 group-title="FR-Canal+",FR101:CANAL+ PREMIER LEAGUE-mxu03.wanicelife.com:8880@D-230727.done
@@ -12886,6 +12910,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/33522
 http://muka03.wanicelife.com:8880/6mm020041/21515718/33522
 #EXTINF:0 group-title="FR-Canal+",PL010:CANAL+ SPORT FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/33522
+#EXTINF:0 group-title="FR-Canal+",PL010:CANAL+ SPORT FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/33522
 #EXTINF:0 group-title="FR-Canal+",PL010:CANAL+ SPORT FHD-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/33522
 #EXTINF:0 group-title="FR-Canal+",PL010:CANAL+ SPORT FHD-mxu03.wanicelife.com:8880@D-230727.done
@@ -12898,6 +12924,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/33521
 http://muka03.wanicelife.com:8880/6mm020041/21515718/33521
 #EXTINF:0 group-title="FR-Canal+",PL011:CANAL+ SPORT 2 FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/33521
+#EXTINF:0 group-title="FR-Canal+",PL011:CANAL+ SPORT 2 FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/33521
 #EXTINF:0 group-title="FR-Canal+",PL011:CANAL+ SPORT 2 FHD-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/33521
 #EXTINF:0 group-title="FR-Canal+",PL011:CANAL+ SPORT 2 FHD-mxu03.wanicelife.com:8880@D-230727.done
@@ -12910,6 +12938,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/33520
 http://muka03.wanicelife.com:8880/6mm020041/21515718/33520
 #EXTINF:0 group-title="FR-Canal+",PL012:CANAL+ SPORT 3 FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/33520
+#EXTINF:0 group-title="FR-Canal+",PL012:CANAL+ SPORT 3 FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/33520
 #EXTINF:0 group-title="FR-Canal+",PL012:CANAL+ SPORT 3 FHD-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/33520
 #EXTINF:0 group-title="FR-Canal+",PL012:CANAL+ SPORT 3 FHD-mxu03.wanicelife.com:8880@D-230727.done
@@ -12922,6 +12952,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/33519
 http://muka03.wanicelife.com:8880/6mm020041/21515718/33519
 #EXTINF:0 group-title="FR-Canal+",PL013:CANAL+ SPORT 4 FHD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/33519
+#EXTINF:0 group-title="FR-Canal+",PL013:CANAL+ SPORT 4 FHD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/33519
 #EXTINF:0 group-title="FR-Canal+",PL013:CANAL+ SPORT 4 FHD-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/33519
 #EXTINF:0 group-title="FR-Canal+",PL013:CANAL+ SPORT 4 FHD-mxu03.wanicelife.com:8880@D-230727.done
@@ -13954,6 +13986,8 @@ http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/71420
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2992
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2992
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2992
 #EXTINF:0 group-title="FR-Eurosport",FR-EUROSPORT 1 HD-airo-server.net:25461@D-230611.done
 http://airo-server.net:25461/19740arc1501/jHfQMDg/655
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 1 HD-alcapone1.com:8080@D-230802.done
@@ -14652,6 +14686,8 @@ http://abmclass.com:8080/buraktahirogullari/AXG3MvA7dV/71421
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2993
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2993
+#EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2993
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-alcapone1.com:8080@D-230802.done
 http://alcapone1.com:8080/Mario/123456/27734
 #EXTINF:0 group-title="FR-Eurosport",FR-Eurosport 2 HD-amazingiptv.life:8080@D-230626.done
@@ -15246,6 +15282,8 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58770
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58770
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230811.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58770
+#EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58770
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-zeintv.xyz:8080@D-230718.done
 http://zeintv.xyz:8080/moha/2020/229022
 #EXTINF:0 group-title="FR-Eurosport",FR- EUROSPORT FRANCE HD-zeintv.xyz:8080@D-230721.done
@@ -17954,6 +17992,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/2796
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2796
 #EXTINF:0 group-title="FR-F1-Foot",FR070:CANAL+ FOOT-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2796
+#EXTINF:0 group-title="FR-F1-Foot",FR070:CANAL+ FOOT-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2796
 #EXTINF:0 group-title="FR-F1-Foot",FR095:CANAL+ F1-kkwa76.wanicelife.com:8880@D-230727.done
 http://kkwa76.wanicelife.com:8880/D12m1968/47632966/28214
 #EXTINF:0 group-title="FR-F1-Foot",FR095:CANAL+ F1-mxu03.wanicelife.com:8880@D-230706.done
@@ -18166,6 +18206,8 @@ http://657648062970444631.of30816.xyz:80/play/hu711008/3pQMtsxP9FH/444631.ts
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/23196
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/23196
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/23196
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-awoxiptv.xyz:8080@D-230806.done
 http://awoxiptv.xyz:8080/toronton260y/BgYaZ64CDbdG/137561
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 FHD-balkanfree.net:25461@D-230722.done
@@ -18572,6 +18614,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27709
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/3047
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3047
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 1 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/3047
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 1 HD-alcapone1.com:8080@D-230802.done
 http://alcapone1.com:8080/Mario/123456/27709
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 1 HD-appfactory.group:8080@D-230620.done
@@ -19448,6 +19492,8 @@ http://a.alcapone1.com:8080/Tommy/123456/27713
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/3048
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3048
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/3048
 #EXTINF:0 group-title="FR-RMC",FR-RMC Sport 2 HD-alcapone1.com:8080@D-230802.done
 http://alcapone1.com:8080/Mario/123456/27713
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 2 HD-amonra.xyz:8080@D-230625.done
@@ -20202,6 +20248,8 @@ http://657648062970506970.of30816.xyz:80/play/hu711008/3pQMtsxP9FH/506970.ts
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/3049
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3049
+#EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/3049
 #EXTINF:0 group-title="FR-RMC",FR-RMC SPORT 3 HD-amonra.xyz:8080@D-230625.done
 http://amonra.xyz:8080/783:memato13223/UnXkSGzqjNC6/26711
 #EXTINF:0 group-title="FR-RMC",FR- RMC Sport 3 HD-appfactory.group:8080@D-230620.done
