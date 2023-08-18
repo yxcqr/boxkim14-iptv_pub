@@ -1,5 +1,5 @@
-#EXTM3U 13516
-#DATE 2023-08-17 19:01
+#EXTM3U 12668
+#DATE 2023-08-17 23:04
 #EXTINF:0 group-title="QC-Fashion",4K Fashion & Style-evolved.host:8080@D-230604.done.NC
 http://evolved.host:8080/lou99/c8DtRWieta/510619
 #EXTINF:0 group-title="QC-Fashion",4K Fashion & Style-evolved.host:8080@D-230616.done.NC
@@ -1940,6 +1940,8 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1073959
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/515
 #EXTINF:0 group-title="QC-Info",CA - FR:LCN-2hubs.ddns.net:25461@D-230709.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61185
+#EXTINF:0 group-title="QC-Info",CA - FR:LCN-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61185
 #EXTINF:0 group-title="QC-Info",CA-FR: LCN-dontuse3.strmz.cc:2082@D-230816.done
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1000440
 #EXTINF:0 group-title="QC-Info",CA-FR  ICI RDI-23.134.94.129:8080@D-230811.done
@@ -3816,6 +3818,8 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1073944
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61183
 #EXTINF:0 group-title="QC-Other",CA - FR:CANAL D-2hubs.ddns.net:25461@D-230811.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61183
+#EXTINF:0 group-title="QC-Other",CA - FR:CANAL D-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61183
 #EXTINF:0 group-title="QC-Other",CA-FR: CGTN FRANCAIS-dontuse3.strmz.cc:2082@D-230816.done
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1084186
 #EXTINF:0 group-title="QC-Other",CA - FR:CINE POP-2hubs.ddns.net:25461@D-230610.done
@@ -3862,6 +3866,8 @@ http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61176
 http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61176
 #EXTINF:0 group-title="QC-Other",CA - FR:MAX-2hubs.ddns.net:25461@D-230806.done
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61176
+#EXTINF:0 group-title="QC-Other",CA - FR:MOI CIE-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61174
 #EXTINF:0 group-title="QC-Other",CA - FR:PRISE-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61173
 #EXTINF:0 group-title="QC-Other",CA - FR:PRISE-2hubs.ddns.net:25461@D-230719.done
@@ -3878,10 +3884,14 @@ http://scorpione.net:25461/Filipe/123456/170359
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61169
 #EXTINF:0 group-title="QC-Other",CA - FR:SERIS-2hubs.ddns.net:25461@D-230806.done
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61169
+#EXTINF:0 group-title="QC-Other",CA - FR:SERIS-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61169
 #EXTINF:0 group-title="QC-Other",CA-FR: TVA Quest-104.243.32.68:25461@D-230607.done
 http://104.243.32.68:25461/unrealKD/p73rmm3dn4/25444
 #EXTINF:0 group-title="QC-Other",CA - FR:VIE-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61164
+#EXTINF:0 group-title="QC-Other",CA - FR:VIE-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61164
 #EXTINF:0 group-title="QC-Other",CA - FR:ZESTE-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61161
 #EXTINF:0 group-title="QC-Other",CA - FR:ZESTE-2hubs.ddns.net:25461@D-230723.done
@@ -5998,6 +6008,8 @@ http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61172
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61172
 #EXTINF:0 group-title="QC-Sport",CA - FR:RDS-2hubs.ddns.net:25461@D-230811.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61172
+#EXTINF:0 group-title="QC-Sport",CA - FR:RDS-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61172
 #EXTINF:0 group-title="QC-Sport",CA-FR:  RDS-almanya505.com:80@D-230806.done
 http://almanya505.com:80/live/urar308/14092021g.s/229310.ts
 #EXTINF:0 group-title="QC-Sport",CA-FR: RDS-dontuse3.strmz.cc:2082@D-230816.done
@@ -6590,6 +6602,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/2992
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2992
 #EXTINF:0 group-title="QC-Sport",CA077:TVA Sports-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2992
+#EXTINF:0 group-title="QC-Sport",CA077:TVA Sports-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2992
 #EXTINF:0 group-title="QC-Sport",CA077:TVA Sports-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/2992
 #EXTINF:0 group-title="QC-Sport",CA077:TVA Sports-mxu03.wanicelife.com:8880@D-230727.done
@@ -6602,6 +6616,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/65933
 http://muka03.wanicelife.com:8880/6mm020041/21515718/65933
 #EXTINF:0 group-title="QC-Sport",CA224:TVA Sports 2-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/65933
+#EXTINF:0 group-title="QC-Sport",CA224:TVA Sports 2-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/65933
 #EXTINF:0 group-title="QC-Sport",CA224:TVA Sports 2-mxu03.wanicelife.com:8880@D-230706.done
 http://mxu03.wanicelife.com:8880/3mms270015/44242642/65933
 #EXTINF:0 group-title="QC-Sport",CA224:TVA Sports 2-mxu03.wanicelife.com:8880@D-230727.done
@@ -7152,6 +7168,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116543
 http://hdtvs.top:80/4298770642/4863498132/116543
 #EXTINF:0 group-title="QC-Sport",CA: TSN1-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266943
+#EXTINF:0 group-title="QC-Sport",CA: TSN1-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266943
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/770
 #EXTINF:0 group-title="QC-Sport",CA: TSN 1-iptvmedia.live:8080@D-230507.done
@@ -7632,6 +7650,8 @@ http://hdtvs.top:80/7/7/116544
 http://hdtvs.top:80/5639489798/9496985381/116544
 #EXTINF:0 group-title="QC-Sport",CA: TSN2-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266942
+#EXTINF:0 group-title="QC-Sport",CA: TSN2-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266942
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/771
 #EXTINF:0 group-title="QC-Sport",CA: TSN 2-iptvmedia.live:8080@D-230507.done
@@ -8086,6 +8106,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116545
 http://hdtvs.top:80/4298770642/4863498132/116545
 #EXTINF:0 group-title="QC-Sport",CA: TSN3-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266941
+#EXTINF:0 group-title="QC-Sport",CA: TSN3-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266941
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/772
 #EXTINF:0 group-title="QC-Sport",CA: TSN 3-iptvmedia.live:8080@D-230507.done
@@ -8536,6 +8558,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116546
 http://hdtvs.top:80/4298770642/4863498132/116546
 #EXTINF:0 group-title="QC-Sport",CA: TSN4-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266940
+#EXTINF:0 group-title="QC-Sport",CA: TSN4-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266940
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/773
 #EXTINF:0 group-title="QC-Sport",CA: TSN 4-iptvmedia.live:8080@D-230507.done
@@ -9016,6 +9040,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116547
 http://hdtvs.top:80/4298770642/4863498132/116547
 #EXTINF:0 group-title="QC-Sport",CA: TSN5-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266939
+#EXTINF:0 group-title="QC-Sport",CA: TSN5-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266939
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-iptvmedia.live:8080@D-230417.done
 http://iptvmedia.live:8080/cipo/TAd9YX7VLaxhjxXt/774
 #EXTINF:0 group-title="QC-Sport",CA: TSN 5-iptvmedia.live:8080@D-230507.done
@@ -12434,12 +12460,16 @@ http://fortv.cc:8080/225588/225588/66366
 http://ncw.one:80/1q9qz8a3tx/xjzw5wnbh2/159504
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 1  HD-2hubs.ddns.net:25461@D-230623.done
 http://2hubs.ddns.net:25461/iptvsib/ySw1U6fRq0/61123
+#EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 1  HD-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61123
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 2 HD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61122
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 2 HD-2hubs.ddns.net:25461@D-230806.done
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61122
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 2 HD-2hubs.ddns.net:25461@D-230811.done
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/61122
+#EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 2 HD-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/61122
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 3 HD-2hubs.ddns.net:25461@D-230610.done
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61121
 #EXTINF:0 group-title="QC-Super Ecran",CA - CRAVE 3 HD-2hubs.ddns.net:25461@D-230610.done
@@ -12632,6 +12662,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/3064
 http://muka03.wanicelife.com:8880/6mm020041/21515718/3064
 #EXTINF:0 group-title="QC-Super Ecran",CA005:TMN1E (CRAVE TV 1)-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/3064
+#EXTINF:0 group-title="QC-Super Ecran",CA005:TMN1E (CRAVE TV 1)-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/3064
 #EXTINF:0 group-title="QC-Super Ecran",CA169:TMN2E (CRAVE TV 2)-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/1mmk040107/48552422/30145
 #EXTINF:0 group-title="QC-Super Ecran",CA169:TMN2E (CRAVE TV 2)-ae2.aatvbox.club:8880@D-230510.done
@@ -12644,6 +12676,8 @@ http://muka03.wanicelife.com:8880/6mm020041/21515718/30145
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/30145
 #EXTINF:0 group-title="QC-Super Ecran",CA169:TMN2E (CRAVE TV 2)-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30145
+#EXTINF:0 group-title="QC-Super Ecran",CA169:TMN2E (CRAVE TV 2)-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30145
 #EXTINF:0 group-title="QC-Super Ecran",CA170:TMN3E (CRAVE TV 3)-muka03.wanicelife.com:8880@D-230518.done
 http://muka03.wanicelife.com:8880/WbwDkcKRZY/cnEjVkdqLu/30144
 #EXTINF:0 group-title="QC-Super Ecran",CA170:TMN3E (CRAVE TV 3)-muka03.wanicelife.com:8880@D-230815.done
@@ -12652,6 +12686,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30144
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30144
 #EXTINF:0 group-title="QC-Super Ecran",CA170:TMN3E (CRAVE TV 3)-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30144
+#EXTINF:0 group-title="QC-Super Ecran",CA170:TMN3E (CRAVE TV 3)-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30144
 #EXTINF:0 group-title="QC-Super Ecran",CA171:TMN4E (CRAVE TV 4)-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/3mm230039/79795275/30143
 #EXTINF:0 group-title="QC-Super Ecran",CA171:TMN4E (CRAVE TV 4)-ae2.aatvbox.club:8880@D-230510.done
@@ -12668,6 +12704,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30143
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30143
 #EXTINF:0 group-title="QC-Super Ecran",CA171:TMN4E (CRAVE TV 4)-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30143
+#EXTINF:0 group-title="QC-Super Ecran",CA171:TMN4E (CRAVE TV 4)-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30143
 #EXTINF:0 group-title="QC-Super Ecran",CA189:SUPER ECRAN 1-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/1mmk040107/48552422/30125
 #EXTINF:0 group-title="QC-Super Ecran",CA189:SUPER ECRAN 1-ae2.aatvbox.club:8880@D-230510.done
@@ -12688,6 +12726,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30125
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30125
 #EXTINF:0 group-title="QC-Super Ecran",CA189:SUPER ECRAN 1-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30125
+#EXTINF:0 group-title="QC-Super Ecran",CA189:SUPER ECRAN 1-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30125
 #EXTINF:0 group-title="QC-Super Ecran",CA190:SUPER ECRAN 2-kkimco03.oknirvana.club:8880@D-230418.done
 http://kkimco03.oknirvana.club:8880/6mk020059/14679818/30124
 #EXTINF:0 group-title="QC-Super Ecran",CA190:SUPER ECRAN 2-mk04sp14.oknirvana.club:8880@D-230501.done
@@ -12700,6 +12740,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30124
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30124
 #EXTINF:0 group-title="QC-Super Ecran",CA190:SUPER ECRAN 2-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30124
+#EXTINF:0 group-title="QC-Super Ecran",CA190:SUPER ECRAN 2-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30124
 #EXTINF:0 group-title="QC-Super Ecran",CA191:SUPER ECRAN 3-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/6ms210011/88738116/30123
 #EXTINF:0 group-title="QC-Super Ecran",CA191:SUPER ECRAN 3-ae2.aatvbox.club:8880@D-230510.done
@@ -12712,6 +12754,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30123
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30123
 #EXTINF:0 group-title="QC-Super Ecran",CA191:SUPER ECRAN 3-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30123
+#EXTINF:0 group-title="QC-Super Ecran",CA191:SUPER ECRAN 3-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30123
 #EXTINF:0 group-title="QC-Super Ecran",CA192:SUPER ECRAN 4-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/6ms210011/88738116/30122
 #EXTINF:0 group-title="QC-Super Ecran",CA192:SUPER ECRAN 4-muka03.wanicelife.com:8880@D-230518.done
@@ -12722,6 +12766,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30122
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30122
 #EXTINF:0 group-title="QC-Super Ecran",CA192:SUPER ECRAN 4-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30122
+#EXTINF:0 group-title="QC-Super Ecran",CA192:SUPER ECRAN 4-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30122
 #EXTINF:0 group-title="QC-Super Ecran",CA:Crave-1-HD-u-on.se:2095@D-230816.done
 http://u-on.se:2095/yahia/123466/100443
 #EXTINF:0 group-title="QC-Super Ecran",CA:Crave-2-HD-u-on.se:2095@D-230816.done
@@ -12812,6 +12858,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116587
 http://hdtvs.top:80/4298770642/4863498132/116587
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE1-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266899
+#EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE1-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266899
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 1-iptvmedia.live:8080@D-230817.done
 http://iptvmedia.live:8080/F30140/f3de2280/13244
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 1-iptvtree.net:8080@D-230811.done
@@ -13156,6 +13204,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116588
 http://hdtvs.top:80/4298770642/4863498132/116588
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE2-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266898
+#EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE2-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266898
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 2-iptvmedia.live:8080@D-230817.done
 http://iptvmedia.live:8080/F30140/f3de2280/13245
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 2-iptvtree.net:8080@D-230811.done
@@ -13502,6 +13552,8 @@ http://hdtvs.top:80/4298770642/4863498132/116589
 http://hdtvs.top:80/7/7/116589
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE3-hdtvs.top:80@D-230815.done
 http://hdtvs.top:80/5639489798/9496985381/116589
+#EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE3-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266897
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 3-iptvmedia.live:8080@D-230817.done
 http://iptvmedia.live:8080/F30140/f3de2280/9283
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 3-iptvtree.net:8080@D-230811.done
@@ -13790,6 +13842,8 @@ http://hdtvs.top:80/Amandasilva22/Amandasilva/116590
 http://hdtvs.top:80/4298770642/4863498132/116590
 #EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE4-infraz.top:80@D-230811.done
 http://infraz.top:80/0656511133/9068630789/266896
+#EXTINF:0 group-title="QC-Super Ecran",CA: CRAVE4-infraz.top:80@D-230817.done
+http://infraz.top:80/ksx0vec5/dc83nznr/266896
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 4-iptvmedia.live:8080@D-230817.done
 http://iptvmedia.live:8080/F30140/f3de2280/13246
 #EXTINF:0 group-title="QC-Super Ecran",CA: Crave 4-iptvtree.net:8080@D-230811.done
@@ -16090,6 +16144,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/30877
 http://muka03.wanicelife.com:8880/6mm020041/21515718/30877
 #EXTINF:0 group-title="QC-Super Ecran",CHE012:ROUGE TV-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/30877
+#EXTINF:0 group-title="QC-Super Ecran",CHE012:ROUGE TV-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/30877
 #EXTINF:0 group-title="QC-Super Ecran",CH  ROUGE TV-apontv.pm:80@D-230816.done
 http://apontv.pm:80/231898749678226/1593574628/3532
 #EXTINF:0 group-title="QC-Super Ecran",CH ROUGE TV HD-obsfullhd.tv:25461@D-230803.done
@@ -18322,6 +18378,8 @@ http://sansat.org:25461/02029487602778/de3986bb25e24a34/222457
 http://vodkom.net:25461/FXJBXK9OCHJPRRA/QOJMTBGZP2J8S5O/222457
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 1 HD-135852887597544323.of30816.xyz:80@D-230817.done
 http://135852887597544323.of30816.xyz:80/play/mi0203621/8bFHwxhU9gs/544323.ts
+#EXTINF:0 group-title="QC-Super Ecran",FR- A LA CARTE 1 HD-2hubs.ddns.net:25461@D-230817.done
+http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/58742
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 1 HD-41085888778544323.of30816.xyz:80@D-230817.done
 http://41085888778544323.of30816.xyz:80/play/mi0203621/8bFHwxhU9gs/544323.ts
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 1 HD-657648062970544323.of30816.xyz:80@D-230816.done
@@ -18396,6 +18454,8 @@ http://7go.xyz:8080/zy6uw888/9btns6en/306720
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2928
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 1 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2928
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 1 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2928
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 1 HD-appfactory.group:8080@D-230508.done
 http://appfactory.group:8080/qCgDwQzqjh/5oYshpPqtb/1979
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 1 HD-appfactory.group:8080@D-230812.done
@@ -18568,6 +18628,8 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/232
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2929
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 2-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2929
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 2-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2929
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 2-aflaxtv.xyz:8080@D-230709.done
 http://aflaxtv.xyz:8080/adastream/J2DVrYWnpTu3Sk4W/232
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 2-aflaxtv.xyz:8080@D-230709.done
@@ -19268,6 +19330,8 @@ http://7go.xyz:8080/AndreVicenteNovato/usa98recdn/306722
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2930
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 3 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2930
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 3 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2930
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 3 HD-appfactory.group:8080@D-230508.done
 http://appfactory.group:8080/qCgDwQzqjh/5oYshpPqtb/1981
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 3 HD-appfactory.group:8080@D-230812.done
@@ -19554,6 +19618,8 @@ http://657648062970313118.of30816.xyz:80/play/hu711008/3pQMtsxP9FH/313118.ts
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2931
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 4 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2931
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 4 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2931
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 4 HD-bigbossman.club:80@D-230815.done
 http://bigbossman.club:80/jZmaZAWQ/P6ypG5qZn9/283542
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 4 HD-digihoster224.access.ly:8080@D-230816.done
@@ -19922,6 +19988,8 @@ http://7go.xyz:8080/zy6uw888/9btns6en/306723
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2932
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 5 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2932
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 5 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2932
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 5 HD-appfactory.group:8080@D-230508.done
 http://appfactory.group:8080/qCgDwQzqjh/5oYshpPqtb/1982
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 5 HD-appfactory.group:8080@D-230812.done
@@ -20310,6 +20378,8 @@ http://7go.xyz:8080/AndreVicenteNovato/usa98recdn/306724
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2933
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 6 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2933
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 6 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2933
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 6 HD-appfactory.group:8080@D-230508.done
 http://appfactory.group:8080/qCgDwQzqjh/5oYshpPqtb/1983
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 6 HD-appfactory.group:8080@D-230812.done
@@ -20676,6 +20746,8 @@ http://657648062970313121.of30816.xyz:80/play/hu711008/3pQMtsxP9FH/313121.ts
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2934
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 7 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2934
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 7 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2934
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 7 HD-appfactory.group:8080@D-230508.done
 http://appfactory.group:8080/qCgDwQzqjh/5oYshpPqtb/1984
 #EXTINF:0 group-title="QC-Super Ecran",FR- A La Carte 7 HD-appfactory.group:8080@D-230812.done
@@ -20996,6 +21068,8 @@ http://657648062970313122.of30816.xyz:80/play/hu711008/3pQMtsxP9FH/313122.ts
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2935
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 8 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2935
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 8 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2935
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 8 HD-bigbossman.club:80@D-230815.done
 http://bigbossman.club:80/jZmaZAWQ/P6ypG5qZn9/283538
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 8 HD-ctvu.me:80@D-230811.done
@@ -21318,6 +21392,8 @@ http://657648062970313123.of30816.xyz:80/play/hu711008/3pQMtsxP9FH/313123.ts
 http://aca3b.tk:8080/Hanks/GpxrLgenhR/2936
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 9 HD-aca3b.tk:8080@D-230815.done
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2936
+#EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 9 HD-aca3b.tk:8080@D-230817.done
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/2936
 #EXTINF:0 group-title="QC-Super Ecran",FR-A La Carte 9 HD-bigbossman.club:80@D-230815.done
 http://bigbossman.club:80/jZmaZAWQ/P6ypG5qZn9/283537
 #EXTINF:0 group-title="QC-Super Ecran",FR-A LA CARTE 9 HD-ctvu.me:80@D-230811.done
@@ -21930,72 +22006,96 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/2863
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2863
 #EXTINF:0 group-title="QC-Super Ecran",FR003:A LA CARTE 1 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2863
+#EXTINF:0 group-title="QC-Super Ecran",FR003:A LA CARTE 1 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2863
 #EXTINF:0 group-title="QC-Super Ecran",FR004:A LA CARTE 2 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2862
 #EXTINF:0 group-title="QC-Super Ecran",FR004:A LA CARTE 2 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2862
 #EXTINF:0 group-title="QC-Super Ecran",FR004:A LA CARTE 2 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2862
+#EXTINF:0 group-title="QC-Super Ecran",FR004:A LA CARTE 2 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2862
 #EXTINF:0 group-title="QC-Super Ecran",FR005:A LA CARTE 3 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2861
 #EXTINF:0 group-title="QC-Super Ecran",FR005:A LA CARTE 3 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2861
 #EXTINF:0 group-title="QC-Super Ecran",FR005:A LA CARTE 3 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2861
+#EXTINF:0 group-title="QC-Super Ecran",FR005:A LA CARTE 3 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2861
 #EXTINF:0 group-title="QC-Super Ecran",FR006:A LA CARTE 4 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2860
 #EXTINF:0 group-title="QC-Super Ecran",FR006:A LA CARTE 4 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2860
 #EXTINF:0 group-title="QC-Super Ecran",FR006:A LA CARTE 4 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2860
+#EXTINF:0 group-title="QC-Super Ecran",FR006:A LA CARTE 4 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2860
 #EXTINF:0 group-title="QC-Super Ecran",FR007:A LA CARTE 5 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2859
 #EXTINF:0 group-title="QC-Super Ecran",FR007:A LA CARTE 5 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2859
 #EXTINF:0 group-title="QC-Super Ecran",FR007:A LA CARTE 5 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2859
+#EXTINF:0 group-title="QC-Super Ecran",FR007:A LA CARTE 5 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2859
 #EXTINF:0 group-title="QC-Super Ecran",FR008:A LA CARTE 6 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2858
 #EXTINF:0 group-title="QC-Super Ecran",FR008:A LA CARTE 6 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2858
 #EXTINF:0 group-title="QC-Super Ecran",FR008:A LA CARTE 6 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2858
+#EXTINF:0 group-title="QC-Super Ecran",FR008:A LA CARTE 6 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2858
 #EXTINF:0 group-title="QC-Super Ecran",FR009:A LA CARTE 7 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2857
 #EXTINF:0 group-title="QC-Super Ecran",FR009:A LA CARTE 7 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2857
 #EXTINF:0 group-title="QC-Super Ecran",FR009:A LA CARTE 7 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2857
+#EXTINF:0 group-title="QC-Super Ecran",FR009:A LA CARTE 7 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2857
 #EXTINF:0 group-title="QC-Super Ecran",FR010:A LA CARTE 8 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2856
 #EXTINF:0 group-title="QC-Super Ecran",FR010:A LA CARTE 8 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2856
 #EXTINF:0 group-title="QC-Super Ecran",FR010:A LA CARTE 8 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2856
+#EXTINF:0 group-title="QC-Super Ecran",FR010:A LA CARTE 8 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2856
 #EXTINF:0 group-title="QC-Super Ecran",FR011:A LA CARTE 9 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2855
 #EXTINF:0 group-title="QC-Super Ecran",FR011:A LA CARTE 9 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2855
 #EXTINF:0 group-title="QC-Super Ecran",FR011:A LA CARTE 9 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2855
+#EXTINF:0 group-title="QC-Super Ecran",FR011:A LA CARTE 9 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2855
 #EXTINF:0 group-title="QC-Super Ecran",FR012:A LA CARTE 10 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2854
 #EXTINF:0 group-title="QC-Super Ecran",FR012:A LA CARTE 10 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2854
 #EXTINF:0 group-title="QC-Super Ecran",FR012:A LA CARTE 10 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2854
+#EXTINF:0 group-title="QC-Super Ecran",FR012:A LA CARTE 10 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2854
 #EXTINF:0 group-title="QC-Super Ecran",FR013:A LA CARTE 13 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/2853
 #EXTINF:0 group-title="QC-Super Ecran",FR013:A LA CARTE 13 HD-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/2853
 #EXTINF:0 group-title="QC-Super Ecran",FR013:A LA CARTE 13 HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/2853
+#EXTINF:0 group-title="QC-Super Ecran",FR013:A LA CARTE 13 HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/2853
 #EXTINF:0 group-title="QC-Super Ecran",FR181:ROUGE TV-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mmk100036/14136366/28121
 #EXTINF:0 group-title="QC-Super Ecran",FR181:ROUGE TV-muka03.wanicelife.com:8880@D-230815.done
 http://muka03.wanicelife.com:8880/6mm020041/21515718/28121
 #EXTINF:0 group-title="QC-Super Ecran",FR181:ROUGE TV-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/28121
+#EXTINF:0 group-title="QC-Super Ecran",FR181:ROUGE TV-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/28121
 #EXTINF:0 group-title="QC-Super Ecran",FR182:A LA CARTE 1-ae2.aatvbox.club:8880@D-230510.done
 http://ae2.aatvbox.club:8880/1mmk040107/48552422/28127
 #EXTINF:0 group-title="QC-Super Ecran",FR182:A LA CARTE 1-ae2.aatvbox.club:8880@D-230510.done
@@ -22736,6 +22836,8 @@ http://muka03.wanicelife.com:8880/6mmk100036/14136366/60130
 http://muka03.wanicelife.com:8880/6mm020041/21515718/60130
 #EXTINF:0 group-title="QC-Super Ecran",US828:LOGO HD-muka03.wanicelife.com:8880@D-230816.done
 http://muka03.wanicelife.com:8880/6m280016/36211936/60130
+#EXTINF:0 group-title="QC-Super Ecran",US828:LOGO HD-muka03.wanicelife.com:8880@D-230817.done
+http://muka03.wanicelife.com:8880/29us01163n02/asdfed32/60130
 #EXTINF:0 group-title="QC-Super Ecran",USA**:LOGO-premiumultra.xyz:8080@D-230730.done
 http://premiumultra.xyz:8080/dpozo/Dpozo.1234/35240
 #EXTINF:0 group-title="QC-Super Ecran",USA**:LOGO-premiumultra.xyz:8080@D-230803.done
@@ -22804,6 +22906,8 @@ http://pro.enkalite.xyz:8080/TolgaKagnici01489/sxdzZVnHNzDF/270199
 http://c.strzzi.site:80/samueljhay/83862640/2974998
 #EXTINF:0 group-title="QC-Super Ecran",USA: Logo FHD-c.strzzi.site:80@D-230815.done
 http://c.strzzi.site:80/mc1305/senha21/2974998
+#EXTINF:0 group-title="QC-Super Ecran",USA: Logo FHD-c.strzzi.site:80@D-230817.done
+http://c.strzzi.site:80/gabriel/102030/2974998
 #EXTINF:0 group-title="QC-Super Ecran",USA: Logo FHD-listas23.ddns.net:9966@D-230816.done
 http://listas23.ddns.net:9966/oro484/431zaedscx/67061
 #EXTINF:0 group-title="QC-Super Ecran",USA: Logo FHD-listas23.ddns.net:9966@D-230816.done
